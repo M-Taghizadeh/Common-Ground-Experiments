@@ -1,0 +1,1296 @@
+,Sentence,Eno.,Event,Bel(A),Bel(B),CG(A),CG(B)
+0,"A: %um but although they solicit, they’re trying to solicit more throughout the, throughout the globe instead of just &Japan ",1.1,"Although the company solicits, the company is trying to solicit more throughout the globe instead of just Japan",1,1,1,1
+1,None,1.2,The company solicits,1,1,2,2
+2,None,1.3,The company is trying to solicit more throughout the globe instead of just Japan,1,1,1,1
+3,A: although they’ve had most interest in &Japan.  ,3.0,The company have had most interest in Japan,1,1,1,1
+4,A: And I teach probably two classes and then do administrative work to make connections for these people to have tours ,5.1,A teaches two classes,1,1,1,1
+5,None,5.2,A does administrative work to make connections for the company representatives to have tours,1,1,1,1
+6,None,5.3,A does administrative work,1,1,1,1
+7,None,5.4,A makes connections for the company representative to have tours,1,1,1,1
+8,A: or to go look at companies dealing with certain issues that they’re working on in their classes. {breath} Half of their classes are business half are English Eng- English business ,6.1,A does administrative work to go look at companies dealing with certain issues that A's students are working on in A's students classes,1,1,1,1
+9,None,6.2,A looks at companies dealing with certain issues that A's students are working on in A's students classes,1,1,1,1
+10,None,6.3,A's students are working on certain issues in A's students classes,1,1,1,1
+11,None,6.4,Half of A's students classes are business half English,1,1,1,1
+12,A: So it’s really groovy because I ((mean)) I have all these contacts for them because of my experience in the business world here.  ,12.1,A does administrative work to make connections for the company representatives to have tours and A does administrative work to go look at companies dealing with certain issues that A's students are working on in A's students classes are really groovy because A has all these contact for them because of A's experience in the business world here,1,1,1,1
+13,None,12.2,A does administrative work to make connections for the company representatives to have tours and A does administrative work to go look at companies dealing with certain issues that A's students are working on in A's students classes are really groovy,1,1,1,1
+14,None,12.3,A has all these contact for them because of A's experience in the business world here,1,1,1,1
+15,None,12.4,A has experience in the business world here,1,1,2,2
+16,A: And you know and I do a little teaching for them too.  ,14.0,A does a little teaching for A's students too,1,1,1,1
+17,B: okay. What classes did you teach at (( )) that would be related? ,15.1,B asks A what classes B taught that would be related,1,1,1,1
+18,None,15.2,B taught classes that would be related,1,1,2,2
+19,A: I taught business English.  ,17.0,A taught business English,1,1,1,1
+20,A: I taught listening. I taught integrated skills and g- beginning grammar.  ,19.1,A taught listening,1,1,1,1
+21,None,19.2,A taught integrated skills and beginning grammar,1,1,1,1
+22,B: mhm. I’m just writing this down so I ,21.0,B is writing down what A is teaching,1,1,1,1
+23,A: You don’t have to tell them about (( )) or anything. {breath} oh weird.  ,23.0,B does not have to tell them (?) about what A is teaching or anything,1,1,1,1
+24,"A: I had a dream this morning about, ",27.0,A had a dream this morning,1,1,1,1
+25,A: it’s weird. I don’t know if you were in it. I think you were.  ,28.1,A's dream is weird,1,1,1,1
+26,None,28.2,A doesn't  know if B was in A's dream,1,1,1,1
+27,None,28.3,B was in A's dream,3,3,1,1
+28,None,28.4,A thinks that B was in A's dream,1,1,1,1
+29,A: But &Barry was definitely in it.  ,30.0,Barry was definitely in A's dream,1,1,1,1
+30,A: I don’t know. We were trying to get somewhere and we had to jump in this water but she wouldn’t let go of me when we got in the water and I woke up because I start drowning. {laugh} ,33.1,"In A's dream, Barry and A were trying to get somewhere",1,1,1,1
+31,None,33.2,"In A's dream, Barry and A had to jump in this water but Barry would not let go of A when Barry and A got in the water",1,1,1,1
+32,None,33.3,"In A's dream, Barry and A had to jump in this water",1,1,1,1
+33,None,33.4,"In A's dream, Barry would not let go of A when Barry and A got in the water",1,1,1,1
+34,None,33.5,"In A's dream, Barry would not let go of A",1,1,1,1
+35,None,33.6,"In A's dream, Barry and A got in the water",1,1,1,1
+36,None,33.7,A woke up because A started drowning in A's dream,1,1,1,1
+37,None,33.8,A woke up,1,1,1,1
+38,None,33.9,A started drowning in A's dream,1,1,1,1
+39,A: {breath} I don’t know what that means. I got a postcard from her too the other day ,35.1,A doesn't know what A's dream mean,1,1,1,1
+40,None,35.2,A's dream means something,1,1,2,2
+41,None,35.3,A got a postcard from Barry too the other day,1,1,1,1
+42,B: yeah. That’s a scary dream.  ,37.0,A's dream is scary,1,1,1,1
+43,A: It was pretty scary.  ,38.0,A's dream was pretty scary,1,1,1,1
+44,A: [channel noise] I don’t know it was kind of one of those frustrating type dreams.  ,40.0,A's dream was kind of one of those frustrating type dreams,1,1,1,1
+45,"B: %eh w- listen. Was it difficult coming back, going back to the &U &S? ",41.1,B asks A if going back to the US was difficult,1,1,1,1
+46,None,41.2,Going back to the US was difficult,1,4,0,0
+47,A: yeah.  ,42.0,A says yeah.  ,0,1,1,1
+48,A: It was harder than I thought it would be actually.  ,44.1,Going back to the US was harder than A thought going back to the US would be actually,1,1,1,1
+49,None,44.2,A thought going back to the US would be hard,1,1,1,1
+50,None,44.3,Going back to the US was hard for A,1,1,1,1
+51,A: I wasn’t used to the pace ,48.1,Going back to the US was hard for A because A was not used to the pace,1,1,1,1
+52,None,48.2,A was not used to the pace,1,1,1,1
+53,A: you know the pace is totally different.  ,51.0,The pace in Poland is totally different,1,1,1,1
+54,A: I didn’t really want to see anybody for a while.  ,55.0,A didn’t really want to see anybody for a while,1,1,1,1
+55,"A: And I d-, and I didn’t, which was fine.  ",56.1,A didn't see anybody for a while,1,1,1,1
+56,None,56.2,A not seeing anybody for a while was fine,1,1,1,1
+57,A: %um from &Poland because it was all my support system. Coming here w- the only person that really knew and understood my circumstances was &Tom.  ,58.1,A really missed people from Poland because those people were all A's support system,1,1,1,1
+58,None,58.2,A really missed people from Poland,1,1,1,1
+59,None,58.3,People from Poland were all A's support system,1,1,1,1
+60,None,58.4,The only person that really knew and understood A's circumstances in the US was Tom,1,1,1,1
+61,A: And so that was really tough because that was a lot of pressure on both of us ((coming coming)) with him again and all of that.  ,60.1,Tom being the only person that understands A's circumstances was really tough because Tom being the only person that understands A's circumstances was a lot of pressure on both A and Tom,1,1,1,1
+62,None,60.2,Tom being the only person that understands A's circumstances was really tough,1,1,1,1
+63,None,60.3,Tom being the only person that understands A's circumstances was a lot of pressure on both A and Tom,1,1,1,1
+64,A: %uh &Blimpie’s scared me.  ,64.0,Blimpie's scared A while readjusting to Americanisms,1,1,1,1
+65,A: &Blimpie’s is the sandwich place (( )) {laugh} ,65.0,Blimpie's is the sandwich place,1,1,1,2
+66,B: {laugh} I know. I know. {laugh} {breath} oh that’s pretty funny.  ,66.1,B knows that Blimpie's is the sandwich place,1,1,1,1
+67,None,66.2,Blimpie's scarrying A is pretty funny,1,1,1,1
+68,A: We went in there and it was so yellow.  ,67.1,A and Tom went to Blimpie's,1,1,1,1
+69,None,67.2,Blimpie's was so yellow,1,1,1,1
+70,A: It was just so yellow and they wanted to help so bad.  ,68.0,Blimpie's staff wanted to help so bad,1,1,1,1
+71,B: I just went back and I decided people are a bit too cheery in the &U &S.  ,74.1,B just went back,1,1,1,1
+72,None,74.2,B decided people are a bit too cheery in the US,1,1,1,1
+73,None,74.3,People are a bit too cheery in the US,1,1,1,1
+74,A: oh yeah. oh yeah. And see that wanting to help you so bad just freaked me out.  ,75.0,Americans wanting to help one so bad just freaked A out,1,1,1,1
+75,"B: like, I, I just like ran into stores and ran out because ",78.0,B just like ran into stores and ran out,1,1,1,1
+76,B: I’d go on the weekdays when nobody you know because I’m ,80.1,B would go to the stores on the weeksys when nobody is in the stores,1,1,1,1
+77,None,80.2,B would go to the stores on the weekdays,1,1,1,1
+78,None,80.3,Nobody is in the stores on the weekdays,1,1,1,1
+79,B: you know I had time off and %um ,82.0,B had time off,1,1,2,2
+80,B: I’d walk in there and like five people would say hello to me. I’d be just like leave me alone [[whispered]] {laugh}.  ,84.1,B would walk into the stores,1,1,1,1
+81,None,84.2,Five people would say hello to B,1,1,1,1
+82,None,84.3,B would be just like leave B alone,1,1,1,1
+83,B: It’s just very hard. I talked to &Kristen though when I was home.  ,87.1,Readjusting to Americanisms is just very hard,1,1,1,1
+84,None,87.2,B talked to Kristen though when B was home,1,1,1,1
+85,None,87.3,B talked to Kristen,3,1,1,1
+86,None,87.4,B was at home,1,1,2,2
+87,A: yeah? ,88.0,A asks B if B talked to Kristen,1,1,1,1
+88,B: yeah. She seems to be doing well. She’s working ,89.1,Kristen seems to be doing well,1,1,1,1
+89,None,89.2,Kristen is working,1,1,1,1
+90,B: [channel noise] which is good and she’s got her %um she’s healthy again.  ,90.1,Kristen working is good,1,1,1,1
+91,None,90.2,Kristen is healthy again,1,1,1,1
+92,A: I’d like to be healthy again.  ,93.1,A would like to be healthy again,1,1,1,1
+93,None,93.2,A is not healthy,1,1,2,2
+94,B: yeah. I hope ,94.0,B hopes A is healthy again,1,1,1,1
+95,A: you know I was going to tell you this thing that I got. &Tom found this for me about this freebie experiment thing where you can do this and you can talk.  ,96.1,A was going to tell B this thing that A got,1,1,1,1
+96,None,96.2,A told B this thing that A got,2,2,3,3
+97,None,96.3,A got this thing,1,1,1,1
+98,None,96.4,Tom found this for A about this freebie experiment thing where one can do this and one can talk,1,1,1,1
+99,None,96.5,Tom found this freebie experiment for A,1,1,1,1
+100,None,96.6,One can do this freebie experiment,1,1,1,1
+101,None,96.7,One can talk,1,1,1,1
+102,"A: And it was funny because he handed it to me and I was really confused and I said well, ",100.1,Tom finding this freebie experiment thing was funny,1,1,1,1
+103,None,100.2,Tom handed this freebie experiment to A,1,1,1,1
+104,None,100.3,A was really confused,1,1,1,1
+105,"A: well is this somebody that contacted you on your email or what? He goes no I told you about this last week blah, blah, blah.  ",101.1,A asked Tom if somebody contacted Tom on Tom's email about this freebie experiment thing,1,1,1,1
+106,None,101.2,Somebody contacted Tom on Tom's email about this freebie experiment thing,2,4,0,0
+107,None,101.3,Nobody contacted Tom on Tom's email about this freebie experiment thing,1,1,1,1
+108,None,101.4,Tom told A about this freebie experiment thing,1,1,1,1
+109,A: {breath} I’m looking at it {breath} because it had this guy and it  ,102.1,A was looking at the email because the email had this guy,1,1,1,1
+110,None,102.2,A was looking at the email,1,1,1,1
+111,None,102.3,The email had this guy,1,1,1,1
+112,"A: and his name wa-, his name is &Mark &Zalin-, Ya-, no, &Yalinsky. {breath} And it said, and it was ",103.0,The name of the guy in the email was Mark Yalinsky,1,1,1,1
+113,A: and it was his email thing and it said U N I <Polish Lodz> &Poland.  ,104.0,"The email from Mark Yalinksky said ""you and I, Lodz, Poland""",1,1,1,1
+114,B: ((You told me)).  ,105.0,A told B about the email from Mark Yalinsky,1,1,1,1
+115,A: And it was a &Playboy joke on this thing. It was done as an example of what we do. [[last four words spoken with a laugh]] ,107.1,The email from Mark Yalinsky was a Playboy joke,1,1,1,1
+116,None,107.2,The playboy joke was done as an example of what A and someone else do,1,1,1,1
+117,A: {breath} And it was from <Polish Lodz>. And I’m like did somebody try to get a hold of you and he goes no.  ,109.1,The email from Mark Yalinsky was from Lodz,1,1,1,1
+118,None,109.2,A asked Tom if somebody tried to get hold of Tom,1,1,1,1
+119,None,109.3,Somebody tried to get hold of Tom,2,2,3,3
+120,None,109.4,Nobody tried to get hold of Tom,1,1,1,1
+121,"A: I go well there’s this thing. I said look at this and it sa-, and it you know is all in code.  ",110.1,A said that there is this thing,1,1,1,1
+122,None,110.2,A told Tom to look at the email from Mark Yalinsky,1,1,1,1
+123,None,110.3,Tom looked at the email from Mark Yalinsky,1,1,1,1
+124,None,110.4,The email from Mark Yalinsky was all in code,1,1,1,1
+125,A: And he goes ooh weird. He goes I didn’t do that. {laugh} ,112.1,Tom said that the email from Mark Yalinsky with all the code was weird,1,1,1,1
+126,None,112.2,Tom said that Tom didn't write the email,1,1,1,1
+127,None,112.3,Tom didn't write the email,1,1,1,1
+128,B: {laugh} That’s really funny.  ,113.0,The email from Mark Yalinsky was really funny,1,1,1,1
+129,A: yeah. And now are you not smoking? ,117.1,A asks B if B is now not smoking,1,1,1,1
+130,None,117.2,B is now not smoking,4,2,0,0
+131,B: No. I am smoking.  ,118.0,B is smoking,1,1,1,1
+132,A: yeah. Well I did a few when I’ve been back too.  ,119.1,A did a few cigarettes when B has been back too,1,1,1,1
+133,None,119.2,B did a few cigarettes,1,1,1,1
+134,None,119.3,B is back,1,1,2,2
+135,B: yeah. I’ve been smoking big time. It’s been a rough couple months.  ,120.1,B has been smoking big time,1,1,1,1
+136,None,120.2,It's been a rough couple months,1,1,1,1
+137,B: Well yeah it’s been [distortion] really [/distortion] busy.  ,122.0,The last couple of months have been really busy,1,1,1,1
+138,A: The kid sister thing? ,123.1,A asks B if B was busy with the kid sister thing,1,0,0,0
+139,None,123.2,B was busy with the kid sister thing,4,0,0,0
+140,A: The kid sister thing? ,125.0,A says The kid sister thing? ,1,1,1,1
+141,B: Well no. Not really that but it’s been really busy as far as work is concerned.  ,126.1,B was not busy with the kid sister thing,2,1,3,3
+142,None,126.2,B has been really busy with work,1,1,1,1
+143,B: You know? Now things are just like kind of mellow and I’m just n- you know wrapping things up so it’s not that bad.  ,128.1,Now things are like kind of mellow,1,1,1,1
+144,None,128.2,B is just wrapping things up so B' situation is not that bad,1,1,1,1
+145,None,128.3,B is just wrapping things up,1,1,1,1
+146,None,128.4,B's situation is not that bad,1,1,1,1
+147,B: But it was kind of hellish for a bit.  ,131.0,B's come back was kind of hellish for a bit,1,1,1,1
+148,A: yeah. oh I’m sure.  ,132.0,A is sure that B's come back to the US was kind of hellish for a bit,1,1,1,1
+149,"B: I still, all I want to do is sleep now. I’ve been trying to nap for the longest time today.  ",133.1,All B wants to do is sleep now,1,1,1,1
+150,None,133.2,All B does is sleep now,2,2,3,3
+151,None,133.3,B has been trying to nap for the longest time today,1,1,1,1
+152,None,133.4,B napped today,2,2,3,3
+153,B: Every time I lay down a phone rings and like random people call me.  ,135.1,Every time B lays down a phone rings,1,1,1,1
+154,None,135.2,Random people call B,1,1,1,1
+155,None,135.3,B cannot sleep,1,1,2,2
+156,B: You’re not that random but it’s kind of random receiving a phone call from you. {laugh} ,136.1,A is not that random but it's kind of random receiving a phone call from A,1,1,1,1
+157,None,136.2,A is not that random,1,1,1,1
+158,None,136.3,It's kind of random receiving a phone call from A,1,1,1,1
+159,B: I mean you’re not a random person but  ,138.1,B meant that A is not a random person,1,1,1,1
+160,None,138.2,A is not a random person,1,1,1,1
+161,"A: Well thank you.  I appreciate being considered non, %er non random.  ",139.1,A thanks A for being called not a random person,1,1,1,1
+162,None,139.2,A appreciates being considered non random,1,1,1,1
+163,B: No. You’re pretty organized and orderly {laugh}.  ,140.0,A is pretty organized and orderly,1,1,1,1
+164,A: Thank you. {laugh} ,141.0,A thanks B for being called pretty organized and orderly,1,1,1,1
+165,B: &Jody’s going to be shocked that I heard from you.  ,144.1,Jody's going to be shocked that B heard from A,0,1,0,0
+166,None,144.2,B heard from A,0,1,0,0
+167,A: She what? ,145.0,A asks B to repeat Jody's going to be shocked that B heard from A,1,1,1,1
+168,B: She’s going to be happy [distortion] that I heard [/distortion]  ,146.0,Jody's going to be happy that B heard from A,1,1,1,1
+169,B: Did you get her postcard? ,148.1,B asks A if A got Jody's postcard,1,1,1,1
+170,None,148.2,A got Jody's postcard,2,4,0,0
+171,A: %hm from her? ,150.0,A hasn't heard from Jody,1,1,1,1
+172,A: No %huh I haven’t heard from her at all.  ,152.0,A hasn't heard from Jody at all,1,1,2,2
+173,B: She sent you a postcard. In fact we both sent you postcards.  ,153.1,Jody sent A a postcard,1,1,1,1
+174,None,153.2,In fact Jody and B both sent A postcards,1,1,1,1
+175,B: yeah. {breath} You know what? ,156.0,B is about to tell A something,1,1,1,1
+176,A: What? ,157.1,A asks B what does B want to tell A,1,1,1,1
+177,None,157.2,B wants to tell A something,1,1,2,2
+178,B: I just came back from the &U &S and I have some letters for you including that little package. I don’t know what to do with that little package.  ,158.1,B just came back from the US,1,1,1,1
+179,None,158.2,B has some letters for A including that little package,1,1,1,1
+180,None,158.3,B doesn't know what to do with that little package,1,1,1,1
+181,None,158.4,Something has to be done with that little package,1,1,2,2
+182,"B: I it, it is henna.  ",160.0,The little package is henna,1,1,1,1
+183,"A: Well I think, no you know what I think you should do.  ",163.1,B knows what A thinks B should do,1,1,1,1
+184,None,163.2,A thinks B should give the henna package to Magda,1,1,1,1
+185,None,163.3,B should give the henna package to Magda,1,2,3,3
+186,A: &Dorota please. Really.  ,165.1,A asks Dorota to give the henna package to Magda,1,1,1,1
+187,None,165.2,Dorota gives the henna package to Magda,2,2,3,3
+188,"A: The package of henna, share it with &Magda.  ",167.1,A asks Dorota to share the package of henna with Magda,1,1,1,1
+189,None,167.2,Dorota shares the package of henna with Magda,2,2,3,3
+190,B: {laugh} &Magda is gone so maybe I’ll do it in my hair.  ,168.1,Magda is gone so maybe Dorota will do the henna in Dorota's hair,1,1,1,1
+191,None,168.2,Magda is gone,1,1,1,1
+192,None,168.3,Dorota will do the henna in Dorota's hair,1,1,1,1
+193,A: okay. {laugh} It’s a nice brown.  ,169.0,The henna is a nice brown color,1,1,1,1
+194,A: yeah. Well a friend of mine from &Florida sent that to me. ,171.0,A friend from Florida send the henna to A,1,1,1,1
+195,B: %eh yeah. She’s from &Gainesville (( )) ,172.0,A's friend is from Gainesville,1,1,1,1
+196,A: yeah so {breath} I I would like to think that it goes to a good because sending it back to me would probably just be ludicrous so {breath} you know why don’t you just ,178.1,A would like to think that the henna package goes in good hands because sending the henna package back to A would probably just be ludicrous so Dorota should keep the henna package,1,1,1,1
+197,None,178.2,A would like to think that the henna pacakge goes in good hands,1,1,1,1
+198,None,178.3,The henna pacakge goes in good hands,1,1,2,2
+199,None,178.4,Sending the henna package to A would be ludicrous,1,1,1,1
+200,None,178.5,Dorota should keep the henna package,1,1,1,1
+201,B: [distortion] So I can keep it. [/distortion] ,179.0,Dorota can keep the henna package,1,1,1,1
+202,B: I’m opening it up right now as you speak so I can put a ((world peace)) stamp on it.  ,180.1,Dorota is opening up the henna package right now so Dorota can put a world peace stamp on the henna package,1,1,1,1
+203,None,180.2,Dorota is opening up the henna package right now,1,1,1,1
+204,None,180.3,Dorota can put a world peace stamp on the henna package,1,1,1,1
+205,B: You know what? I’ve been saying all right all the time now.  ,185.0,"Dorota has been saying ""all right"" all the time now",1,1,1,1
+206,B: I went to this conference in the &U &S and they’re like w- w- where did you get that I’m like ,186.1,Dorota went to this conference in the US,1,1,1,1
+207,None,186.2,"People at the conference asked Dorota where did Dorota get that ""all right"" expression from",1,1,1,1
+208,None,186.3,"Dorota got ""all right"" expression from somewhere",1,1,2,2
+209,B: I’m like %uh that’s a really long story. [[laughing during last word]] ,189.0,"The origin of the ""all right"" expression is a really long story",1,1,1,1
+210,B: See there was this volunteer and she used to know this old man because she used to work (( )) [distortion] and this man would just sit there and say all right.  {laugh} ,191.1,There was this volunteer,1,1,1,1
+211,None,191.2,This volunteer used to know this old man because this voluneer used to work (somewhere),1,1,1,1
+212,None,191.3,This volunteer used to know this old man,1,1,1,1
+213,None,191.4,This volunteer used to work (somewhere),1,1,1,1
+214,None,191.5,This old man would sit there,1,1,1,1
+215,None,191.6,"This old man would say ""all right""",1,1,1,1
+216,A: I have another one though too and &Tom was really getting sick of it. What was it? ,193.1,A has another expression,1,1,1,1
+217,None,193.2,Tom was really getting sick of the new expression,1,1,1,1
+218,None,193.3,A cannot remember the new expression,1,1,1,1
+219,"A: I’ll have to think of it. It’s an-, it’s another one of those %uh all right ",195.0,A has to think of the new expression,1,1,1,1
+220,"A: because he g-, he says what does that mean when I say it now. It’s like ",197.1,Tom asked A what the new expression meant when A said it then,1,1,1,1
+221,None,197.2,The new expression meant something when A said it then,1,1,2,2
+222,None,197.3,A said the new expression then,1,1,1,1
+223,"A: %uh I, I need to know more information.  ",198.1,A needs to know more information,1,1,1,1
+224,None,198.2,A knows more information,2,2,3,3
+225,A: Just hearing all right isn’t enough okay?  ,200.0,"Just hearing ""all right"" isn't enough",1,1,1,1
+226,"B: because I drove across the country three times. I’ve been there wait, yes three times I think.  ",3.1,B has been in the national park like five or six times because B drove across the country three times,1,1,1,1
+227,None,3.2,B has been in the national park like five or six times,1,3,1,3
+228,None,3.3,B drove acress the country three times,1,1,1,1
+229,None,3.4,B thinks that B has been in the national park three times,1,1,1,1
+230,None,3.5,B has been in the national park three times,3,3,1,1
+231,A: Well this is our second time.  ,4.0,This is A's and Kevin's second time in the national park.,1,1,1,1
+232,A: The first time we had been it was like twelve years ago &Kevin and I went on like a six week camping trip you know we hit -- ,6.1,The first time Kevin and A had been in the national park was like twelve year ago,1,1,1,1
+233,None,6.2,Kevin and A went on like six week campin trip,1,1,1,1
+234,B: %uh that must have been fun.  ,7.0,The camping trip must have been fun,1,1,1,1
+235,"A: -- You know &Washington, we hit you know from &Idaho to &Washington we hit all kinds of national parks and stu- [distortion].  ",8.0,A and Kevin hit all kinds of national parks from Idaho to Washington,1,1,1,1
+236,B: oh yeah it’s so beautiful %huh.  ,10.0,National parks are so beautiful.,1,1,1,1
+237,A: You know we spent a l- you know couple days in &Yellowstone and then ,12.0,Kevin and A spent a couple days in Yellowstone,1,1,1,1
+238,A: you know a very little time in &Grand &Tetons but we spent a lot of time in the national forests right around there because we (( )) [distorted] you know we were really camping and really serious-- ,13.1,Kevin and A spent a little time in Grand Tetons,1,1,1,1
+239,None,13.2,Kevin and A spent a lot of time in the forests right around Grand Tetons because Kevin and A were really camping and really serious,1,1,1,1
+240,None,13.3,Kevin and A spent a lot of time in the forests right around Grand Tetons,1,1,1,1
+241,None,13.4,Kevin and A were really camping and really serious,1,1,1,1
+242,"A: And like we went into &Jackson, the town and we were like -- ",16.0,"A and Kevin went into Jackson, the town",1,1,1,1
+243,A: -- %ah [[drawn out and in fright]] let me {laugh} out of here. You know it was like a traffic jam and all these stores and we sort of didn’t know what was coming. We were like oh my god traffic jams ,17.1,A and Kevin wanted to get out of Jackson,1,1,1,1
+244,None,17.2,A and Kevin got out of Jackson,2,2,3,3
+245,None,17.3,There was a traffic jam and stores in Jackson,1,1,1,1
+246,None,17.4,A and Kevin didn't know what was coming,1,1,1,1
+247,None,17.5,Something was coming,1,1,2,2
+248,None,17.6,A and Kevin complained about traffic jams,1,1,1,1
+249,A: What kind of tourist hell is this? Get us out of here [[says laughing]].  ,20.0,Jackson is a kind of a tourist hell,1,1,2,2
+250,A: of course then we were like you know let’s stay here a couple days. [distortion]  ,22.0,Kevin and A decided to stay in Jackson a couple of days,1,1,1,1
+251,B: {inhale} And now you guys have a five year old and ,23.0,Kevind and A have a five year old,1,1,2,2
+252,A: This is kind of cute. oh look there’s the &Benneton outlet.  ,25.1,Jackson is kind of cute.,1,1,1,1
+253,None,25.2,There's the Bennton outlet in Jackson,1,1,1,1
+254,"B: oh you guys have really turned into yuppies, %huh? {laugh} ",27.0,Kevin and A have really turned into yuppies,1,1,2,2
+255,A: Scary.  ,28.0,Kevin and A have really turned into yuppies is scary,1,1,1,1
+256,B: {laugh} {inhale} What we shouldn’t have a house in the suburbs.  ,29.1,B and B's partner shouldn't have a house in the suburbs,1,1,1,1
+257,None,29.2,B and B's partner have a house in the suburbs,2,2,3,3
+258,"A: Well if I’m unemployed, if I’m unemployed I can’t be a {laugh} yuppie can I? ",30.1,A asks B if A can't be a yuppie if A is unemployed,1,1,1,1
+259,None,30.2,A can't be a yuppie if A is unemployed,3,2,3,3
+260,None,30.3,A can't be a yuppie,3,2,3,3
+261,None,30.4,A is unemployed,1,1,2,2
+262,A: {inhale} Don’t I need to be professional? ,32.1,A asks if A needs to be a professional to be a yuppie,1,1,1,1
+263,None,32.2,A needs to be a professional to be a yuppie,3,4,0,0
+264,None,32.3,A is a yuppie,2,1,0,0
+265,B: %um. yeah I guess.  ,33.0,B says %um. yeah I guess.  ,0,3,1,1
+266,B: Well &Norm and I are worse because we live in the suburbs.  ,34.1,Norm and B are worse because Norm and B live in the suburbs,1,1,1,1
+267,None,34.2,Norm and B are worse,1,1,1,1
+268,None,34.3,Norm and B live in the suburbs,1,1,1,1
+269,A: Well really silly we’ll save that for our self respects. So are you coming or not? Are you coming or not? Are you coming or not? [[drawn-out whining]] ,36.1,Kevin and A will save A's impossibility of being a yuppie for Kevin's and A's self respect,1,1,1,1
+270,None,36.2,A asks B if B is coming to visit A and Kevin or not,1,1,1,1
+271,None,36.3,B is coming to visit A and Kevin,3,3,1,1
+272,None,36.4,B is not coming to visit A and Kevin,3,3,1,1
+273,B: I don’t know. It’s up to my husband. Hopefully he’ll finish soon and %uh -- ,37.1,B doesn't know if B is coming to visit A and Kevin,1,1,1,1
+274,None,37.2,B's coming is up to Norm,1,1,1,1
+275,None,37.3,Norm will hopefully finish soon,2,1,3,3
+276,A: I thought you said he was finished.  ,39.1,A thought B said Norm was finished,1,1,1,1
+277,None,39.2,B said Norm was finished,3,1,0,0
+278,None,39.3,Norm was finished,3,1,0,0
+279,B: yeah he is finished.  ,41.0,B says yeah he is finished.  ,1,0,1,1
+280,A: I thought you said he did send it today.  ,42.1,A thought B said Norm did send Norm's thesis today,1,1,1,1
+281,None,42.2,B said Norm did send Norm's thesis today,3,1,0,0
+282,None,42.3,Norm did send Norm's thesis today,3,1,0,0
+283,B: He is finished. He just has to defend.  ,43.1,Norm is finished with Norm's thesis,1,1,2,2
+284,None,43.2,Norm just has to defend Norm's thesis,1,1,1,1
+285,B: So I don’t know. We’ll see what happens. I’ll talk to him today. He has a job so.  If not when are you guys moving? ,44.1,B doesn't know if B is coming to visit A and Kevin because Norm still has to defend Norm's thesis,1,1,1,1
+286,None,44.2,B and Norm will see what happens,1,1,1,1
+287,None,44.3,B will talk to Norm today,1,1,1,1
+288,None,44.4,Norm has a job,1,1,2,2
+289,None,44.5,B asks A when A and Kevin are moving,1,1,1,1
+290,None,44.6,A and Kevin are moving,1,1,2,2
+291,A: We’re not moving for a year.  ,45.0,Kevin and A are not moving for a year,1,1,1,1
+292,A: probably June.  ,51.0,Kevin and A won't move till probably June,1,1,1,1
+293,B: which I really want to come for that but you know I have ,56.0,B really wants to come to Norm's defense,1,1,1,1
+294,B: I might not be able to for other reasons {inhale}.  ,57.0,B might not be able to come for Norm's defense for other reasons,1,1,1,1
+295,B: But if I can’t come then then I’m going to stop in January. Well I’ll probably stop in January anyhow.  ,59.1,"If B can't come then, B is going to stop in January",1,1,1,1
+296,None,59.2,B can't come then,3,3,1,1
+297,None,59.3,B is going to stop in January,3,3,1,1
+298,None,59.4,B will probably stop in January anyhow,1,1,1,1
+299,A: Excellent ,60.0,A says Excellent ,1,1,0,0
+300,B: -- the it’ll come out to see the relatives.  ,63.0,B is going to see relatives with B's baby,1,1,1,1
+301,A: Show off <French ((le bebe))>.  ,64.0,B is going to show off B's baby,1,1,1,1
+302,"B: Do you think ei- I mean eight weeks is not really well it’ll, it’ll be older than eight weeks it’ll be like ten weeks by then. That’s not too early to travel is it? ",67.1,B's baby will be older than eight weeks by the time B and B's baby visit the relatives,1,1,1,1
+303,None,67.2,B's baby will be like ten weeks by the time B and B's baby visit the relatives,1,1,1,1
+304,None,67.3,B asks if 10 month old baby is not too young to travel with,1,1,1,1
+305,None,67.4,10 month old baby is not too young to travel with,3,1,0,0
+306,B: -- you know after that.  ,71.1,B thought it would be like much easier to travel if B and Kevin visited relatives when B's baby was ten weeks than when B's baby is older,1,1,1,1
+307,None,71.2,It would be like much easier to travel if B and Kevin visited relatives when B's baby was ten weeks than when B's baby is older,1,1,1,1
+308,None,71.3,It would be like much easier to travel to visit the relatives when B's baby was 10 weeks then when B's baby is older,1,1,1,1
+309,None,71.4,B's baby was 10 weeks,2,2,3,3
+310,A: when they’re new infants it’s like bring along a blanket so you can nurse them. And like you could do anything. You could probably go like do skydiving or something.  ,72.1,When babies are infants travelling is just about bringing along a blanket so one can nurse the babies,1,1,1,1
+311,None,72.2,Babies are infants,2,2,3,3
+312,None,72.3,Travelling is just about bringing along a blanket so one can nurse the babies,2,2,3,3
+313,None,72.4,One can nurse the babies,1,1,1,1
+314,None,72.5,One could do anything with a baby younger than ten months,2,2,3,3
+315,None,72.6,One couldn't do everything with a baby younger than ten months,1,1,1,1
+316,None,72.7,One could probably go like skydiving or something with a baby younger than 10 months,2,2,3,3
+317,None,72.8,One could not probably go like skydiving or something with a baby younger than 10 months,1,1,1,1
+318,A: And if you were nursing the baby while you were skydiving the baby would be like okay.  ,74.1,"If one were nursing the baby while one was skydiving, the baby would go along with the skydiving",2,2,3,3
+319,None,74.2,One was nursing the baby while skydiving,2,2,3,3
+320,None,74.3,The baby would go along with the skydiving,2,2,3,3
+321,A: Alright. As long as we’re nursing while we’re doing this that’s okay.  ,76.1,"As long as mothers are nursing while skydiving, skydiving with babies is okay",2,2,3,3
+322,None,76.2,Mothers are nursing while skydiving,2,2,3,3
+323,None,76.3,Skydiving with babies is okay,2,2,3,3
+324,B: {inhale} And they don’t need that many clothes when they’re that young. And they don’t need toys.  ,78.1,Babies under ten months don't need that many clothes,1,1,1,1
+325,None,78.2,Babies under ten months don't need toys,1,1,1,1
+326,B: You know basically you don’t need to bring anything.  ,80.0,Basically one doesn't need to bring anyhing when travelling with babies udner ten months,1,1,1,1
+327,B: And since I can’t really go anywhere without those anyhow {laugh} ,83.0,B can't really go anywhere without B's boobs anyhow,1,1,1,1
+328,A: They’re hard to forget ,84.0,Boobs are hard to forget,1,1,1,1
+329,A: Hard to leave behind.  ,86.0,Boobs are hard to leave behind,1,1,1,1
+330,"B: yeah. So I mean in then you know then we can just use disposables if we’re travelling, so ",87.1,One can use disposable boobs if one were travelling,2,2,3,3
+331,None,87.2,One can use disposable boobs,2,2,3,3
+332,None,87.3,One were travelling,2,2,3,3
+333,None,89.2,Kevin A thought that Kevin and A can just bring a little mini diaper pail and all when travelling in the car,1,1,1,1
+334,None,89.3,Kevin and A can just bring a little mini diaper pail and all when travelling in the car,1,1,1,1
+335,A: That was after one time I went never again.  ,91.0,After one time of travelling with non-dsposable diapers A went never again.,1,1,1,1
+336,A: Disposables for travelling.  ,93.0,Disposables are essential for travalling,1,1,1,1
+337,"B: Every now did you supplement nursing with bottles at all or didn’t, didn’t you? ",96.1,B asks A if A supplemented nursing with bottles,1,1,1,1
+338,None,96.2,A supplemented nursing with bottles,2,3,0,0
+339,A: No. No. Somehow like I read too many of the (( )) books so I thought it was like no formula.  ,97.0,A read too many of the books so A thought it was like no formula,1,2,3,3
+340,A: It does make a difference like I always thought formula smells kind of disgusting {inhale} ,98.1,Formula vs breastmilk does make a difference,1,1,1,1
+341,None,98.2,A always thought formula smells like of disgusting,1,1,1,1
+342,None,98.3,Formula smells kind of disgusting,1,1,1,1
+343,A: Like when they throw up it smells disgusting and when they make their little doo-doo’s it smells grosser if they’re on formula. But if they’re totally breast milk now you’ll find this hard this believe but if they’re totally breast milk for like the first couple months -- ,100.1,"Like when babies throw up, the vomits smell disgusting",1,1,2,2
+344,None,100.2,Babies throw up,1,1,2,2
+345,None,100.3,The vomits smells disgusting,1,1,1,1
+346,None,100.4,"When babies make babies' little doo-doos, the doo-doo smells grosser if the babies are on formula",1,1,1,1
+347,None,100.5,Babies make babies little doo-doos,1,1,2,2
+348,None,100.6,The doo-doo smells grosser if the babies are on formula,1,1,1,1
+349,None,100.7,The doo-doos smell grosser,4,4,3,3
+350,None,100.8,Babies are on formula,4,4,3,3
+351,A: they don’t their number twos don’t smell at all.  ,102.1,"If babies're totally breast milk for a couple of months, the babie's number twos don't smell",1,1,1,1
+352,None,102.2,B will find 102 hard to believe,1,1,1,1
+353,A: They don’t smell like anything. It’s like {sniffing} ,104.0,The babies who drink breast milk's doo-doos don't smell like anything.,1,1,1,1
+354,A: it looks like shit but it doesn’t smell like anything {laugh}.  ,105.1,The baby who drinks breast milk's doo-doo looks like shit but doesn't smell like anything,1,1,1,1
+355,None,105.2,The baby who drinks breast milk's doo-doo looks like shit,1,1,1,1
+356,None,105.3,The baby who drinks breast milk's doo-doo doesn't smell like anything,1,1,1,1
+357,B: {inhale}And did you pump or not? ,107.1,B asks A if A pumped A's breastmilk,1,1,1,1
+358,None,107.2,A pumped A's breastmilk,1,3,0,0
+359,A: yeah I pumped. What joy that was.  ,108.0,Pumping was a joy,1,1,1,1
+360,B: Did you use a manual or a %uh did you get one of those little battery ones? ,109.1,B asks A if A used a manual pump or if A got one of those little pumps,1,1,1,1
+361,None,109.2,A used a manual pump,2,3,0,0
+362,None,109.3,A got one of those little battely pumps,1,3,0,0
+363,A: Battery operated deal.  ,111.0,A says Battery operated deal.  ,0,2,3,3
+364,B: yeah. I think so too.  ,112.1,B thinks B will use battery operated pump.,1,1,1,1
+365,None,112.2,B will use battery operated pump,3,3,1,1
+366,A: Now like I can tell you I can find the exact brand name of it if you want some time.  ,113.1,A can find the exact brand name of the pump if B wants some time.,1,1,1,1
+367,None,113.2,A can find the exact brand name of the pump some time.,1,1,1,1
+368,None,113.3,B wants A to find the exact brand name of the pump.,3,4,0,0
+369,A: But like it had like this little like nozzle attachment thing on it which was what it said you were supposed to use.  ,115.0,"The battery operated pump had this little like nozzle attachmment think, which said how to use the pump",1,1,1,1
+370,A: And I used it the first time for like three seconds I was like -- ,118.0,A used the battery operated pump for the first time and A was like ah.,1,1,1,1
+371,A: -- %ah [[drawn out as if in agony]] get {laugh} this thing off me.  ,119.0,A wanted the battery operated pump off B,1,1,1,1
+372,A: That really hurt.  ,121.0,The battery operated pump hurt,1,1,1,1
+373,A: And I forget what it said it was for I think it said it was for if you had small breasts or something. I don’t know what ,124.1,A forgets what the instructions said about the noozle,1,1,1,1
+374,None,124.2,A thinks that the nozzle attachment was for if one had small breasts,1,1,1,1
+375,None,124.3,The nozzle attachment was for if one had small breasts,3,3,1,1
+376,A: so like I took that thing and I threw it away. {laugh} ,126.1,A took the nozzle,1,1,1,1
+377,None,126.2,A threw the nozzle away,1,1,1,1
+378,A: {inhale} It was like a little part you put on top of a nozzle thing. It was just like an extra attachment and I took that and I -- ,128.1,The nozzle was like a little part you put on top of the pump,1,1,1,1
+379,None,128.2,The nozzle was just like an extra attchment,1,1,1,1
+380,A: And then it was fine.  ,132.0,Then the pump was fine,1,1,1,1
+381,A: That seemed to work fine {inhale} ,136.0,The pump seemed to work fine,1,1,1,1
+382,"A: You know i- if I, if you could avoid it  ",138.1,It would be better if B could avoid the pump,1,1,1,1
+383,None,138.2,B could avoid the pump,3,3,1,1
+384,A: well for the first couple months I’ll just be home and I’ll just get a lot of rest and I’ll take it easy and if I’m not -- ,141.1,For the first couple of months A will just be home,1,1,1,1
+385,None,141.2,A will just get a lot of rest,1,1,1,1
+386,None,141.3,A will take it easy,1,1,1,1
+387,A: -- sleeping at night I’ll just sleep during the day or sleep when the baby sleeps.  ,142.1,"If A is not sleeping at night, A will just sleep during the day or A will sleep when the baby sleeps",1,1,1,1
+388,None,142.2,A is not sleeping at night,4,4,0,0
+389,None,142.3,A will sleep during the day,4,4,0,0
+390,None,142.4,A will sleep when the baby sleeps,4,4,0,0
+391,A: Not do this whole pumping thing I mean if I had to do it all over that’s what I would do.  ,144.1,"A would do If A is not sleeping at night, A will just sleep during the day or A will sleep when the baby sleeps instead of this whole pumping thing if A had to raise a child all over again",1,1,1,1
+392,None,144.2,"A would do If A is not sleeping at night, A will just sleep during the day or A will sleep when the baby sleeps instead of this whole pumping thing",4,4,0,0
+393,None,144.3,A had to raise a child all over again,4,4,0,0
+394,B: oh yeah because I was thinking it would be easier because then other people could feed the baby and you wouldn’t have to be so tied to it.  ,145.1,B was thinking that pumping would be easier becasue then other people could feed the baby and one wouldn't have to be so tided to the baby,1,1,1,1
+395,None,145.2,B was thinking that pumping would be easier,1,1,1,1
+396,None,145.3,Other people could feed the baby,3,3,1,1
+397,None,145.4,One wouldn't need to be so tided to the baby,3,3,1,1
+398,None,145.5,Pumping would be easier,1,3,1,1
+399,A: yeah. And if you want to go out to a movie or something.  ,147.1,Pumping would be easier if one wants to go out to a movie or something,1,1,1,1
+400,None,147.2,One wants to go out to a movie or something,4,4,0,0
+401,B: Well we never go out. [[says laughing]] I mean you know what &Norm and I are like I mean.  ,149.1,B and Norm never go out,1,1,1,1
+402,None,149.2,A knows what B and Norm are like,1,1,1,1
+403,None,149.3,B and Norm have certain habbits,1,1,2,2
+404,"A: Well believe me when you have a baby you’ll want, you’ll to put it in someone else’s house or someone come watch it in your house and go anywhere else. {laugh} ",150.1,"When one has a baby, one will want to put the baby in someone else's house",1,1,1,1
+405,None,150.2,"When one has a baby, someone will come and watch the baby in one's house and one will go anywhere else",1,1,1,1
+406,None,150.3,One has a baby,4,4,0,0
+407,None,150.4,One will want to put the baby in someone else's house,4,4,0,0
+408,None,150.5,Someone will come,4,4,0,0
+409,None,150.6,Someone will watch the baby in one's house,4,4,0,0
+410,None,150.7,One will go anywhere else,4,4,0,0
+411,B: See that’s what I was thinking like for my in laws and stuff when we go home for &Christmas.  ,151.1,B was thinking that B's inlaws could watch the baby when B and Norm go home for Christmas,1,1,1,1
+412,None,151.2,B's inlaws could watch the baby when B and Norm go home for Christmas,2,2,3,3
+413,None,151.3,B's inlaws could watch the baby,4,4,0,0
+414,None,151.4,B and Norm go home for Christmas,1,1,1,1
+415,B: It would be so nice to just you know leave the baby with them but you can’t leave the baby.  ,153.1,It would be so nice to just leave the baby with B's inlaws but one can’t leave the baby with the inlaws,1,1,1,1
+416,None,153.2,It would be so nice to leave the baby with B's inlaws,1,1,2,2
+417,None,153.3,One can't leave the baby with the inlaws,1,1,1,1
+418,A: you know y- you might have to try one or two before you find one that works but ,155.1,One might have to try one or two breast pumps before one finds the pump that works,1,1,1,1
+419,None,155.2,One might have to try one or two breast pumps,3,3,0,0
+420,None,155.3,One finds the breast pump that works,3,3,0,0
+421,A: once and you know they have like things and like can set the tension or whatever they get ,157.0,Breast pumps have like things and like can set the tension or whatever,1,1,1,1
+422,B: {laugh} the tension {laugh} ((they’re)) like the little knob on your sewing machine.  [[said laughing]] {laugh} ,159.0,The tension setting is like the little knob on one's sewing machine,1,1,1,1
+423,"A: {laugh} You can set the, the power level and stuff and and it g- ",160.0,One can set the power level in the breast pump,1,1,1,1
+424,B: {inhale} {laugh} {inhale} Or like extra suck for just ((starting to)) suck. [[said laughing]] ,161.0,The breast pump has extra suck setting,1,1,1,1
+425,A: once you get used it i- you know at first you feel like what am I doing putting this machine on me it’s disgusting ,163.1,At first one feels like what is one doing putting this machine on one's breasts,1,1,1,1
+426,None,163.2,One is putting this machine on one's breasts,4,4,0,0
+427,A: or obscene or something.  ,165.0,Putting the machine on one's breasts is disgusting or obscene or something,3,4,0,0
+428,A: But once you get used to it it was %uh you know you can like read while you’re doing it. It was like boring.  ,166.1,"Once one gets used to the breast pump, one can like read while breast pumping",1,1,1,1
+429,None,166.2,Once gets used to the breast pump,1,1,1,1
+430,None,166.3,One can read while breast pumping,1,1,1,1
+431,B: And what does it go into like a little plastic bag **thingy**? ,169.1,B asks A what does the pump machine go into like a little plastic bag,1,1,1,1
+432,None,169.2,The pump machine goes into like a little plastic bag,4,4,0,0
+433,A: %uh well the thing I had was like -- ,170.0,A had a breast pump,1,1,2,2
+434,"A: -- on to something that was just like a, a jar bottom.  ",173.1,One screws on this whole motor suction part of the breast machine on something that was just like a jar bottom,1,1,1,1
+435,None,173.2,Something was just like a jar bottom,1,1,2,2
+436,A: You know just looked like a screw thing so that it went to this plastic container.  ,174.1,Something that was just like a jar bottom looked like a screw thing,1,1,1,1
+437,None,174.2,The screw thing went to this plastic container,1,1,1,1
+438,B: okay. And you can reuse the plastic container? ,176.1,B asks A if one can reuse the plastic container,1,1,1,1
+439,None,176.2,One can reuse the plastic container,4,4,0,0
+440,A: And then what I would do is just %uh I would bring little bags like that you’re supposed to put formula in with me to work.  ,177.1,A would then bring little bags like that one is supposed to put formula in with A to work,1,1,1,1
+441,None,177.2,One is supposed to put formula in little bags,1,1,2,2
+442,A: into the plastic bag and seal it up and then go you know rinse out the container thing and wash it the next day.  ,180.1,Then A would pour the milk from the container into the plastic bag,1,1,1,1
+443,None,180.2,A would seal up the plastic bag,1,1,1,1
+444,None,180.3,Then A would rinse out the container,1,1,1,1
+445,None,180.4,A would wash the container the next day,1,1,1,1
+446,B: And did you throw away the plastic bags when you were done? ,181.1,B asks A if A threw away the plastic bags when A was done with the milk,1,1,1,1
+447,None,181.2,A threw away the plastic bags when A was done with the milk,1,4,0,0
+448,A: Well see then the plastic bag is designed to go inside a bottle thing.  ,182.0,The plastic bag is designed to go inside a bottle thing,1,1,1,1
+449,B: yeah. And th- %eh so then you so you throw the plastic bag away when you’re done.  ,183.0,Then one throws away the plastic bag when one is done,1,1,1,1
+450,A: After your baby drinks the milk yeah.  ,184.1,One throws away the plastic bag after one's baby drinks the milk,1,1,1,1
+451,None,184.2,One's baby drinks the milk,1,1,2,2
+452,B: {lipsmack} okay. I’m just trying to you know ,186.0,B is trying to learn about B's options regarding baby feeding,0,1,0,0
+453,A: And that way you can freeze them so you know we’d end up  ,188.0,That way one can freeze milk,1,1,1,1
+454,"A: there was sort of like a, a go or no go for breast pumping like once you just kind of got everything going it was like it ended up I was pumping too much you know it was like ",190.1,There was sort of like a go or no go for breast pumping,1,1,1,1
+455,None,190.2,Once one just kind of got everything going it was like A was pumping too much,1,1,1,1
+456,None,190.3,One got everything going with the breast pump,1,1,1,1
+457,A: we ended up with a freezer full like we found a year later a freezer full of breast milk. [[said laughing]] ,192.1,Kevin and A ended up with a freezer full of breast milk,1,1,1,1
+458,None,192.2,Kevin and A  found a year later a freezer full of breast milk.,1,1,1,1
+459,A: oh let’s just throw this all away.  ,194.1,A suggested that A and Kevin should throw the old breast milk from the freezer,1,1,1,1
+460,None,194.2,A and Kevin should throw the old breast milk from the freezer,1,1,1,1
+461,A: It’s like all that hard work but it was either you know it was either explode or {breath} you know pretty much ,196.1,The pumping was hard work,1,1,1,1
+462,None,196.2,It was either to explode or pump the breast milk,1,1,1,1
+463,"B: But I thought like you totally got down to the level so even if you only breast fed one, you know once a day that that’s how much milk you would have.  ",197.1,B thought one totally got down to the level,1,1,1,1
+464,None,197.2,One totally got down to the level,4,3,0,0
+465,None,197.3,"So even if one breast fed one child once a day, that is how much milk would one have",4,3,0,0
+466,None,197.4,One breast fed one's child once a day,4,4,0,0
+467,None,197.5,One would produce that much milk,4,4,0,0
+468,A: I don’t know. All I can tell you is to get a big bag (( )) [[says laughing]].  ,198.1,A doesn't know much much milk would one have depending on the frequency of breast feeding,1,1,1,1
+469,None,198.2,All A can tell B is to get a big bag,1,1,1,1
+470,None,198.3,B is to get a big bag,3,3,0,0
+471,"A: once you, once he was getting bigger or something there was like I was making two bags and it was like if you sat down you either did two bags or you’d explode that was it. ",201.1,"Once A started at work and A's child was bigger or something, A was making two bags of milk",1,1,1,1
+472,None,201.2,A started at work after delivering the child,1,1,2,2
+473,None,201.3,A's child was bigger,1,1,2,2
+474,None,201.4,A was making two bags of milk,1,1,1,1
+475,None,201.5,"If one sat down, one either did two bags or one would explode",1,1,1,1
+476,None,201.6,One sat down,4,4,0,0
+477,None,201.7,One did either two bags of milk or one would explode,1,1,1,1
+478,A: And she just couldn’t quite drink that much so {lipsmack} ,202.0,A's child could not quite drink that much,1,1,1,1
+479,A: You know that was why I was working in the morning the morning’s when you do the most. {breath} Everybody’s different so it probably ,204.1,A was pumping the milk in the morning because the morning is when one does the most milk,1,1,1,1
+480,None,204.2,A was pumping milk in the morning,1,1,1,1
+481,None,204.3,The morning is when one does the most milk,1,3,1,1
+482,None,204.4,Everybody is different so milk pumping in the morning may not work for everyone,1,1,1,1
+483,None,204.5,Everybody is different,1,1,2,2
+484,None,204.6,Milk pumping in the morning may not work for everyone,1,1,1,1
+485,B: yeah yeah that’s true. {inhale} Well I only have fourteen weeks left so.  ,205.1,B only has fourteen weeks left before B delivers B's child,1,1,1,1
+486,None,205.2,B will deliver B's child,1,1,2,2
+487,A: Wow you’re getting there. [[drawn out]] ,206.0,B is getting closer to B's baby birth,1,1,1,1
+488,B: I know {breath} I know.  ,207.0,B knows B is getting closer to B's baby birth,1,1,1,1
+489,A: Stopping with the miscarriage anxiety starting with the delivery anxiety.  [[said laughing]] ,208.1,A is stopping with the miscarriage anxiety,3,3,1,1
+490,None,208.2,A is starinng with the delivery anxiety,3,3,1,1
+491,B: {laugh} I know oh no. I had the miscarriage anxiety up until the you know because you have all those well wishers you know telling you about all those things you know.  ,209.1,B had the miscarriage anxiety up until the delivery because one has all those wishers telling one about all those things,1,1,1,1
+492,None,209.2,B had the miscarriage anxiety up until the delivery,1,1,1,1
+493,None,209.3,One has all those wishers telling one about all those things,1,1,1,1
+494,A: ooh everybody wants to start telling you these things like people would like corner me to tell me about their hysterectomies. It’s like somehow some O B gyn connection that they see you and they think of O B gyn and they’ve got to tell you about it.  ,210.1,Everybody wants to start telling one about their pregnancy experience,1,1,1,1
+495,None,210.2,People would corner A to tell A about people's hysterectomies,1,1,1,1
+496,None,210.3,People would corner A,4,4,0,0
+497,None,210.4,People would tell A about people's hysterectomies,1,1,1,1
+498,None,210.5,People had hysterectomies,1,1,2,2
+499,None,210.6,"When people see a pregnant woman, the people think of OB gyn",1,1,1,1
+500,None,210.7,People see a pregnant woman,4,4,0,0
+501,None,210.8,People think of OB gyn,4,4,0,0
+502,None,210.9,People who think of OB gyn when seeing a pregnant woman got to tell the pregnant woman about the people's hysterectomies,1,1,1,1
+503,B: Well I’ve heard the cord accident stories ,214.0,B's heard the cord accident stories,1,1,1,1
+504,B: which had me like totally and completely freaked out.  ,215.0,The cord accident stories had B totally and completely freaked out,1,1,1,1
+505,B: a- are you still there? ,216.1,B asks A if A is still on the phone,1,1,1,1
+506,None,216.2,A is still on the phone,4,1,0,0
+507,A: yeah ((I’m still here)) [distortion] ,217.0,A says yeah ((I’m still here)) [distortion] ,1,0,1,1
+508,B: oh so I had so I talked to my doctor about it and apparently it’s very rare [[said laughing]] so don’t ask me why I’ve heard so many stories about it but {sniff} ,218.1,B talked to B's doctor about the cord accidents,1,1,1,1
+509,None,218.2,The cord accidents are apparently very rare,1,1,1,1
+510,None,218.3,B requests A not to ask B why B's heard so many stories about the cord accidents,1,1,1,1
+511,None,218.4,A asks B why B's heard so many stories about the cord accidents,2,2,3,3
+512,None,218.5,B's heard so many stories about the cord accidents,1,1,2,2
+513,B: oh yeah and then there was this friend I had she was eight and a half months pregnant and you know {breath} baby had a cord accident and she died. [[said laughing]] ,219.1,There was B's friend that B had,1,1,1,1
+514,None,219.2,B had a friend,1,1,1,1
+515,None,219.3,B's friend was eight and a half months pregnant,1,1,1,1
+516,None,219.4,B's friend's baby had a cord accident,1,1,1,1
+517,None,219.5,B's friend's baby died,1,1,1,1
+518,A: Like most people they just have babies it all works out.  ,220.1,It all works out for most people who have babies,1,1,1,1
+519,None,220.2,People have babies,4,4,0,0
+520,B: yeah. I know. I know so I’m not so freaked out anymore.  ,221.1,B knows It all works out for most people who have babies,1,1,1,1
+521,None,221.2,B is not so freaked out anymore,1,1,1,1
+522,B: {lipsmack} That was like I was talking to &Erica on the phone and %uh ,223.0,B was talking to Erica on the phone,1,1,1,1
+523,B: that’s what she told me she’s like but d- to say that it was okay she was like saying that well you know but this woman is pregnant again and you know will have her baby again soon so it was like no big deal. ,224.1,Erica told B that B's friend loosing B's friend baby was okay,1,1,1,1
+524,None,224.2,B's friend loosing B's friend baby was okay,2,2,3,3
+525,None,224.3,B's friend is pregnant again,1,1,1,1
+526,None,224.4,B's friend will have B's friend baby again soon so B's friend's loosing B's friend's baby was no big deal,1,1,1,1
+527,None,224.5,B's friend will have B's friend baby again soon,1,1,1,1
+528,None,224.6,B's friend's loosing B's friend's baby was no big deal,2,2,3,3
+529,B: pins and needles.  She must be having the most miserable pregnancy in the whole world.  ,227.1,"But having never been pregnant before, B's sure Erica has no idea B's friend must be on just absolute pins and needles",1,1,1,1
+530,None,227.2,Erica has never been pregnant before,1,1,1,1
+531,None,227.3,B is sure Erica has no idea B's friend must be on just absolute pins and needles,1,1,1,1
+532,None,227.4,Erica has no idea B's friend must be on just absolute pins and needles,1,1,1,1
+533,None,227.5,B's friend must be on just absolute pins and needles,1,1,1,1
+534,None,227.6,B's friend is on just absolute pins and needles,3,3,1,1
+535,None,227.7,B's friend must be having the most miserable pregnancy in the whole world,1,1,1,1
+536,None,227.8,B's friend is having the most miserable pregnancy in the whole world,3,3,1,1
+537,"A: yeah that’s such a public thing.  Like everyone knew she was pregnant.  I mean once you’re eight and half months, man, I mean there was nothing nice about it (( )) ",228.1,Loosing a baby is such a public thing,1,1,1,1
+538,None,228.2,Everyone knew B's friend was pregnant,1,1,1,1
+539,None,228.3,B's friend was pregnant,1,1,2,2
+540,None,228.4,There was nothing nice about being pregnant eight and half months and loosing the baby,1,1,1,1
+541,None,228.5,There was nothing nice about being pregnant eight and half months,1,1,1,1
+542,None,228.6,There was nothing nice about loosing the baby,1,1,1,1
+543,B: I know.  ,229.0,B knows There was nothing nice about being pregnant eight and half months and loosing the baby,1,1,1,1
+544,"A: you know if you’ve made it through the eight and a half months, man, you deserve it a baby.  ",230.1,"If one's made it through the eight and a half months, one deserves a baby",1,1,1,1
+545,None,230.2,One's made it through the eight and a half months,4,4,0,0
+546,None,230.3,One deserves a baby,4,4,0,0
+547,B: I know and then you know and then to have to go back to work ,232.1,"B knows If one's made it through the eight and a half months, one deserves a baby",1,1,1,1
+548,None,232.2,One has to go back to work after one looses one's baby,1,1,1,1
+549,None,232.3,Going back to work after loosing one's baby is tough,1,1,1,1
+550,"B: and {inhale} you know and then the second pregnancy must be just like fraught with anxiety and especially since it happened at eight and a half months, you know.   ",233.1,"Once one lost baby at eight and a half months, the second pregnancy must be just like fraught with anxiety",1,1,1,1
+551,None,233.2,One lost baby at eight and a half months,4,4,0,0
+552,None,233.3,The second pregnancy must be just like fraught with anxiety,4,4,0,0
+553,A: yeah and everybody is probably saying now you better really drink milk this time.  You better eat your cottage cheese now.  ,234.1,Everybody is probably saying now one better really drink milk this time,1,1,1,1
+554,None,234.2,Now one better really drink milk this time,1,1,1,1
+555,None,234.3,One really drinks milk this time,2,2,3,3
+556,None,234.4,One better eat one's cottage cheese now,1,1,1,1
+557,None,234.5,One eats one's cottage cheese now,2,2,3,3
+558,B: {laugh} I Know.  ,235.0,B knows Everybody is probably saying now one better really drink milk this time,1,1,1,1
+559,B: I know I know yeah.  I actually did start drinking more milk and it has helped with all my little aches and pains and stuff.  ,236.1,B actually did start drinking more milk,1,1,1,1
+560,B: So tell me a little bit about the day she was born. When did you first see her? ,1.1,B asks A to tell B a little bit about the day Mae was born,1,1,1,1
+561,None,1.2,A tells B a little bit about the day Mae was born,0,3,0,0
+562,None,1.3,Mae was born,1,1,2,2
+563,None,1.4,B asks A when did A first saw Mae,1,1,1,1
+564,None,1.5,A first saw Mae somewhere,1,1,2,2
+565,"A: %um what happened is we went to the hospital, she was induced.  ",2.1,A and Robert went to the hospital,1,1,1,1
+566,None,2.2,Mae was induced,1,1,1,1
+567,"A: So we get a phone call and th-, she was supposed to  ",4.0,A and Robert got a phone call,1,1,1,1
+568,"A: %um the birth mom was supposed to go in at %um, it’s my thinking that this will be distributed publicly.  ",6.1,Mae's birth mom was supposed to go into labor at some specific time,1,1,1,1
+569,None,6.2,Mae's birth mom went into labor at some specific time,2,2,3,3
+570,None,6.3,A thought that the time Mae's birth mom was supposed to go to labor would be distributed publicly,1,1,1,1
+571,None,6.4,The time Mae's birth mom was supposed to go to labor would be distributed publicly,3,4,3,3
+572,A: at %um six thirty in the morning but she called and they didn’t have any beds.  ,8.1,Mae's birth mom was supposed to go into labor at six thirty in the morning but Mae's birth mom called and the hospital didn't have any beds,1,1,1,1
+573,None,8.2,Mae's birth mom was supposed to go into labor at six thirty in the morning,1,1,1,1
+574,None,8.3,Mae's birth mom went into labot at six thirty in the morning,2,2,3,3
+575,None,8.4,Mae's birth mom called,1,1,1,1
+576,None,8.5,The hospital didn't have any beds,1,1,1,1
+577,"A: So she called us and told us that, but then they did get a bed and she went in at eight.  ",10.1,So Mae's mom called A and Robert,1,1,1,1
+578,None,10.2,"So Mae's mom told A and Robert about events im 8.2, 8.4 and 8.5",1,1,1,1
+579,None,10.3,The hospital did get a bed eventually,1,1,1,1
+580,None,10.4,Mae's mom went into labor at eight,3,3,1,1
+581,"A: Or seven thirty or, I guess she went in at seven thirty and they started her at eight or so so we hopped in the car and drove down to be there ",12.1,Mae's mom went into labor at seven,3,3,1,1
+582,None,12.2,A guesses Mae's birth mom went into labor at seven thirty,1,1,1,1
+583,None,12.3,Mae's birth mom went into labor at seven thirty,3,3,1,1
+584,None,12.4,The hospital staff started Mae's birth mom at eight so A and Robert hopped in the car and drove down to be at the hospital for the day,1,1,1,1
+585,None,12.5,The hospital staff started Mae's birth mom at eight,1,1,1,1
+586,None,12.6,A and Robert hopped in the car,1,1,1,1
+587,None,12.7,A and Robert drove down to be at the hospital for the day,1,1,1,1
+588,A: we hung out all day.  We had %uh we had some difficult times with the lawyer down there.  He was supposed to show up  ,18.1,A and Robert hung out all day at the hospital,1,1,1,1
+589,None,18.2,A and Robert had some difficult times with the lawyer down at the hospital,1,1,1,1
+590,None,18.3,The lawyer was supposed to show up,1,1,1,1
+591,None,18.4,The lawyer showed up,2,2,3,3
+592,A: and we waited all day and he never bloody showed up.  ,21.1,A and Robert waited for the lawyer all day,1,1,1,1
+593,None,21.2,The lawyer never bloddy showed up,1,1,1,1
+594,"A: And %um, he and also she was expecting him too.  ",23.0,Also Mae's birth mom was expecting the lawyer too,1,1,1,1
+595,A: You know and so that was frustrating.  ,25.0,The lawyer not showing up was frustrating,1,1,1,1
+596,A: But anyway we waited all day and %um  ,27.0,A and Robert waited all day,1,1,1,1
+597,A: But then five twenty five &Mae was born.  ,28.0,Mae was born at five twenty five,1,1,1,1
+598,A: And the birth mother’s mother was with her through the whole thing and she was fantastic.  She was just great.  She was so nice to us and so solid there for her daughter and just a wonderful ,30.1,Mae's birth mom's mom was with Mae's birth mom throught the labor,1,1,1,1
+599,None,30.2,Mae's birth mom's mom was fantastic,1,1,1,1
+600,None,30.3,Mae's birth mom's mom was just great,1,1,1,1
+601,None,30.4,Mae's birth mom's mom was so nice to A and Robert,1,1,1,1
+602,None,30.5,Mae's birth mom's mom was so solid for Mae's birth mom,1,1,1,1
+603,None,30.6,Mae's birth mom's mom was just wonderful woman,1,1,1,1
+604,"A: She was great.  She came out, you know, a couple times during the day she came out and gave us little progress reports of how things were going and actually it was very funny ",35.1,Mae's birth mom's mom was great,1,1,1,1
+605,None,35.2,Mae's birth mom's mom came out a couple of times during the day,1,1,1,1
+606,None,35.3,Mae's birth mom's mom came out to A and Robert,1,1,2,2
+607,None,35.4,Mae's birth mom's mom gave A and Robert little progress reports of how things were going,1,1,1,1
+608,"A: because the first time she out {laugh}, I mean here we’re out there sort of ringing our hands and  ",37.1,"Mae's birth mom's mom's reporting on the labor was actually very funny because the first time Mae's birth mom's mom came out, A and Robert were out in the waiting room sort of ringing A's and Robert's hands",1,1,1,1
+609,None,37.2,Mae's birth mom's mom's reporting on the labor was actually very funny,1,1,1,1
+610,None,37.3,A and Robert were out in the waiting room sort of ringing A's and Robert's hands,1,1,1,1
+611,"A: sweating it out and wondering how everybody is going and everything and she came out and could I go downstairs because %um, her daughter wanted playing cards.  ",39.1,A and Robert were sweating out the labor,1,1,1,1
+612,None,39.2,A and Robert were wondering how everybody was going and everything,1,1,1,1
+613,None,39.3,A went downstairs because Mae's birth mom wanted playing cards,1,1,1,1
+614,None,39.4,A went downstairs,1,1,1,1
+615,None,39.5,Mae's birth mom wanted playing cards,1,1,1,1
+616,None,39.6,A went downstairs to buy playing cards for Mae's birth mom,1,1,1,1
+617,None,39.7,A bought playing cards,1,1,1,1
+618,A: So I guess she was bored.  ,41.1,So A guesses Mae was bored,1,1,1,1
+619,None,41.2,Mae was bored,3,3,1,1
+620,A: You know passing the time {laugh} ,43.1,A jokes that Mae's birth mom wants to pass the time with playing cards,1,1,1,1
+621,None,43.2,Mae's birth mom wants to pass the time with playing cards,3,3,1,1
+622,None,43.3,Mae's birth mom passes the time with playing cards,3,3,1,1
+623,A: So I went downstairs to get playing cards with her and ,45.1,A went downstairs to get playing cards with Mae's birth mom's mom,1,1,1,1
+624,None,45.2,A got playing cards with Mae's birth mom's mom,1,1,2,2
+625,A: and then later on she came out and she wanted some chewing gum. {laugh} ,47.1,Later on Mae's birth mom's mom came out to the waiting room,1,1,1,1
+626,None,47.2,Mae's birth mom wanted some chewing gum,1,1,1,1
+627,None,47.3,Mae's birth mom's mom requested chewing gum from A for Mae's birth mom,1,1,2,2
+628,"A: %um, I guess your mouth gets dry and you just want something.  ",49.1,A guesses one's mouth gets dry after delivering a baby,1,1,1,1
+629,None,49.2,One just wants something atfer delivering a baby,3,1,1,1
+630,B: yeah. I’m sure.  ,50.0,B is sure about One just wants something atfer delivering a baby,1,1,1,1
+631,"A: So, you know, it was, it was kind of funny these very ",51.0,Mae's birth mom wanting playing cards and gums was kind of funny,1,1,1,1
+632,B: Reassuring in a way I would think.  ,52.1,B would think Mae's birth mom wanting playing cards and gums was reassuring in a way,1,1,1,1
+633,None,52.2,Mae's birth mom wanting playing cards and gums was reassuring in a way,3,3,1,1
+634,A: you know they’re such sort of specific little things {laugh}.  ,55.0,Chewing gum and playing cards are such sort of specific little things,1,1,1,1
+635,"A: then but they kind of held her back. I think the baby would’ve born, been born sooner but the doctor didn’t get there till around three.  ",58.1,The hospital staff held Mae's birth mom back,3,3,1,1
+636,None,58.2,A thinks Mae would have been born sooner but the doctor didn't get to Mae's birth mom delivery room till around three,1,1,1,1
+637,None,58.3,Mae would have been born sooner but the doctor didn't get to Mae's birth mom delivery room till around three,3,3,1,1
+638,None,58.4,Mae would have been born sooner,3,3,1,1
+639,None,58.5,The doctor didn't get to the Mae's birth mom delivery room till around three,1,1,1,1
+640,B: so I thought once it was induced there was like no stopping it.  ,60.1,B thought once the labor was induced there was like no stopping the labor,1,1,1,1
+641,None,60.2,Once the labor was induced there was like no stopping the labor,2,3,3,3
+642,None,60.3,The labor was induced,4,4,0,0
+643,None,60.4,There was like no stopping the labor,4,4,0,0
+644,A: No they can hold you back ,61.0,The hospital staff can hold one back with the labor,1,1,1,1
+645,"A: a little bit, you know.  ",63.0,The hospital staff can hold one back with the labor a little bit,1,1,1,1
+646,"A: Once, depends how much stuff they give you.  ",65.1,Whether the hospital staff can hold one back with the labor or not depends on how much medicine the hospital staff gives one,1,1,1,1
+647,None,65.2,The hospital staff gives one medicine during labor,1,1,2,2
+648,A: Stuff. But anyway I think they were holding her back a little bit because they wanted the doctor there.  ,67.1,A thinks the hospital staff were holding Mae's birth mom back a little bit because the hospital staff wanted the doctor in Mae's birth mom delivery room,1,1,1,1
+649,None,67.2,The hospital staff were holding Mae's birth mom back a little bit because the hospital staff wanted the doctor in Mae's birth mom delivery room,3,3,1,1
+650,None,67.3,The hospital staff were holding Mae's birth mom back a little bit,1,1,1,1
+651,None,67.4,The hospital staff wanted the doctor in Mae's birth mom delivery room,3,3,1,1
+652,"A: %um, and the doctor showed up around three and &Mae was born at five twenty five.  ",70.1,The doctor showed up around three,1,1,1,1
+653,None,70.2,Mae was born at five twenty five,1,1,1,1
+654,A: Eight pounds eight ounces.  ,72.0,Mae weighed eight pounds eight ounces,1,1,1,1
+655,A: And screaming.  ,74.0,Mae was screaming,1,1,1,1
+656,"A: Really screaming and I was a little scared. I thought oh my god what have we wrought. You could here her out through the doors of the hall, you know.  ",76.1,Mae was really screaming,1,1,1,1
+657,None,76.2,A was a little scared,1,1,1,1
+658,None,76.3,A thought what have A and Robert wrought,1,1,1,1
+659,None,76.4,One could hear Mae out through the doors of the hall,1,1,1,1
+660,A: And there were a lot of babies being born. You didn’t hear them all.  ,79.1,There were a lot of babies being born,1,1,1,1
+661,None,79.2,One didn't hear all the babies,1,1,1,1
+662,None,79.3,Mae was screaming very loud,1,1,2,2
+663,"A: And I, and %um, what happened h-, I guess %um, {breath} that’s right. Her mom came running out to tell us the baby was born.  ",81.1,Mae's birth mom' mom came running out to tell A and Robert the baby was born,1,1,1,1
+664,None,81.2,Mae's birth mom's mom told A and Robert the baby was born,1,1,1,1
+665,None,81.3,The baby was born,1,1,2,2
+666,A: And then she said that’s her. You can hear her {laugh} ,83.1,And then Mae's birth mom's mom said that's Mae,1,1,1,1
+667,None,83.2,One can hear Mae,1,1,1,1
+668,"A: And %um, {lipsmack} said it was a beautiful birth. I mean two pushes and she was out which is really great so she’s very unsquashed and unbattered looking for a new baby.  ",85.1,Mae's birth mom's mom said it was a beautiful birth,1,1,1,1
+669,None,85.2,It was a beautiful birth,3,3,1,1
+670,None,85.3,Two pushes and Mae was out which is really great so Mae's birth mom is very unsquashed and unbattered looking for a new baby,1,1,1,1
+671,None,85.4,Mae is very unsquashed and unbattered for a new born,1,1,1,1
+672,A: Usually they look a bit bashed up {breath}.  ,88.0,Usually new borns look a bit bashed up,1,1,1,1
+673,B: A bit worn.  ,90.0,Usually new borns look a bit worn,1,1,1,1
+674,"A: But she’s got a nice shaped head and, you know she doesn’t look like she was %um, you know she’s not a cone head.  ",91.1,But Mae's got a nice shaped head,1,1,1,1
+675,None,91.2,Mae is not a cone head,1,1,1,1
+676,B: But did you get to see her in a few hours or ,93.1,B asks A if A got to see Mae in a few hours,1,1,1,1
+677,None,93.2,A got to see Mae in a few hours,2,4,0,0
+678,None,93.3,A saw Mae in a few hours,2,4,0,0
+679,"A: Well what happened no right away there, there was a very nice %um ",95.0,A saw Mae right away,1,2,3,3
+680,A: delivery nurse who we had spoken to earlier in the day named &Tina.  ,96.1,There was a very nice delivery nurse who A and Robert had spoken to earlier in the day named Tina,1,1,1,1
+681,None,96.2,A and A's partner had spoken to Tina earlier in the day,1,1,1,1
+682,A: And what they do is they take the baby from the delivery room to the nursery.  ,100.0,Nurses take the baby from the delivery room to the nursery,1,1,1,1
+683,"A: Normally they go directly and &Tina very, very sweetly zipped past the door to the out, outer part of the nursery where we were waiting ",102.1,Normally nurses go directly to the nursery,1,1,1,1
+684,None,102.2,"Tina very, very sweetly zipped past the door to the outer part of the nursery where A and Robert were waiting",1,1,1,1
+685,None,102.3,A and Robert were waiting in the outer part of the nursery,1,1,2,2
+686,A: and let us hold her.  ,106.1,Tina let A and Robert hold Mae,1,1,1,1
+687,None,106.2,A and Robert held Mae,1,1,2,2
+688,A: So she was just minutes old then.  ,108.0,Mae was just minutes old then,1,1,1,1
+689,A: So we held her for just a couple minutes and ,110.0,A and Robert held Mae for just a couple of minutes,1,1,1,1
+690,A: it was really funny because you could hear her coming up the hall screaming  ,112.1,Tina zipping past the door to the outer part of the nursery was funny because one could hear Mae coming up the hall screaming loudly,1,1,1,1
+691,None,112.2,Tina zipping past the door to the outer part of the nursery was funny,1,1,1,1
+692,None,112.3,One could hear Mae coming up the hall screaming loudly,1,1,1,1
+693,"A: She handed her to me screaming loudly and I said to &Tina and also to the, ",117.0,Tina handed Mae to A screaming loudly,1,1,1,1
+694,"A: the birth mother’s mother there, you know oh &Robert has the magic touch.  I handed her to &Robert. Instant silence.  ",119.1,A said to Tina and also to the birth mother's mother that Robert has the magic touch,1,1,1,1
+695,None,119.2,Robert has the magic touch,3,3,1,1
+696,None,119.3,A handed Mae to Robert,1,1,1,1
+697,None,119.4,Mae stopped screaming,1,1,1,1
+698,A: Instant.  ,122.0,Mae stopped screaming instantly,1,1,1,1
+699,A: She just stopped screaming immediately.  ,123.0,Mae just stopped screaming immediately,1,1,1,1
+700,A: So he held her for a little while. And then the nurse was afraid to take her back. Said oh she’s going to scream again. {laugh} ,126.1,So Robert held Mae for a little while,1,1,1,1
+701,None,126.2,And then the nurse was afraid to take Mae back,1,1,1,1
+702,None,126.3,The nurse said oh Mae is going to scream again,1,1,1,1
+703,None,126.4,Mae is going to scream again,3,3,1,1
+704,A: And she did {laugh} ,129.0,And Mae did start crying,1,1,1,1
+705,A: And off they went to the nursery and then you watched through the glass ,131.1,Mae and the nurse went to the nursery,1,1,1,1
+706,None,131.2,Then one watched through the glass,1,1,1,1
+707,B: That must have [distorted] been very reassuring for &Robert.  ,132.0,Mae stopping crying when in Robert's arms must have been very reassuring for Robert,1,1,1,1
+708,"A: It was very nice wasn’t it. It was very wonderful for &Robert and for me too just to see, I knew it would work too.  ",133.1,Mae stopping crying when in Robert's arms was very nice,1,1,1,1
+709,None,133.2,Mae stopping crying when in Robert's arms was very wonderful for Robert,1,1,1,1
+710,None,133.3,A knew Robert comforting Mae would work,1,1,1,1
+711,None,133.4,Robert comforting Mae would work,1,1,1,1
+712,"A: I don’t know what it is. He has some, you have a theory. Body warmth or something but anyway.  ",138.1,A doesn't know what made Mae stop crying in Robert's arms,1,1,1,1
+713,None,138.2,Something made Mae stop crying in Robert's arms,1,1,2,2
+714,None,138.3,Mae stopped crying in Robert's arms,1,1,2,2
+715,None,138.4,Robert has some theory about Something made Mae stop crying in Robert's arms and body warmth or something,1,1,1,1
+716,"B: I have this theory [[says laughing]] that it’s men who are very broad right under the elbow you know like, ",141.1,B thinks Mae stop crying in Robert's arms is partly due to the body warmth but B has this theory that it's men who are very broad right under the elbow,1,1,1,1
+717,None,141.2,B thinks Mae stop crying in Robert's arms is partly due to the body warmth,1,1,1,1
+718,None,141.3,Mae stop crying in Robert's arms is partly due to the body warmth,3,3,1,1
+719,None,141.4,B has this theory that it's men who are very broad right under the elbow,1,1,1,1
+720,None,141.5,There are some man who are broad right under the elbow,3,3,1,1
+721,A: Wait a minute. Broad under the elbow.  You mean in the chest? ,142.1,A asks B to wait a minute,1,1,1,1
+722,None,142.2,B waits a minute,1,0,0,0
+723,None,142.3,A asks B if by broad under the elbow B means in the chest,1,1,1,1
+724,None,142.4,B means in the chest by broad under the elbow,3,2,0,0
+725,B: No. From the elbow down towards the wrist.  ,144.0,B means from the elbow down towards the wrist by broad under the elbow,2,1,3,3
+726,B: Who have like these big broad forearms.  ,146.1,B asks A who has like these broad forearms,1,1,1,1
+727,None,146.2,Someone has like these big broad forearms,2,2,3,3
+728,B: I think babies like that.  ,149.1,B thinks babies like broad forearms,1,1,1,1
+729,None,149.2,Babies like broad forearms,3,3,1,1
+730,"A: You think it gives, it gives security.  I suppose.  ",150.1,B thinks broad forearms give security,1,1,1,1
+731,None,150.2,Broad forearms give security,3,3,1,1
+732,None,150.3,A supposes broad forearms give security,1,1,1,1
+733,B: (( )) Do you remember &Otto who moved my filing cabinet that time in &Philadelphia he’s another one? ,151.1,B asks A if A remembers Otto who moved B's filing cabinet that time in Philadelphia,1,1,1,1
+734,None,151.2,A remembers Otto who moved B's filing cabinet that time in Philadelphia,1,4,0,0
+735,None,151.3,Otto moved B's filing cabinet that time in Philadelphia,1,1,2,2
+736,None,151.4,Otto is another man with broad forearms,1,1,1,1
+737,A: Yes. uh-huh.  ,152.0,A says Yes. uh-huh.  ,0,1,1,1
+738,A: yeah. He’s big.  He’s sort of solid to me.  ,154.1,Otto is big,1,1,1,1
+739,None,154.2,Otto is sort of solid to A,1,1,1,1
+740,B: He’s sort of very solid and they (( )) just love it [distortion].  ,156.1,Otto is sort of very solid,1,1,1,1
+741,None,156.2,Babies just love solid men,1,1,1,1
+742,A: But &Robert’s not big like that.  ,157.0,But Robert is not big like Otto,1,1,1,1
+743,"B: No, but he, but &Robert is big below the elbows I’ll bet if you check.  ",158.1,But Robert is big below the elbows,1,1,1,1
+744,None,158.2,B will bet that Robert is big below elbow if A checks,1,1,1,1
+745,None,158.3,B will bet that Robert is big below elbow,3,3,1,1
+746,None,158.4,A checks Robert's forearms,3,3,1,1
+747,A: {laugh} I’ll have to check out below &Robert’s elbows {laugh} ,159.1,A will have to check out below Robert's elbow,1,1,1,1
+748,None,159.2,A will check below Robert's elbow,3,3,1,1
+749,"A: So that was nice and then we watched through the nursery while they do, ",162.1,Mae stopping crying in Robert's arms was nice,1,1,1,1
+750,None,162.2,A and Robert watched through the nursery,1,1,1,1
+751,A: if you survive the first four hours of life in the nursery you’ll survive anything after.  It’s the most sort of appalling introduction to life.  ,163.1,"If a newborn survives the first hours of life in the nursery, a newborn will survive anything after the first four hours in the nursery",1,1,1,1
+752,None,163.2,A newborn survives the first hours of life in the nursery,3,3,1,1
+753,None,163.3,A newborn will survive anything after the first four hours in the nursery,3,3,1,1
+754,A: But I was kind of scared at that point because we’re looking in and there’re all these nice sweet little pale babies lying there limp  ,168.1,But A was kind of scared the first four hours of Mae's life because A and Robert were looking in and there were all these nice sweet little pale babies lying limp in the nursery,1,1,1,1
+755,None,168.2,A was kind of scared in the first four hours of Mae's life,1,1,1,1
+756,None,168.3,A and Robert were looking in the nursery,1,1,1,1
+757,None,168.4,There were all these nice sweet little pale babies lying limp in the nursery,1,1,1,1
+758,A: and there’s &Mae and she’s big compared to the rest and she was bright red and she is screaming and she screamed and she screamed and she screamed and all the rest of them as soon as they ,170.1,Mae was big compared to the rest of the newborns in the nursery,1,1,1,1
+759,None,170.2,Mae was bright red,1,1,1,1
+760,None,170.3,Mae was excessively screaming,1,1,1,1
+761,A: they sort of get exhausted after two screams and collapse. ,175.0,All the rest of the newborns in the nursery sort of got exhausted after two screams and collapsed,1,1,1,1
+762,A: And she was healthy I guess.  ,177.1,And Mae was healthy A guesses,1,1,1,1
+763,None,177.2,And Mae was healthy,3,3,0,0
+764,A: And she just screamed and screamed and screamed and screamed and screamed and I thought oh my god what have we wrought here. {laugh} ,179.0,A thought oh my god what have A and Robert wrought here,1,1,2,2
+765,B: Did they tell you her ((apgar)) or whatever they call that? ,180.1,B asks A if the nurses told A about Mae's apgar or whatever the nurses call the newborn's score,1,1,1,1
+766,None,180.2,The nurses told A about Mae's apgar or whatever the nurses call the newborn's score,2,4,0,0
+767,None,180.3,The nurses call the newborn's score something,1,1,2,2
+768,"A: They didn’t tell us anything.  In fact, at the hospital they weren’t ",182.0,The nurses did not tell A and Robert anything,1,2,3,3
+769,"A: the, there were someth-, the individual people we had contact with were, were decent to us and friendly  ",183.1,The individual people A and Robert had contact with at the hospital were decent and friendly to A and Robert,1,1,1,1
+770,None,183.2,A and Robert had contact with individual people at the hospital,1,1,1,1
+771,"A: but %um the hospital policy was rather unfriendly to us and they wouldn’t, like we had been told, we they have a room called the bonding room ",185.1,But the hospital policy was rather unfriendly to A and Robert,1,1,1,1
+772,None,185.2,The hospital have a room called the bonding room,1,1,1,1
+773,"A: and the whole purpose of the room is to let people be in it with the baby, who -- ",189.1,The whole purpose of the bonding room is to let people be in the bonding room with the baby,1,1,1,1
+774,None,189.2,People are in the bonding room with the baby,1,1,1,1
+775,"A: And they wouldn’t let us in there so, ",193.0,The nurses would not let A and Robert in the bonding room,1,1,1,1
+776,"A: d-, it was really quite awful.  They wouldn’t let us, they didn’t, they they gave us but they didn’t tell us beans.  ",195.1,A and Robert's not being able to enter the bonding room was really quite awful,1,1,1,1
+777,None,195.2,The nurses did not tell A and Robert beans,1,1,2,2
+778,A: I mean they really didn’t talk to us. They didn’t offer us that parenting class that they offer to most people.  ,197.1,The nurses really did not talk to A and Robert,1,1,1,1
+779,None,197.2,The nurses did not offer A and Robert that parenting class the nurses offer to most people,1,1,1,1
+780,A: We would have had to come back the next day to the hospital which of course we weren’t going to do.  ,199.1,A and Robert woud have had to come back the next day to the hospital,1,1,1,1
+781,None,199.2,A and Robert weren't going to go back to the hospital the next day,1,1,1,1
+782,"A: %um, you know they really weren’t very nice and  ",202.0,The nurses really weren't very nice,1,1,1,1
+783,"A: I guess they have, their rules are just very rigid.  ",204.1,A guesses the nurses have the nurses' rules that are just very rigid,1,1,1,1
+784,None,204.2,The nurses have the nurses' rules that are just very rigid,3,3,1,1
+785,None,204.3,The nurses' rules that are just very rigid,1,1,1,1
+786,A: an additional bracelet.  ,208.1,The problem is  the lawyer was supposed to have arranged for an aditional bracelet,1,1,1,1
+787,None,208.2,The lawyer arranged for an additional bracelet,2,2,3,3
+788,"A: In other words, what happens is they put one on the wrist of the baby, one on the ankle, one on the birth mother  ",210.0,"The nurses put one bracelet on the wrist of the baby, one bracelet on baby's ankle, one on the birth mother",1,1,1,1
+789,"A: and then she has a, what you call the fourth bracelet which she can give to whoever will be her coach through the birth and stuff and of course she had given it to her mother, ",211.1,"The birth mother has what one calls the fourth bracelet, which the birth mother can give to whoever will be the birth mother's coach through the birth and stuff",1,1,1,1
+790,None,211.2,The mother has what one calls the fourth bracelet,1,1,1,1
+791,None,211.3,The birth mother can give the fourth bracelet to whoever will be the birth mother's coach through the birth and stuff,1,1,1,1
+792,None,211.4,Some will coach the birth  mother through the birth and stuff,1,1,1,1
+793,None,211.5,Of course the birth mother had given the fourth bracelet to the birth mother's mother,1,1,1,1
+794,A: which makes perfect sense.  ,217.0,The birth's  mother giving the fourth bracelet to the birth mother's mother makes perfect sense,1,1,1,1
+795,"A: Well, the only way, they couldn’t get their minds around the notion of a fifth bracelet for us.  ",219.1,The nurses could not get the nurses' minds around the notion of a fifth bracelet for A and Robert,1,1,1,1
+796,None,219.2,The nurses could get the minds of the nurses' around all the four bracelets except the fifth bracelet,1,1,1,1
+797,"A: So the only way that they would have let us in there was to take her mothers away, ",221.1,The only way the nurses would have let A and Robert to the bonding room was to take the birth mother's mother's bracelet,1,1,1,1
+798,None,221.2,The nurses let A and Robert to the bonding room,2,2,3,3
+799,None,221.3,A and Robert took the birth mother's mother's bracelet,2,2,3,3
+800,A: which we wouldn’t ask and which she wouldn’t do.  ,223.1,A and Robert would not ask to take the birth mother's mother about the fifth bracelet,1,1,1,1
+801,None,223.2,A and Robert did not ask the birth mother's mother's about the fifth bracelet,1,1,1,1
+802,None,223.3,The birth mother's mother would not give A and Robert the fifth bracelet,1,1,1,1
+803,None,223.4,The birth mother's mother did not give A and Robert the fifth bracelet,1,1,1,1
+804,A: the lawyer had told us he had arranged everything ahead of time  ,227.1,The lawyer had told A and Robert the lawyer had arranged everything ahead of time,1,1,1,1
+805,None,227.2,The lawyer had arranged everything ahead of time,3,3,1,1
+806,A: and there was supposed to be I D there at the hospital for us and it was all set and of course he hadn’t done anything.  ,228.1,There was supposed to be ID at the hospital for A and Robert,1,1,1,1
+807,None,228.2,There was ID at the hospital for A and Robert,2,2,3,3
+808,None,228.3,Arranging the ID for A and Robert in the hospital was all set,1,1,1,1
+809,None,228.4,The lawyer hadn't done anything,1,1,1,1
+810,A: No. He hadn’t done anything.  He’s been just hopeless.  ,231.0,The lawyer has been just hopeless,1,1,2,2
+811,A: I mean I think legally he’s not hopeless.  I think he’s done all the necessary legal things but %um ,233.1,A thinks legally the lawyer is not hopeless,1,1,1,1
+812,None,233.2,Legally the lawyer is not hopeless,3,3,1,1
+813,None,233.3,A thinks the lawyer has done all the necessary legal things,1,1,1,1
+814,None,233.4,The lawyer has done all the necessary legal things,3,3,1,1
+815,"A: you know in terms of the things,  ",235.0,"In terms of arranging an ID for A and Robert, the lawyer was hopeless",1,1,1,1
+816,A: He’s an S O B forgive me tape whoever you are but he was a fucker {laugh}.  ,236.1,The lawyer is an SOB,1,1,1,1
+817,None,236.2,A apologizes B for calling the lawyer an SOB,1,1,1,1
+818,None,236.3,A gives persmission to whoever to tape A,1,1,1,1
+819,None,236.4,Someone is taping A,1,1,1,1
+820,None,236.5,The lawyer was a fucker,1,1,1,1
+821,A: I’m sorry but he was.  ,241.1,A is sorry for calling the lawyer a fucker but the lawyer was a fucker,1,1,1,1
+822,None,241.2,A is sorry for calling the lawyer a fucker,1,1,1,1
+823,B: I think they said published actually. {laugh} ,242.1,B thinks the CALLHOME corpus creators said that this conversation will be published actually,1,1,1,1
+824,None,242.2,The CALLHOME corpus creators said that this conversation will be published actually,3,3,1,1
+825,None,242.3,This conversation will be published actually,3,3,1,1
+826,A: oh well they can edit that word I guess {laugh} Anyway it’s English so {laugh} ,243.1,A guesses the CALLHOME corpus creators can edit the word fucker,1,1,1,1
+827,None,243.2,The CALLHOME corpus creators can edit the word fucker,3,3,1,1
+828,None,243.3,The word fucker is English,1,1,1,1
+829,A: It’s American English.  ,245.0,The word fucker is American English,1,1,1,1
+830,"A: You know he, he said things to me like well you’ll have her for the rest of your life, you know.  ",248.1,The lawyer said things to A like A will have Mae for the rest of A's life,1,1,1,1
+831,None,248.2,A will have Mae for the rest of A's life,3,3,1,1
+832,"A: Don’t worry about it, which is really an arrogant attitude to take, you know.  ",250.1,The lawyer said to A that A shouldn't worry about not being albe to bond with Mae in the bonding room,1,1,1,1
+833,None,250.2,A shouldn't worry about not being albe to bond with Mae in the bonding room,3,3,1,1
+834,None,250.3,The lawyer's attempt to comfort A about not being able to bond with Mae in the bonding room is really an arrogant attitude to take,1,1,1,1
+835,"A: yeah. He was really, he was a real arrogant S O B, so ",254.0,The lawyers was a real arrogant SOB,1,1,1,1
+836,B: How old was he? ,255.0,B asks A how old the lawyer was,1,1,1,1
+837,A: I don’t know we never met him. He never showed up.  ,256.1,A doesn't know how old the lawyer is,1,1,1,1
+838,None,256.2,A and Robert never met the lawyer,1,1,1,1
+839,None,256.3,The lawyer never showed up,1,1,1,1
+840,"A: W-, he ended up in the end, his par-, he sent his partner to actually sign the papers who’s not even an adoption attorney.  ",258.1,"In the end, the lawyer sent the lawyer's partner to actually sign the papers",1,1,1,1
+841,None,258.2,The lawyer's partner actually signed the papers,1,1,1,1
+842,A: He does litigation.  Doesn’t know what he’s doing but I hope he did what his partner told him to do.  ,260.1,The lawyer's partner does litigation,1,1,1,1
+843,None,260.2,The lawyer's partner does not know what the lawyer's partner is doing with signing the adoption papers but A hopes that the lawyer's partner did what the lawyer told the lawyer's partner to do,1,1,1,1
+844,None,260.3,The lawyer's partner does not know what the lawyer's partner is doing with signing the adoption papers,1,1,1,1
+845,None,260.4,A hopes that the lawyer's partner did what the lawyer told the lawyer's partner to do with the adoption papers,1,1,1,1
+846,None,260.5,The lawyer's partner did what the lawyer told the lawyer's partner to do with the adoption papers,4,4,0,0
+847,None,260.6,The lawyer told the lawyer's partner what to do with the adoption papers,3,3,1,1
+848,A: But he at least was a sensitive human being.  ,264.1,The lawyer's partner was at least a sensitive human being as opposed to the lawyer,1,1,1,1
+849,None,264.2,The lawyer was not a sensitive human being,1,1,2,2
+850,"A: And %um, you know so that was nice.  He had some sensitivity.  ",266.1,The laywer's partner being a sensitive human being was nice,1,1,1,1
+851,None,266.2,The lawyer's partner had some sensitivity,1,1,2,2
+852,B: We’re going to get cut off soon.  ,267.0,A and B's conversation is going to get cut off soon,1,1,1,1
+853,A: Tell me something then.  ,270.1,A asks B to tell B something,1,0,0,0
+854,None,270.2,B tells A something,3,0,0,0
+855,A: I’ll shut up. You can tell me something.  ,271.1,A will shut up,1,1,1,1
+856,None,271.2,A suggests that B tells A something,1,0,0,0
+857,B: What? ,272.0,B says What? ,0,2,3,3
+858,B: okay.  ,273.0,B says okay.  ,0,1,1,1
+859,"B: No. I’m worrying ab-, I’m not worrying I’m feeling like oh my gosh should all of this be in the public record or something.  ",274.1,B expresses doubts whether this conversation should be in public record,1,1,1,1
+860,None,274.2,This conversation should be in public record,2,2,3,3
+861,A: oh yes. Well they just beeped.  I think that might mean we have to hang up.  ,275.1,The CALLHOME corpus creators just beeped,1,1,1,1
+862,None,275.2,A thinks the beeping might mean A and B have to hang up,1,1,1,1
+863,None,275.3,The beeping might mean A and B have to hang up,3,3,1,1
+864,None,275.4,A and B have to hang up,3,3,1,1
+865,A: We have a minute.  ,277.0,A and B have a minute,1,1,1,1
+866,B: I want to tell you I saw four parakeets fly across the street in &Barcelona.  ,279.1,B wants to tell A B saw four parakeets fly across the street in Barcelona,1,1,1,1
+867,None,279.2,B tells A B saw four parakeets fly across the street in Barcelona,1,1,1,1
+868,None,279.3,B saw four parakeets fly across the street in Barcelona,1,1,1,1
+869,None,279.4,Four parakeets flew across the street in Barcelona,1,1,1,1
+870,A: oh neat. Is it thirty minutes? ,280.1,A asks B if this conversation has gone for thirty minutes already,1,1,1,1
+871,None,280.2,This conversation has gone for thirty minutes already,4,2,0,0
+872,B: It was [distorted] beautiful.  ,281.0,The parakeets flying across the street in Barcelona was beautiful,1,1,1,1
+873,B: It’s going to be thirty minutes in about five minutes I think.  ,283.1,B thinks this conversation will have been going for thirty minutes in about five minutes,2,1,3,3
+874,None,283.2,This conversation will have been going for thirty minutes in about five minutes,3,3,1,1
+875,A: oh okay because there’s a beep coming on my end.  ,284.0,There’s a beep coming on A's end,1,1,1,1
+876,A: You don’t hear it? ,286.1,A asks B if B doesn't hear the beeping,1,1,1,1
+877,None,286.2,B doesn't hear the beeping,3,1,0,0
+878,B: No.  ,287.0,B says No.  ,1,0,1,1
+879,A: okay. Well ignore it so we’ll let them go on.  ,288.1,A asks B to ignore what A said about the beeping,1,1,1,1
+880,None,288.2,B ignores what A said about the beeping,3,1,1,1
+881,None,288.3,A and B will let the CALLHOME corpus creators go on,1,1,1,1
+882,B: Well anyway.  ,290.0,B says Well anyway.  ,1,0,1,1
+883,A: oh so that sounds very nice. They were loose or in a ,291.1,Seeing parakeets fly across the street in Barcelona sounds very nice,1,1,1,1
+884,None,291.2,A asks B if the parakeets were loose,1,1,1,1
+885,None,291.3,The parakeets were loose,3,1,0,0
+886,B: Well I they were loose they were I said the &Sheila I think I hear a parakeet.  ,292.1,B told Sheila B thinks B hears a parakeet,1,1,1,1
+887,None,292.2,B thinks B hears a parakeet,1,1,1,1
+888,None,292.3,B hears a parakeet,3,3,1,1
+889,B: And you could tell he thought that it was nonsense that it was a  ,294.1,One could tell that Sheila thought that B seeing parakeets was nonsense,1,1,1,1
+890,None,294.2,Sheila thought that B seeing parakeets was nonsense,1,1,1,1
+891,None,294.3,B seeing parakeets was nonsense,2,2,3,3
+892,B: crow and then I saw it but the sun was against my eyes ,296.1,One could tell that Sheila thought that the parakeet  was a crow,1,1,1,1
+893,None,296.2,Sheila thought that the parakeet was a crow,1,1,1,1
+894,None,296.3,The parakeet was a crow,2,2,3,3
+895,B: so I couldn’t tell and then it flew and when it flew three more of them flew out of the same tree.  ,298.1,Then B saw a parakeet but the sun was againts B's eyes so B couldn't tell whether B saw a parakeet,1,1,1,1
+896,None,298.2,Then B saw a parakeet but the sun was againts B's eyes,1,1,1,1
+897,None,298.3,B saw a parakeet,1,1,2,2
+898,None,298.4,The sun was againts B's eyes,1,1,1,1
+899,None,298.5,B couldn't tell whether B saw a parakeet,1,1,1,1
+900,None,298.6,The parakeet flew,1,1,1,1
+901,None,298.7,When the parakeet flew three more of the parakeets flew out of the same tree,1,1,1,1
+902,None,298.8,Three more of the parakeets flew out of the same tree,1,1,1,1
+903,B: They were beautiful.  ,300.0,The parakeets were beautiful,1,1,1,1
+904,A: there was a street I walked down in &Barcelona big wide ,301.0,"A walked down a big, wide street in Barcelona",1,1,1,1
+905,B: with all the bird sellers ,302.0,"A walked down a big, wide street with all the bird sellers in Barcelona",1,1,1,1
+906,A: Yes.  ,303.0,A says Yes.  ,1,1,2,2
+907,B: They were closed up that day but I’m sure that what these were is ,304.1,The bird sellers were closed up the day B saw the parakeets but B's sure that these parakeets were escapees,1,1,1,1
+908,None,304.2,The bird sellers were closed up the day B saw the parakeets,1,1,1,1
+909,None,304.3,B's sure that these parakeets were escapees,1,1,1,1
+910,None,304.4,There parakeets were escapees,1,1,1,1
+911,A: Well it was g- it was a wonderful place I mean I guess you have to sort of discount that they’re in cages but ,305.1,"The big, wide street with all the bird sellers in Barcelona is a wonderful place",1,1,1,1
+912,None,305.2,A guesses one has to sort of discount that the bird that are to be sold are in cages,1,1,1,1
+913,None,305.3,One has to sort of discount that the bird that are to be sold are in cages,3,3,1,1
+914,None,305.4,The bird that are to be sold are in cages,1,1,1,1
+915,B: yeah It’s it’s part of <Spanish (( ))> ,307.0,The bird that are to be sold are in cages is part of the problem,1,1,1,1
+916,A: it was beautiful ,308.0,"The big, wide street with all the bird sellers in Barcelona was beautiful",1,1,1,1
+917,A: I mean it was just so beautiful with all these amazing ,310.0,"The big, wide street with all the bird sellers in Barcelona was beautiful with all these amazing birds and colors",1,1,1,1
+918,A: I saw parts of &Spain where they had birds on the shutters and they put them out during the day.  ,314.1,A saw parts of Spain where people had birds on the shutters,1,1,1,1
+919,None,314.2,People had birds on the shutters in parts of Spain,1,1,1,1
+920,None,314.3,People put the birds out during the day,1,1,1,1
+921,B: It’s very popular in &Spain but it’s not so popular here in &France.  ,315.1,People having birds on the shutters and putting the birds out during the day is very popular in Spain but people having birds on the shutters and putting the birds out during the day is not so popular in France,1,1,1,1
+922,None,315.2,People having birds on the shutters and putting the birds out during the day is very popular in Spain,1,1,1,1
+923,None,315.3,People having birds on the shutters and putting the birds out during the day is not so popular in France,1,1,1,1
+924,A: yeah.  It was a nice thing.  yeah. %um ,316.0,People having birds on the shutters and putting the birds out during the day was a very nice thing,1,1,1,1
+925,B: I’ve seen very little of it. yeah. y- ,317.0,B has seen very little of people having birds on the shutters and putting the birds out during the day,1,1,1,1
+926,B: I had friends in &Madrid whose father bred birds actually.  ,318.1,B had friends in Madrid whose father bred birds actually,1,1,1,1
+927,None,318.2,B had friends in Madrid,1,1,1,1
+928,None,318.3,B's friends's father in Madrid bred birds actually,3,1,1,1
+929,A: oh really? ,319.0,A asks B if B's friend's father in Madrid bred birds actually,1,1,1,1
+930,B: In their apartment.  yeah.  It’s quite a big hobby.  ,320.1,B's friends's father bred birds in B's friends's apartment in Madrid,1,1,1,1
+931,None,320.2,Breeding birds in an apartment in a quite big hobby,1,1,1,1
+932,A: Parakeets or? ,321.1,A asks B if the birds bred by B's friends's father in the apartment in Madrid were parakeets,1,1,1,1
+933,None,321.2,The birds bred by B's friends's father in the apartment in Madrid were parakeets,3,2,0,0
+934,B: No little tiny birds.  I don’t know what they were.  Little ,322.1,The birds bred by B's friends's father in the apartment in Madrid were not parakeets,1,1,1,1
+935,None,322.2,The birds bred by B's friends's father in the apartment in Madrid were tiny birds,1,1,1,1
+936,None,322.3,B doesn't know what kind of birds were the birds bred by B's friends's father in the apartment in Madrid,1,1,1,1
+937,A: Finches maybe.  ,323.0,The birds bred by B's friends's father in the apartment in Madrid were maybe finches,1,1,1,1
+938,B: yeah.  Song birds of some kind.  ,324.0,The birds bred by B's friends's father in the apartment in Madrid were song birds of some kind,1,1,1,1
+939,B: And he was good at breeding them.  ,326.0,B's friends's father in Madrid was good at breeding the song birds of some kind,1,1,1,1
+940,"B: So but when you went up to &Connecticut, all was well? Or was that another adventure? ",330.1,B asks A if when A went up to Connecticut all was well,1,1,1,1
+941,None,330.2,A went up to Connecticut,0,1,0,2
+942,None,330.3,All was well in Connecticut,0,3,0,0
+943,None,330.4,B asks A if going up to Connecticut was another adventure,0,1,0,0
+944,None,330.5,A's going up to Connecticut was another adventure,0,3,0,0
+945,A: up to &Connecticut? Did I go to ,331.1,A expresses confusion about A's going up to Connecticut,1,1,1,1
+946,None,331.2,A asks B if A went to Connecticut,1,1,1,1
+947,None,331.3,A went to Connecticut,4,1,0,0
+948,B: Then you had to go up and get &Jack and everything after (( )) [distortion] ,332.1,A had to go up to Connecticut and get Jack,0,1,0,0
+949,None,332.2,A got Jack from Connecticut,0,1,0,0
+950,A: oh yeah it’s it’s &New &York still but.  ,333.0,A had to get Jack from a place that is still New York and not Connecticut,1,1,1,1
+951,B: {lipsmack} oh.  ,334.0,B says {lipsmack} oh.  ,2,2,3,3
+952,A: %um yeah we got up. We got &Jack. We went to the lawyer our lawyer who’s been ,335.1,A and Robert got  up to New York,1,1,1,1
+953,None,335.2,A and Robert got Jack,1,1,1,1
+954,None,335.3,"A and Robert went to the laywer, A and Robert's lawyer",1,1,1,1
+955,A: Absolutely fantastic start to finish.  I think she’s great.  ,337.1,A and Robert's lawyer has been absolutely fantastic start to finish,1,1,1,1
+956,None,337.2,A thinks that A and Robert's lawyer is great,1,1,1,1
+957,None,337.3,A and Robert's lawyer is great,1,1,1,1
+958,A: %um {lipsmack} and then came home and that’s when yeah then &Robert’s mom crashed the car {laugh}.  ,339.1,A and Robert came home after picking up Jack from New York,1,1,1,1
+959,None,339.2,When A and Robert came back home from picking up Jack in New York Robert's mom crushed the car,1,1,1,1
+960,None,339.3,Robert's mom crushed the car,1,1,1,1
+961,A: yeah actually we had to do that at like eight o’clock the next morning because &Martha was leaving by nine.  ,342.1,A and Robert had to deal with the crashed car at like eight o'clock the next morning because Martha was leaving by nine,1,1,1,1
+962,None,342.2,A and Robert had to deal with the crashed car at like eight o'clock the next morning,1,1,1,1
+963,None,342.3,Martha was leaving by nine,1,1,1,1
+964,B: So mom and dad were down there for how long? ,343.1,B asks A how long A and B's mom and dad were at A and Robert's home,1,1,1,1
+965,None,343.2,A and B's mom and dad were at A and Robert's home,1,1,2,2
+966,A: They came Saturday and stayed Saturday night and Sunday and left Monday ,344.1,A and B's mom and dad came Saturday,1,1,1,1
+967,None,344.2,A and B's mom and dad stayed Saturday night,1,1,1,1
+968,None,344.3,A and B's mom and dad left Monday,1,1,1,1
+969,B: uh-huh.  This past Monday like ,345.0,A and B's mom and dad left this past Monday,1,1,1,1
+970,B: %um I took them to %uh &Jill’s and they spent two days there and I guess she couldn’t take them and their mom and dad came.  ,1.1,B took the kids to Jill's,1,1,1,1
+971,None,1.2,The kids spent two days at Jill's,1,1,1,1
+972,None,1.3,B guesses Jill couldn't take the kids,1,1,1,1
+973,None,1.4,Jill couldn't take the kids,3,3,1,1
+974,None,1.5,The kid's mom and dad came,1,1,1,1
+975,A: You mean at te- in &Texas? ,2.1,A asks B if B took the kids to Texas,1,1,1,1
+976,None,2.2,B took the kids to Texas,3,1,1,1
+977,B: yeah.  ,3.0,B says yeah.  ,1,0,1,1
+978,B: And their mom and dad drove down there and got them.  ,4.1,The kids' mom and dad drove down to Texas,1,1,1,1
+979,None,4.2,The kids' mom and dad got the kids from Texas,1,1,1,1
+980,A: So how are they getting back? Driving them ,8.1,A asks B how are the kids getting back,1,1,1,1
+981,None,8.2,The kids are getting back,1,1,2,2
+982,B: t- driving them back.  ,9.0,The kid's mom and dad are driving the kids back,1,1,1,1
+983,A: Darn it. I thought I was going to get to see everybody.  ,11.1,A thought B was going to get to see everybody,1,1,1,1
+984,None,11.2,B was going to get to see everybody,3,3,0,0
+985,None,11.3,B got to see everybody,2,2,3,3
+986,B: come back like a while ago but &Jill like she keeps farting around and won’t want to go get them and ,14.1,The kids were supposed to come back a while ago but Jill keeps farting around and won't want to get the kids,1,1,1,1
+987,None,14.2,The kids were supposed to come back a while ago,1,1,1,1
+988,None,14.3,Jill kept farting around,1,1,1,1
+989,None,14.4,Jill wouldn't want to get the kids,1,1,1,1
+990,None,14.5,Jill got the kids,2,2,3,3
+991,A: Did she have her baby yet? ,17.1,A asks B if Jill had her baby yet,1,1,1,1
+992,None,17.2,Jill had her baby yet,4,1,0,0
+993,B: yeah. She had a girl.  ,18.0,Jill had a girl,1,1,1,1
+994,B: Six pounds or something like that. I don’t know.  ,20.1,Jill's baby weighed six pounds or something like that,1,1,1,1
+995,None,20.2,B doesn't know if Jill's baby weighed six pounds,1,1,1,1
+996,B: hey ain’t my concern.  ,21.0,Whether Jill's baby weighed six pounds ain't B's concern,1,1,1,1
+997,A: Good. Good for you.  ,22.0,It's good for B that Jill's  baby weight is not B's concern,1,1,1,1
+998,A: So you’ve been leading the life of &Reilly %huh? ,23.1,A asks B if B has been leading the llife of Reily,1,1,1,1
+999,None,23.2,B has been leading the llife of Reily,3,2,0,0
+1000,B: No. Not really. Just I haven’t been home much this summer and w- ,24.1,B has not been leading the llife of Reily,2,1,3,3
+1001,None,24.2,Just B hasn't been home much this summer,1,1,1,1
+1002,A: And busier than hell %huh? ,25.1,A asks B if B was busier than hell this summer,1,1,1,1
+1003,None,25.2,B was busier than hell this summer,3,0,0,0
+1004,A: Give you a nice break.  ,28.1,Not being home much this summer gave B a nice break,1,1,1,1
+1005,None,28.2,B had a nice break this summer,1,2,2,3
+1006,B: Well no. I missed the hell out of them.  ,29.1,B didn't have a nice break this summer,1,1,1,1
+1007,None,29.2,B missed the hell out of the kids,3,1,1,1
+1008,A: Do you? {laugh} ,30.0,A asks B if B missed the hell out of the kids,1,1,1,1
+1009,A: Go get them.  ,34.0,B was ready to go get the kids,1,1,1,1
+1010,B: You know I was gone ,37.1,A knows B was gone,1,1,1,1
+1011,None,37.2,B was gone,1,1,2,2
+1012,A: What kind of car do you have? ,38.1,A asks B what kind of car B has,1,0,0,0
+1013,None,38.2,B has a car,1,0,2,0
+1014,A: What kind of car do you have now? ,40.0,A says What kind of car do you have now? ,0,1,1,1
+1015,B: Same car.  ,41.0,B has the same car,1,1,1,1
+1016,A: oh. really? You got that thing repaired? ,42.1,A asks B if B really has the same car,1,1,1,1
+1017,None,42.2,A asks B if B got B's car repaired,1,1,1,1
+1018,None,42.3,B got B's car repaired,3,1,1,1
+1019,B: yeah.  ,43.0,B says yeah.  ,1,0,1,1
+1020,A: What else is going on? You’re busy with work and ,50.1,A asks B what else is going on,1,1,1,1
+1021,None,50.2,Something else is going on,1,1,2,2
+1022,None,50.3,B is busy with work,1,1,1,1
+1023,B: yeah. I work ten at night to six in the morning. &Bo &Bo’s happy because %uh he don’t have to go back to day care.  ,51.1,B works ten at night to six in the morning,1,1,1,1
+1024,None,51.2,Bo's happy because Bo doesn't have to go back to day care,1,1,1,1
+1025,None,51.3,Bo's happy,1,1,1,1
+1026,None,51.4,Bo doesn't have to go back to day care,1,1,1,1
+1027,A: Right. When do you sleep then? ,52.1,A asks B when B sleeps then,1,1,1,1
+1028,None,52.2,B sleeps,1,1,2,2
+1029,B: I p- I sleep probably a couple hours in the morning and then like at nap time.  ,53.1,B sleeps probably a couple hours in the morning,1,1,1,1
+1030,None,53.2,Then B sleeps probably like at nap time,1,1,1,1
+1031,A: yeah. You never did require much sleep.  ,54.0,B never required much sleep,1,1,1,1
+1032,"A: {breath} So has, has %uh the old man and the old lady called you lately? ",57.1,A asks B if the old man and the old lady called B lately,1,1,1,1
+1033,None,57.2,The old man and the old lady called B lately,4,2,0,0
+1034,B: No.  ,58.0,The old man and the old lady didn't call B lately,2,1,3,3
+1035,B: Ain’t worried about it.  ,60.0,B ain't worried about the old man and the old lady not calling B,1,1,1,1
+1036,A: in &Illinois recently.  ,62.0,B's sister was in Illinois recently,1,3,1,1
+1037,B: She was? ,63.0,B asks A if B's sister was in Illinois recently,1,1,1,1
+1038,A: yeah.  ,64.0,A says yeah.  ,0,1,1,1
+1039,B: What for? ,65.0,B asks A why B's sister was in Illinois,1,1,1,1
+1040,A: -- out of her house.  ,67.0,B's sister old man kicked B's sister out of B's sister house,1,1,1,1
+1041,B: yeah. Well &Jill’s been getting the shit beat out of her and all that at ,68.0,Jill has been getting the shit beat out of Jill,3,1,1,1
+1042,B: No.  ,70.0,B says No.  ,1,0,1,1
+1043,A: Well don’t get sucked into that.  ,71.0,A advices B not to get sucked into Jill's problems,1,1,1,1
+1044,B: oh I’m not.  ,72.0,B won't get sucked into Jill's problems,1,1,1,1
+1045,B: Her baby’s got colic and she ((did funny)).  ,74.0,Jill's baby got colic,1,1,1,1
+1046,A: oh. Sounds like a real mess.  ,75.0,Jill's situation sounds like a real mess,1,1,1,1
+1047,B: So is she home for good? ,77.1,B asks A if Kara is home for good,1,1,1,1
+1048,None,77.2,Kara is home for good,2,4,0,0
+1049,A: No.  ,78.0,Kara isn't home for good,1,2,3,3
+1050,B: He took her back? ,79.1,B asks A if the old man took Kara back,1,1,1,1
+1051,None,79.2,The old man took Kara back,2,3,0,0
+1052,A: No. He didn’t take her back but his %uh mom was going to buy her a car -- ,80.0,A says No. He didn’t take her back but his %uh mom was going to buy her a car -- ,0,2,3,3
+1053,A: -- so that she’d stay out there and sure enough she’s staying out there.  ,81.1,The old man didn't take Kara back but the old man's mom was going to buy Kara a car so that Kara would stay out there,1,1,1,1
+1054,None,81.2,The old man didn't take Kara back,1,1,1,1
+1055,None,81.3,The old man's mom was going to buy Kara a car,1,1,1,1
+1056,None,81.4,The old man's mom bought Kara a car,2,2,3,3
+1057,None,81.5,Kara would stay out there,1,1,1,1
+1058,None,81.6,Kara is staying out there,1,1,1,1
+1059,A: So anyway she called me a couple days before she was going to come home and [dishes clinking] {lipsmack} and I go %um {breath}  ,85.1,Kara called A a couple of days ago before Kara was going to come home,1,1,1,1
+1060,None,85.2,Kara called A a couple of days ago,1,1,1,1
+1061,None,85.3,Kara was going to come home,1,1,1,1
+1062,A: you’re not wanted ,87.1,A asked Kara why Kara would stay in a place where Kara is not wanted,1,1,1,1
+1063,None,87.2,Kara would stay in a place where Jill is not wanted,1,1,2,2
+1064,None,87.3,Kara is not wanted in the old man's place,1,1,2,2
+1065,A: in a state you know that where you don’t know hardly anybody.  ,88.1,A asked Kara why Kara would stay in a state where Kara hardly knows anybody,1,1,1,1
+1066,None,88.2,Kara would stay in a state where Kara hardly knows anybody,1,1,2,2
+1067,None,88.3,Kara hardly knows anybody,1,1,2,2
+1068,"A: {breath} So then it that’s when it all came out. She said well &Pat I think her name’s &Patty, &Patty’s going to buy me a car. [[last seven words spoken in imitation of Kara’s voice]] ",89.1,That's when Kara's problems came out,1,1,1,1
+1069,None,89.2,B thinks that the old man's mom is called Patty,1,1,1,1
+1070,None,89.3,The old man's mom is called Patty,3,3,1,1
+1071,None,89.4,Kara said that Patty was going to but Kara a car,1,1,2,2
+1072,None,89.5,Patty was going to but Kara a car,3,3,2,2
+1073,A: She’s going to help me out. [[still in imitation]] I said ,90.1,Kara said that Patty was going to help Kara out,1,1,1,1
+1074,None,90.2,Patty was going to help Kara out,3,3,1,1
+1075,A: the kid to stay there so she can see your grandson.  ,92.1,A told Kara that Patty is going to buy Kara a car because Patty wants the kid to stay there so Patty can see Patty's grandson,1,1,1,1
+1076,None,92.2,Patty is going to buy Kara a car because Patty wants the kid to stay there so Patty can see Patty's grandson,1,1,1,1
+1077,None,92.3,Patty is going to buy Kara a car,3,3,1,1
+1078,None,92.4,Patty wants the kid to stay there so Patty can see Patty's grandson,1,1,1,1
+1079,None,92.5,Patty wants the kid to stay there,1,1,1,1
+1080,None,92.6,Patty can see Patty's grandson,1,1,1,1
+1081,A: so she got all pissed off at me.  ,94.0,Kara got all pissed off at A,1,1,1,1
+1082,A: I said you’re being used.  ,95.1,A told Kara that Kara is being used,1,1,1,1
+1083,None,95.2,Kara is being used,1,1,1,1
+1084,A: You’re being bought. {breath} [dishes clanging] ,96.1,A told Kara that Kara is being bought,1,1,1,1
+1085,None,96.2,Kara is being bought,1,1,1,1
+1086,B: Man she going to be like &Jill become  ,97.0,Kara is going to be like Jill,1,1,1,1
+1087,A: so I said why don’t you stand up on your own two feet.  ,99.1,A asked Kara why Kara doesn't stand up on Kara's own two feet,1,1,1,1
+1088,None,99.2,Kara doesn't stand up on Kara's own two feet,1,1,2,2
+1089,B: She going to be like &Jill and become a product of the state and shit live off welfare and ((god damn)).  ,100.1,Kara is going to become a product of the state,1,1,1,1
+1090,None,100.2,Kara is going to live off welfare,1,1,1,1
+1091,A: Then you know what she said to me? ,101.1,A asks B if B knows what Kara said to A,1,1,1,1
+1092,None,101.2,B knows what Kara said to A,2,2,3,3
+1093,None,101.3,Kara said something to A,1,1,2,2
+1094,B: What.  ,102.0,B asks A what Kara said to A,1,1,1,1
+1095,"A: {lipsmack} {breath} &uh, and this sounded just like something like %uh her mother-in-law or w- I don’t know th- what the hell relationsh- it wouldn’t be mother-in-law.  ",104.0,What Kara said to A sounded like Kara's mother-in-law,1,1,1,1
+1096,A: probably is saying to her. {breath} &Kara says well I have to do what’s right for &David. [[imitating Kara in last nine words]] ,106.1,What Kara said to A sounded like what Drew's mom is probably saying to Kara,1,1,1,1
+1097,None,106.2,Drew's mom is probably saying someting to Kara,1,1,2,2
+1098,None,106.3,Kara's mother-in-law is Drew's mother,1,1,1,1
+1099,None,106.4,Kara says Kara has to to what's right for David,1,1,1,1
+1100,None,106.5,Kara has to to what's right for David,1,1,1,1
+1101,A: And I said no &Kara you have to do what’s right for &Kara. ,108.1,A said that Kara doesn't have to do what's right for David,1,1,1,1
+1102,None,108.2,Kara doesn't have to do what's right for David,1,1,1,1
+1103,None,108.3,A said that Kara has to do what's right for Kara,1,1,1,1
+1104,None,108.4,Kara has to do what's right for Kara,1,1,1,1
+1105,A: And what’s right for &Kara will be right for &David.  ,109.0,And what's right for Kara will be right for David,1,1,1,1
+1106,"B: That’s right. As long as you feed him, love him and take care of him.  ",110.1,"As long as Kara feeds David, love David and take care of David, David will be good",1,1,1,1
+1107,None,110.2,Kara feeds David,1,1,1,1
+1108,None,110.3,Kara loves David,1,1,1,1
+1109,None,110.4,Kara takes care of David,1,1,1,1
+1110,None,110.5,David will be good,1,1,1,1
+1111,A: oh well I don’t want him to not know his daddy. [[imitating Kara]] ,111.1,Kara said that Kara doesn't want David not to know David's daddy,1,1,1,1
+1112,None,111.2,Kara doesn't want David not to know David's daddy,1,1,1,1
+1113,None,111.3,David doesn't know David's daddy,2,2,3,3
+1114,None,111.4,David knows David's daddy,1,1,1,1
+1115,A: {breath} Why? ,113.0,A asked Kara why Kara doesn't want David not to know David's daddy,1,1,1,1
+1116,"A: I wouldn’t I w-, I you know what I could never be with someone who didn’t love me.  ",114.1,A could never be with someone who didn't love A,1,1,1,1
+1117,None,114.2,Someone didn't love A,2,2,3,3
+1118,A: Could you? ,115.1,A asks B if B could be with anyone who didn't love B,1,1,1,1
+1119,None,115.2,B could never be with someone who didn't love B,4,0,0,0
+1120,None,115.3,Someone didn't love B,2,2,3,3
+1121,B: Hell no.  ,116.0,B says Hell no.  ,0,1,1,1
+1122,A: I don’t get that.  ,117.1,A doesn't get why someone could be with someone who didn't love someone,1,1,1,1
+1123,None,117.2,Someone could be with someone who didn't love someone,3,3,1,1
+1124,None,117.3,Someone didn't love someone,2,2,3,3
+1125,A: I don’t get that. Anyway so I spouted my mouth off  ,118.0,A spouted A's mouth off,1,1,1,1
+1126,B: Good for you.  ,120.0,A spouting A's mouth off is good for A,1,1,1,1
+1127,A: the %uh [[quietly groaning]] sergeant and lieutenant at the %uh &Des &Moines &McDonald’s ,123.1,A has to tell B that A met sergeant and lieutenant at the Des Moines McDonald's,1,1,1,1
+1128,None,123.2,A tells B A met sergeant and lieutenant at the Des Moines McDonald's,1,1,1,1
+1129,None,123.3,A met sergeant and lieutenant at the Des Moines McDonald's,1,1,1,1
+1130,A: because they were dropping off &Shawn.  ,124.1,A met sergeant and lieutenant at the Des Moines McDonald's because sergeant and lieutenant were dropping Shawn off,1,1,1,1
+1131,None,124.2,Sergeant and lieutenant were dropping Shawn off,1,1,1,1
+1132,B: Sergeant and lieutenant? ,125.0,B asks A who are sergeant and lieutenant,1,1,1,1
+1133,A: &Jennings.  ,126.0,Sergeant and lieutenant are sergeant and lieutenant Jennings,1,4,0,0
+1134,B: You talking about mom and dad? {laugh} ,129.1,B asks A if sergeant and lieutenant Jennings are A and B's mom and dad,1,1,1,1
+1135,None,129.2,Sergeant and lieutenant Jennings are A and B's mom and dad,1,1,1,1
+1136,A: yeah.  ,130.0,A says yeah.  ,0,1,1,1
+1137,A: %eh here’s why I call them that.  ,131.0,A calls A and B's mom and dad sergeant and lieutenant because of some reason,1,1,1,1
+1138,"A: So we’re sitting there in &McDonald’s p- and I’m they had &Shawn for a week {breath} and %uh we’re visiting and, and %uh {breath} they start in on me right away.  ",132.1,A and A and B's mom and dad were sitting in McDonald's,1,1,1,1
+1139,None,132.2,A and B's mom and dad had Shawn for a week,1,1,1,1
+1140,None,132.3,A and someone were visiting,1,1,1,1
+1141,None,132.4,A and B's mom and dad start in on A right away,1,1,1,1
+1142,A: And you keep your mouth shut and you don’t say this and you don’t say that and don’t say this and don’t say that. [[adopting the voice of an admonishing parent for mocking effect]] {breath} It was the whole time was %uh was nothing but a big fucking lecture.  ,133.1,A and B's mom and dad told A to keep A's mouth shut,1,1,1,1
+1143,None,133.2,A keeps A's mouth shut,3,3,1,1
+1144,None,133.3,A and B's mom and dad told A not to say this and that,1,1,1,1
+1145,None,133.4,A says this and that,3,3,1,1
+1146,None,133.5,The whole fucking time A and B's mom and dad were lecturing A,1,1,1,1
+1147,B: {laugh} You say oh I’ve got to go.  ,134.1,A said A has got to go,2,2,3,3
+1148,None,134.2,A had got to go,2,2,3,3
+1149,"A: So I think, I think I did that on purpose.  ",135.1,A thinks A called A and B's mom and dad sergeant and lieutenant because A and B's mom and dad kept lecturing A,1,1,1,1
+1150,None,135.2,A called A and B's mom and dad sergeant and lieutenant because A and B's mom and dad kept lecturing A,1,1,1,1
+1151,None,135.3,A called A and B's mom and dad sergeant and lieutenant,1,1,2,2
+1152,None,135.4,A and B's mom and dad kept lecturing A,1,1,2,2
+1153,B: Good for you.  ,136.0,It's good for A to call A and B's mom and dad sergeant and lieutenant,1,1,1,1
+1154,A: {breath} Well then the following weekend was father’s day.  ,137.0,Then the following weekend was father's day,1,1,1,1
+1155,A: And %uh we were supposed to all meet in &Des M- ,138.1,A and A and B's mom and dad were supposed to all meet in Des Moines,1,1,1,1
+1156,None,138.2,A and A and B's mom and dad met in Des Moines,1,1,1,1
+1157,A: oh that was to drop &Shawn off. okay. yeah.  {breath} And then we’re going to meet and pick &Shawn up and see &Kara and &David. I’ve never seen that kid.  ,139.1,A and A and B's mom and dad were supposed to all meet in Des Moines to drop Shawn off,1,1,1,1
+1158,None,139.2,A and B's mom and dad were supposed to drop off Shawn,1,1,1,1
+1159,None,139.3,A and A and B's mom and dad dropped Shawn off,1,1,1,1
+1160,None,139.4,A and A and B's mom and dad were going to see Kara and David,1,1,1,1
+1161,None,139.5,A and A and B's mom and dad saw Kara and David,2,3,3,3
+1162,None,139.6,A has never seen David,1,1,1,1
+1163,"A: Have no clue what he, well you haven’t either.  ",140.0,B hasn't seen David either,1,1,1,1
+1164,"A: we get there and there’s dad with his hands in his pocket and he meets us out at the car and, {breath} and %uh  ",143.1,A and someone got to A and B's mom and dad,1,1,1,1
+1165,None,143.2,A and B's dad was there with A and B's dad hands in A and B's dad's pocket,1,1,1,1
+1166,None,143.3,A and B's dad met A and someone at the car,1,1,1,1
+1167,A: %um mom was sitting on the bench for once not huddling around dad. {breath} ,144.1,A and B's mom was sitting on the bench,1,1,1,1
+1168,None,144.2,A and B's mom was not huddling around A and B's dad for once,1,1,1,1
+1169,A: And %um I said where’s &Kara. {breath} He said well she didn’t come.  ,146.1,A asked A and B's mom and dad where Kara is,1,1,1,1
+1170,None,146.2,Kara was somewhere,1,1,2,2
+1171,None,146.3,A and B's dad said Kara didn't come,1,1,1,1
+1172,None,146.4,Kara didn't come,1,1,1,1
+1173,"A: He said no she didn’t come. She %uh she didn’t like the last two conversations that she had with you. She %uh doesn’t, didn’t like what you s- you had to say to her.  ",148.1,Kara didn't like the last two conversations that Kara had with A,1,1,1,1
+1174,None,148.2,Kara and A had two conversations,1,1,2,2
+1175,None,148.3,Kara didn't like what A had to say to Kara,1,1,1,1
+1176,None,148.4,A said soemthing to Kara,1,1,2,2
+1177,B: So they still backing her.  ,149.0,A and B's mom and dad are still backing Kara,1,1,1,1
+1178,A: And you want to know something? ,150.1,A asks B if B wants to know somehting,1,1,1,1
+1179,None,150.2,B wants to know somehting,3,1,1,1
+1180,B: What? ,151.0,B says What? ,1,0,1,1
+1181,A: They probably told her it was okay not to come. They probably said yeah [[drawn out]] we don’t like how she talks to us either. [[bitter evocation of parental diction in previous ten words]] ,152.1,A and B's mom and dad probably told Kara it was okay not to come,1,1,1,1
+1182,None,152.2,It was okay for Kara not to come,2,2,3,3
+1183,"A: I bet, what do you want to bet because ",154.0,A bets that A and B's mom and dad told Kara it was okay not to come,1,1,1,1
+1184,A: don’t you think they could have made her come? ,155.1,A asks B if B doesn't think A and B's mom and dad could have made Kara come,1,1,1,1
+1185,None,155.2,B doesn't think A and B's mom and dad could have made Kara come,3,2,0,0
+1186,None,155.3,A and B's mom and dad could have made Kara come,1,1,0,0
+1187,None,155.4,A and B's mom and dad made Kara come,2,2,3,3
+1188,B: yeah.  ,156.0,B thinks A and B's mom and dad could have made Kara come,1,1,1,1
+1189,B: They would’ve made anybody else come.  ,157.1,A and B's mom and dad would have made anybody else come,1,1,1,1
+1190,None,157.2,A and B's mom and dad made anybody else come,2,2,3,3
+1191,A: They would’ve said get your ass in the car.  ,159.1,A and B's mom and dad would have told Kara to get Kara's ass in the car,1,1,1,1
+1192,None,159.2,A and B's mom and dad told Kara to get Kara's ass in the car,2,2,3,3
+1193,B: Say god damn we don’t want to hear no fucking shit. Let’s go.  ,161.1,A and B's mom and dad should have said A and B's mom  and dad don't want to hear no fucking shit,1,1,1,1
+1194,None,161.2,A and B's mom and dad said A and B's mom and dad don't want to hear no fucking shit,2,2,3,3
+1195,None,161.3,A and B's mom and dad don't want to hear no fucking shit,2,2,3,3
+1196,None,161.4,A and B's mom and dad should have told Kara to go,1,1,1,1
+1197,None,161.5,A and B's mom and dad told Kara to go,2,2,3,3
+1198,A: [background noise] Whether you’re thirty-six or twenty-six it don’t matter.  ,162.0,Parents can tell children what to do whether the children are thirty-six of twenty-six,1,1,1,1
+1199,A: You would’ve been in that god damn car.  ,164.0,B would have been in that god damn car,1,1,1,1
+1200,A: {breath} it was just like well we’ll show her for spouting her mouth off.  ,166.0,A and B's mom and dad wanted to show A for spouting A's mouth,1,1,1,1
+1201,B: She won’t get to see the baby.  ,167.1,A won't get to see the baby,1,1,1,1
+1202,None,167.2,A saw the baby,2,2,3,3
+1203,A: Exactly. We’ll punish her.  ,169.0,A and B's mom and dad will punish A,1,1,1,1
+1204,A: {breath} So then he just calls.  The old man just calls me and says ,170.0,A and B's dad just called,1,1,1,1
+1205,A: I got my messy {breath} mess- message {breath} machine and says {breath} %uh yeah we want to we want &Ryan to come out. We don’t think it’s fair that &Ryan can’t come out. {breath} [[mocking imitation of family member in last twenty one words]] ,171.1,A and B's dad had message,1,1,1,1
+1206,None,171.2,A and B's mom and dad want Ryan to come out,1,1,1,1
+1207,None,171.3,A and B's mom and dad don't think it's fair that Ryan can't come out,1,1,1,1
+1208,None,171.4,It's fair that Ryan can't come out,1,4,3,3
+1209,None,171.5,Ryan can't come out,4,4,0,0
+1210,"A: And %uh cause I, I, I said I’m not going to meet them in &Des &Moines.  I c-, I can’t be with them &Tad. I get I, I lose two weeks of my life every time I’m with them. Mentally I can’t take it.  ",172.1,A said that A is not going to meet A and B's mom and dad in Des Moines,1,1,1,1
+1211,None,172.2,A is not going to meet A and B's mom and dad in Des Moines,1,1,1,1
+1212,None,172.3,A can't be with A and B's mom and dad,1,1,1,1
+1213,None,172.4,A looses two weeks of A's life every time A is with A and B's mom and dad,1,1,1,1
+1214,None,172.5,A is with A and B's mom and dad,2,2,3,3
+1215,None,172.6,A can't mentally take A and B's mom and dad,1,1,1,1
+1216,"A: I, I can’t, I can’t do it anymore.  ",174.0,A can't spend so much time with A and B's mom and dad anymore,1,1,1,1
+1217,B: -- contact with them.  ,175.1,B asks A why does A think nobody else contacts A and B's mom and dad,1,1,1,1
+1218,None,175.2,Nobody else contacts A and B's mom and dad,1,1,2,2
+1219,B: I mean that pissed me off the last time they were here so. ,177.1,B was pissed at A and B's mom and dad last time A and B's mom and dad visited B,1,1,1,1
+1220,None,177.2,A and B's mom and dad visited B,1,1,1,1
+1221,A: But it’s never their fault.  ,178.0,It's never A and B's mom and dad's fault,2,2,3,3
+1222,A: It’s never for anything that they’ve done.  ,179.1,It's never A and B's mom and dad's fault for anything A and B's mom and dad have done,2,2,3,3
+1223,None,179.2,A and B's mom and dad have done something,1,1,2,2
+1224,"B: I know that and I mean i- i- you get blamed, you still get blamed for shit and, and lectured about shit that happens when you’re a kid or, or, or whatever and all that I mean.  ",180.1,One gets blamed for shit,1,1,1,1
+1225,None,180.2,One gets lectured about shit that happens when one is a kid,1,1,1,1
+1226,None,180.3,Shit happens when one is a kid,1,1,2,2
+1227,"A: Well I don’t get it for that but %um so then dad, dad says now why {breath} don’t you want to go to &Des &Moines and I said because I don’t.  ",181.1,The A and B's dad asked A why A doesn't want to go to Des Moines,1,1,1,1
+1228,None,181.2,A doesn't want to go to Des Moines,1,1,2,2
+1229,None,181.3,A said that because A doesn't want to go to Des Moines,1,1,1,1
+1230,None,181.4,A doesn't want to go to Des Moines,1,1,1,1
+1231,A: I said I thought we’d already been through this cause I already told them I didn’t want to go to &Des M&oines.  ,182.1,A said A thought A and A and B's mom and dad have already been through this because A already told A and B's mom and dad A didn't want A to go to Des Moines,1,1,1,1
+1232,None,182.2,A thought A and A and B's mom and dad have already been through this because A already told A and B's mom and dad A didn't want A to go to Des Moines,1,1,1,1
+1233,None,182.3,A thought A and A and B's mom and dad have already been through this,1,1,1,1
+1234,None,182.4,A already told A and B's mom and dad A didn't want A to go to Des Moines,1,1,1,1
+1235,None,182.5,A didn't want A to go to Des Moines,1,1,2,2
+1236,"A: And he goes {breath} well then we’ll drive to &Omaha and pick up sh- %um &Ryan {breath} and, and then %uh we’ll bring him back {breath} and then we’ll %uh bring him back home to &Omaha.  And I said {breath}  ",183.1,A and B's dad said that A and B's mom and dad will drive to Omaha and pick up Ryan and then bring Ryan back home to Omaha,1,1,1,1
+1237,None,183.2,A and B's mom and dad will drive to Omaha,2,2,3,3
+1238,None,183.3,A and B's mom and dad will pick up Ryan,2,2,3,3
+1239,None,183.4,A and B's mom and dad will bring Ran back home to Omaha,2,2,3,3
+1240,A: oh so you’re not and the whole thing is that I won’t let them stay in my house anymore.  ,185.0,A won't let A and B's mom and dad stay in A's house anymore,1,1,1,1
+1241,A: [background noise] Because I can’t have that twenty-four hour {breath} bitching and negative. I can’t. I can’t live like that.  ,186.1,A can't have that twenty-four hour bitching and negative,1,1,1,1
+1242,None,186.2,A can't live with twenty-four hour bitching,1,1,1,1
+1243,A: You know what I’m saying? ,189.1,A asks B if B understands A,1,1,1,1
+1244,None,189.2,B understands A,3,1,0,0
+1245,B: mhm.  ,190.0,B says mhm.  ,1,0,1,1
+1246,A: It’s just twenty-four hours.  ,191.0,A and B's mom and dad's bitching is just twenty-four hours,1,1,1,1
+1247,"A: So %um I said so, so let me understand this so you’re coming, you’re picking him up and you’re leaving? You’re not staying? Right.  And I go %hm well it sounds like we’re back to the same old ",192.1,"A asked A and B's mom and dad if A and B's mom and dad  are coming, picking Ryan up, and leaving",1,1,1,1
+1248,None,192.2,"A and B's mom and dad are coming, picking Ryan up, and leaving",2,2,3,3
+1249,A: argument. {breath} And %um I said so you’re going to punish me because you’re offended that I don’t particularly want you to stay here in my home.  ,193.1,It sounds like A and A and B's mom and dad are going back to the same old argument,1,1,1,1
+1250,None,193.2,A and A and B's mom and dad are going back to the same old argument,1,1,1,1
+1251,None,193.3,A told A and B's mom and dad that A and B's mom and dad are going to punish A because A and B's mom and dad are offended that A doesn't particularly want A and B's mom and dad to stay in A's home,1,1,1,1
+1252,None,193.4,A and B's mom and dad are going to punish A because A and B's mom and dad are offended that A doesn't particularly want A and B's mom and dad to stay in A's home,1,1,1,1
+1253,None,193.5,A and B's mom and dad are going to punish A,1,1,1,1
+1254,None,193.6,A and B's mom and dad are offended that A doesn't particularly want A and B's mom and dad to stay in A's home,1,1,1,1
+1255,None,193.7,A doesn't particularly want A and B's mom and dad to stay in A's home,1,1,1,1
+1256,None,193.8,A and B's mom and dad will stay in A's home,2,2,3,3
+1257,A: {breath} Well no it’s not punishing. [[imitating bitterly]] I said well then what do you call it.  I mean I just came out and said it.  ,194.1,A and B's dad said A and B's mom and dad are not punishing A,1,1,1,1
+1258,None,194.2,A and B's mom and dad are not punishing A,2,2,3,3
+1259,None,194.3,A asked A and B's mom and dad what A and B's mom and dad call this behavior,1,1,1,1
+1260,None,194.4,A and B's mom and dad call this behavior somethign else than punishing A,1,1,2,2
+1261,None,194.5,A just came out,1,1,1,1
+1262,None,194.6,A said A asked A and B's mom and dad what A and B's mom and dad call this behavior,1,1,1,1
+1263,A: No you just don’t un- [[mocking imitation]] I said no dad. I think it’s you don’t understand. You don’t understand how you affect my family.  You and mom.  ,196.1,A and B's dad said that A doesn't understand,1,1,1,1
+1264,None,196.2,A doesn't understand,2,2,3,3
+1265,None,196.3,A said that A and B's dad doesn't understand,1,1,1,1
+1266,None,196.4,A and B's dad doesn't understand,1,1,1,1
+1267,None,196.5,A and B's dad doesn't understand how A and B's mom and dad affect A's family,1,1,1,1
+1268,None,196.6,A and B's mom and dad affect A's family,1,1,2,2
+1269,A: And and more importantly how you affect me. {breath} And he said that’s your problem. You think too much about yourself. [[imitating father in previous nine words]] ,197.1,"More importantly, A and B's dad doesn't understand how A and B's mom and dad affect A",1,1,1,1
+1270,None,197.2,A and B's mom and dad affect A,1,1,2,2
+1271,None,197.3,A and B's dad said A and B's mom and dad affecting A and A's familiy is A's problem,1,1,1,1
+1272,None,197.4,A and B's mom and dad affecting A and A's familiy is A's problem,2,2,3,3
+1273,A: {sniff} And I said goodbye dad.  ,198.0,"And A said ""goodbye dad""",1,1,1,1
+1274,A: And I hung the phone up. {breath} ,200.0,And A hung up the phone,1,1,1,1
+1275,B: Good for you.  ,201.0,It's good for A that A hung up the phone,1,1,1,1
+1276,"A: {breath} Why does, why does our life have to be like this? I don’t get it. {breath} ",202.1,A asks B why A and B's life have to be so difficult with A and B's mom and dad,1,1,1,1
+1277,None,202.2,A and B's life is so difficult with A and B's mom and dad,1,1,2,2
+1278,None,202.3,A doesn't get why A and B's life has to be so difficult with A and B's mom and dad,1,1,1,1
+1279,B: Well they’re the ones who created it. They’re n- ,203.0,A and B's mom and dad are the ones who created A and B's life,1,1,1,1
+1280,A: Why do they have to be like that? ,204.1,A asks B why A and B's parents have to be so difficult to deal with,1,1,1,1
+1281,None,204.2,A and B's parents are so difficult to deal with,1,1,2,2
+1282,B: I don’t know and ,205.0,B doesn't know why A and B's parents are so difficult to deal with,1,1,1,1
+1283,A: Dad [distortion] You know what I said to dad when he met me at the %um when he came up to our door and said {breath} &Kara’s not coming cause she doesn’t like y- you know what I said to him ,206.1,A asks B if B knows what A said to A and B's dad when A and B's dad came up to A's family's door and said Kara is not coming because Kara doesn't like what A told Kara,1,1,1,1
+1284,None,206.2,B knows what A said to A and B's dad when A and B's dad came up to A's family's door and said Kara is not coming because Kara doesn't like what A told Kara,2,2,3,3
+1285,None,206.3,A said something to A and B's dad when A and B's dad came up to A's family's door and said Kara is not coming because Kara doesn't like what A told Kara,1,1,1,1
+1286,None,206.4,A and B's dad came up to A's family's door and said Kara is not coming because Kara doesn't like what A told Kara,1,1,1,1
+1287,B: What? ,207.0,B doesn't know what A said to A and B's dad when A and B's dad came up to A's family's door and said Kara is not coming because Kara doesn't like what A told Kara,1,1,1,1
+1288,"A: I said I hope that my, my sons never treat one another like this.  ",208.1,A said A hopes that A's sons never treat one another like A and B's mom and dad treat A,1,1,1,1
+1289,None,208.2,A hopes that A's sons never treat one another like A and B's mom and dad treat A,1,1,1,1
+1290,None,208.3,A's sons never treat one another like A and B's mom and dad treat A,3,3,1,1
+1291,B: True. I don’t think my kids will be that way.  ,209.1,B doesn't think B's kids will be like A and B's mom and dad,1,1,1,1
+1292,None,209.2,B's kids will be like A and B's mom and dad,3,3,1,1
+1293,A: And he just looked at me. [channel noise] ,210.0,A and B's dad just looked at A,1,1,1,1
+1294,B: Well you’ve got a point but ,211.0,A's got a point,1,1,1,1

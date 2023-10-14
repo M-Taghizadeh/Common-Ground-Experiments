@@ -1,0 +1,437 @@
+Sentence	Entity	Entity(JA)	Eno.	Event	Bel(A)R	Bel(B)R	CG(A)R	CG(B)R	Pragmatics	Bel(A)	Bel(B)	CG(A)	CG(B)	Why(CG)	Why in prose	Comment
+B: yeah so yeah I’ve been there like {laugh} five or six times 	"I=B,there=national park?"		1						yeah=agreement							
+A: Wow.  			2						wow=amazement							
+"B: because I drove across the country three times. I’ve been there wait, yes three times I think.  "	I=B		3.1	B has been in the national park like five or six times because B drove across the country three times	 → 3.5 CT-	 → 3.5 CT-	 → 3.5 RT	 → 3.5 PS	(because=self talk)	CT+ 3.1	CT+ 3.1	JA 3.1	JA 3.1			
+			3.2	B has been in the national park like five or six times	 → 3.5 CT-	 → 3.5 CT-	 → 3.5 RT			CT+ 3.2	PS 3.2	JA 3.2	RT 3.2			
+			3.3	B drove acress the country three times					wait=self correction	CT+ 3.3	CT+ 3.3	JA 3.3	JA 3.3			
+			3.4	B thinks that B has been in the national park three times						CT+ 3.4	CT+ 3.4	JA 3.4	JA 3.4			
+			3.5	B has been in the national park three times						"PS 3.5,CT- 3.2,CT- 3.1"	"PS 3.5,CT- 3.2,CT- 3.1"	"JA 3.5,RT 3.2,RT 3.1"	"JA 3.5,RT 3.1"			
+A: Well this is our second time.  	our=A's and Kevin's		4	This is A's and Kevin's second time in the national park.  					well=transition marker	CT+ 4	CT+ 4	JA 4	JA 4			
+B: yeah.  			5						yeah=sustaining conversation(backchannel)							
+A: The first time we had been it was like twelve years ago &Kevin and I went on like a six week camping trip you know we hit -- 	"Kevin=A'a husband?,I=A,we=A and Kevin,you=one"		6.1	The first time Kevin and A had been in the national park was like twelve year ago					like=filler	CT+ 6.1	CT+ 6.1	JA 6.1	JA 6.1			
+			6.2	Kevin and A went on like six week campin trip					you know=filler	CT+ 6.2	CT+ 6.2	JA 6.2	JA 6.2			
+B: %uh that must have been fun.  	that=the six week camping trip		7	The camping trip must have been fun						CT+ 7	CT+ 7	JA 7	JA 7			
+"A: -- You know &Washington, we hit you know from &Idaho to &Washington we hit all kinds of national parks and stu- [distortion].  "	"we=A and Kevin,You=one"		8	A and Kevin hit all kinds of national parks from Idaho to Washington						CT+ 8	CT+ 8	JA 8	JA 8			
+B: uh-huh.  			9						uh-huh=agreement with 8.1							
+B: oh yeah it’s so beautiful %huh.  	it=national park?		10	National parks are so beautiful.						CT+ 10	CT+ 10	JA 10	JA 10			
+A: And you know 			11													
+A: You know we spent a l- you know couple days in &Yellowstone and then 	"we=A and Kevin,Yellowstone,You=one"		12	Kevin and A spent a couple days in Yellowstone					you know=filler	CT+ 12	CT+ 12	JA 12	JA 12			
+A: you know a very little time in &Grand &Tetons but we spent a lot of time in the national forests right around there because we (( )) [distorted] you know we were really camping and really serious-- 	"there=Grand Tetons,we=A and Kevin"		13.1	Kevin and A spent a little time in Grand Tetons						CT+ 13.1	CT+ 13.1	JA 13.1	JA 13.1			
+			13.2	Kevin and A spent a lot of time in the forests right around Grand Tetons because Kevin and A were really camping and really serious						CT+ 13.2	CT+ 13.2	JA 13.2	JA 13.2			
+			13.3	Kevin and A spent a lot of time in the forests right around Grand Tetons						CT+ 13.3	CT+ 13.3	JA 13.3	JA 13.3			
+			13.4	Kevin and A were really camping and really serious						CT+ 13.4	CT+ 13.4	JA 13.4	JA 13.4			
+B: uh-huh.  			14						uh-huh=filler							
+B: mhm.  			15						mhm=filler							
+"A: And like we went into &Jackson, the town and we were like -- "	"we=A and Kevin,town=Jackson"		16	"A and Kevin went into Jackson, the town"						CT+ 16	CT+ 16	JA 16	JA 16			
+A: -- %ah [[drawn out and in fright]] let me {laugh} out of here. You know it was like a traffic jam and all these stores and we sort of didn’t know what was coming. We were like oh my god traffic jams 	"me=A and Kevin,we=A and Kevin"		17.1	A and Kevin wanted to get out of Jackson					let me out of here=A and Kevin wanted to leave Jackson	CT+ 17.1	CT+ 17.1	JA 17.1	JA 17.1			
+			17.2	A and Kevin got out of Jackson						CT- 17.2	CT- 17.2	RT 17.2	RT 17.2		want in past tense suggests that the embedded event did not happen	
+			17.3	There was a traffic jam and stores in Jackson						CT+ 17.3	CT+ 17.3	JA 17.3	JA 17.3			
+			17.4	A and Kevin didn't know what was coming					oh my god traffic jams=complaint about traffic jams	CT+ 17.4	CT+ 17.4	JA 17.4	JA 17.4			
+			17.5	Something was coming						CT+ 17.5	CT+ 17.5	IN 17.5	IN 17.5		presupposed	
+			17.6	A and Kevin complained about traffic jams						CT+ 17.6	CT+ 17.6	JA 17.6	JA 17.6			
+B: {laugh} 			18						"B laughs at 17.1, 17.3, 17.4, 17.6"							
+B: uh-huh.  			19						uh-huh=filler							
+A: What kind of tourist hell is this? Get us out of here [[says laughing]].  	this=Jackson		20	Jackson is a kind of a tourist hell						CT+ 20	CT+ 20	IN 20	IN 20			
+B: {laugh} 			21						B laughs at 20							
+A: of course then we were like you know let’s stay here a couple days. [distortion]  	"we=Kevin and A,here=Jackson"		22	Kevin and A decided to stay in Jackson a couple of days					we were like=announcing a new event coming up; you know=assumption that B might know abnout the upcoming event; let's=decided	CT+ 22	CT+ 22	JA 22	JA 22			
+B: {inhale} And now you guys have a five year old and 	you=Kevin and A		23	Kevind and A have a five year old 					now=presuppositon	CT+ 23	CT+ 23	IN 23	IN 23			
+B: {laugh} yeah.  			24						yeah=filler							
+A: This is kind of cute. oh look there’s the &Benneton outlet.  	"This=Jackson,there=Jackson"		25.1	Jackson is kind of cute.						CT+ 25.1	CT+ 25.1	JA 25.1	JA 25.1			
+			25.2	There's the Bennton outlet in Jackson						CT+ 25.2	CT+ 25.2	JA 25.2	JA 25.2			
+B: {sh} 			26													
+"B: oh you guys have really turned into yuppies, %huh? {laugh} "	you=Kevin and A		27	Kevin and A have really turned into yuppies						CT+ 27	CT+ 27	IN 27	IN 27		B seems to be stating something both speakers already believe	
+A: Scary.  			28	Kevin and A have really turned into yuppies is scary						CT+ 28	CT+ 28	JA 28	JA 28			
+B: {laugh} {inhale} What we shouldn’t have a house in the suburbs.  	we=B and Norm		29.1	B and B's partner shouldn't have a house in the suburbs						CT+ 29.1	CT+ 29.1	JA 29.1	JA 29.1			
+			29.2	B and B's partner have a house in the suburbs						CT- 29.2	CT- 29.2	RT 29.2	RT 29.2		should not in present tense negates the possibility of the embedded event beinng true (???)	
+"A: Well if I’m unemployed, if I’m unemployed I can’t be a {laugh} yuppie can I? "	I=A		30.1	A asks B if A can't be a yuppie if A is unemployed						CT+ 30.1	CT+ 30.1	JA 30.1	JA 30.1			
+			30.2	A can't be a yuppie if A is unemployed		 → 33 PS	 → 33 JA	 → 33 CT+		PS 30.2	CT- 30.2	RT 30.2	RT 30.2		"question tag, so PS got Bel: A; CT- for Bel: B because of 27"	
+			30.3	A can't be a yuppie						PS 30.3	CT- 30.3	RT 30.3	RT 30.3		CT- for Bel: B because of 27	
+			30.4	A is unemployed						CT+ 30.4	CT+ 30.4	IN 30.4	IN 30.4			
+B: {breath} 			31						indicates thinking about 30.2							
+A: {inhale} Don’t I need to be professional? 	I=A		32.1	A asks if A needs to be a professional to be a yuppie						CT+ 32.1	CT+ 32.1	JA 32.1	JA 32.1			
+			32.2	A needs to be a professional to be a yuppie			 → 33 JA			PS 32.2	NB 32.2					
+			32.3	A is a yuppie		 → 33 PS		 → 33 CT+		CT- 32.3	CT+ 32.3				Bel: B CT+ because of 27; Bel: A implied from the question	
+B: %um. yeah I guess.  	I=B		33						yeah I guess=expressing some belief about 30.2		"PS 32.3,PS 30.2"	"JA 32.2,JA 30.2"	"JA 32.3,JA 30.2"			
+B: Well &Norm and I are worse because we live in the suburbs.  	"I=B,we=Norm and B"		34.1	Norm and B are worse because Norm and B live in the suburbs						CT+ 34.1	CT+ 34.1	JA 34.1	JA 34.1			
+			34.2	Norm and B are worse					Norm and B are in a worse situation (???)	CT+ 34.2	CT+ 34.2	JA 34.2	JA 34.2			
+			34.3	Norm and B live in the suburbs						CT+ 34.3	CT+ 34.3	JA 34.3	JA 34.3			
+B: %uh so.  			35													
+A: Well really silly we’ll save that for our self respects. So are you coming or not? Are you coming or not? Are you coming or not? [[drawn-out whining]] 	"that=A and Kevin can't be yuppies,we=A and Kevin,you=B"		36.1	Kevin and A will save A's impossibility of being a yuppie for Kevin's and A's self respect						CT+ 36.1	CT+ 36.1	JA 36.1	JA 36.1			
+			36.2	A asks B if B is coming to visit A and Kevin or not						CT+ 36.2	CT+ 36.2	JA 36.2	JA 36.2			
+			36.3	B is coming to visit A and Kevin						PS 36.3	PS 36.3	JA 36.3	JA 36.3			
+			36.4	B is not coming to visit A and Kevin						PS 36.4	PS 36.4	JA 36.4	JA 36.4		based on B's answer in 37.1	
+B: I don’t know. It’s up to my husband. Hopefully he’ll finish soon and %uh -- 	"I=B,It=B's coming,husband=Norm,he=Norm"		37.1	B doesn't know if B is coming to visit A and Kevin						CT+ 37.1	CT+ 37.1	JA 37.1	JA 37.1		events embedded under 'don't know' will always be PS?	
+			37.2	B's coming is up to Norm			 → 40 IN	 → 40 CT-		CT+ 37.2	CT+ 37.2	JA 37.2	JA 37.2			
+			37.3	Norm will hopefully finish soon		 → 39.3 CT-				CT- 37.3	CT+ 37.3	RT 37.3	RT 37.3		In 39.1 A discloses A's CT- belief about 37.3	
+B: -- and %um  			38													
+A: I thought you said he was finished.  	"I=A,you=B,he=Norm"		39.1	A thought B said Norm was finished						CT+ 39.1	CT+ 39.1	JA 39.1	JA 39.1			
+			39.2	B said Norm was finished						PS 39.2	CT+ 39.2	39.2	39.2		Bel:B CT+ from B's response in 43; Bel:A is PS because 39.2 is embedded under 'think'	
+			39.3	Norm was finished	 → 41 CT+		 → 41 JA	 → 41 CT+		PS 39.3	"CT+ 39.3,CT- 37.3"	39.3	39.3		"Bel:A PS because embedded under 'said'; this is hard-- we need to talk about CG updates. IMO 39.2 and 39.2 were already IN, but now A expresses some doubts -- at the moment we have no way to describe the status of their CG -- should be someting like re-enterntaining an event"	
+B: You know I mean  			40									IN 37.2	IN 37.2		B communicates that A should know about 37.2 already	
+B: yeah he is finished.  			41							CT+ 39.3		JA 39.3	JA 39.3			
+A: I thought you said he did send it today.  	"I=A,he=Norm,you=B,it=Norm's thesis?"		42.1	A thought B said Norm did send Norm's thesis today						CT+ 42.1	CT+ 42.1	JA 42.1	JA 42.1			
+			42.2	B said Norm did send Norm's thesis today						PS 42.2	CT+ 42.2				"event ebedded under 'think' -- expresses some doubt for Bel: A; Bel: B is sure of what B said -- confrmation in 43.1, so CT+"	
+			42.3	Norm did send Norm's thesis today						PS 42.3	CT+ 42.3				same reasoning as above for Bel; for CG --blank for the moment	
+B: He is finished. He just has to defend.  	He=Norm		43.1	Norm is finished with Norm's thesis						CT+ 43.1	CT+ 43.1	IN 43.1	IN 43.1			
+			43.2	Norm just has to defend Norm's thesis						CT+ 43.2	CT+ 43.2	JA 43.2	JA 43.2			
+B: So I don’t know. We’ll see what happens. I’ll talk to him today. He has a job so.  If not when are you guys moving? 	"We=B and Norm,I=B,him=Norm,He=Norm,you=A and Kevin"		44.1	B doesn't know if B is coming to visit A and Kevin because Norm still has to defend Norm's thesis						CT+ 44.1	CT+ 44.1	JA 44.1	JA 44.1			
+			44.2	B and Norm will see what happens						CT+ 44.2	CT+ 44.2	JA 44.2	JA 44.2		maybe we also want: 'Something will happen' event?	
+			44.3	B will talk to Norm today						CT+ 44.3	CT+ 44.3	JA 44.3	JA 44.3			
+			44.4	Norm has a job					so=B indicates that 44.4 is known and this is the reason why she cannot talk to him now(??)	CT+ 44.4	CT+ 44.4	IN 44.4	IN 44.4			
+			44.5	B asks A when A and Kevin are moving					if not=unfinished sentence	CT+ 44.5	CT+ 44.5	JA 44.5	JA 44.5			
+			44.6	A and Kevin are moving						CT+ 44.6	CT+ 44.6	IN 44.6	IN 44.6			
+A: We’re not moving for a year.  	We=Kevin and A		45	Kevin and A are not moving for a year						CT+ 45	CT+ 45	JA 45	JA 45			
+B: oh okay. Good.  			46						good=B expresses content about 45; it is implied that B has plenty of time to visit Kevin and A							
+B: {breath} 			47													
+A: We won’t move till 	We=Kevin and A		48													
+B: okay.  			49													
+A: %mm [[drawn out]]  			50						mm=indicates A's thought process (calculation perhaps)		50					
+A: probably June.  			51	Kevin and A won't move till probably June						CT+ 51	CT+ 51	JA 51	JA 51			
+B: okay.  			52						B approves of 51							
+A: Maybe early June.  			53	Kevin and A won't move till maybe early June					A corrected herself about 51							
+B: Because if I don’t come when &Norm does his defense 			54												skipped event here -- seems like B is forming B's thoughts on the spot -- no content-wise contribution to the dialog	
+"A: uh-huh, uh-huh.  "			55													
+B: which I really want to come for that but you know I have 	I=B		56	B really wants to come to Norm's defense						CT+ 56	CT+ 56	JA 56	JA 56			
+B: I might not be able to for other reasons {inhale}.  	I=B		57	B might not be able to come for Norm's defense for other reasons  						CT+ 57	CT+ 57	JA 57	JA 57			
+A: uh-huh.  			58						"uh-huh=filler, to sustain the flow of the conversation"							
+B: But if I can’t come then then I’m going to stop in January. Well I’ll probably stop in January anyhow.  	"I=B,then=???"		59.1	"If B can't come then, B is going to stop in January"						CT+ 59.1	CT+ 59.1	JA 59.1	JA 59.1			
+			59.2	B can't come then						PS 59.2	PS 59.2	JA 59.2	JA 59.2		the possibility of 59.2 is added to CG	
+			59.3	B is going to stop in January						PS 59.3	PS 59.3	JA 59.3	JA 59.3			
+			59.4	B will probably stop in January anyhow						CT+ 59.4	CT+ 59.4	JA 59.4	JA 59.4		does not reject 59.3  -- two different events	
+A: Excellent 			60						Excellent=A expressses excitmement about 59.3	CT+ 60	CT+ 60					
+B: {inhale} Because I’m going to %uh (( )) in January with the baby to %uh -- 	"I=B,baby=B's baby"		61													
+B: -- see the %uh -- 			62													
+B: -- the it’ll come out to see the relatives.  			63	B is going to see relatives with B's baby						CT+ 63	CT+ 63	JA 63	JA 63			
+A: Show off <French ((le bebe))>.  			64	B is going to show off B's baby			 → 65 IN	 → 65 CT-		CT+ 64	CT+ 64	JA 64	JA 64			
+B: yeah. Show off <French ((le bebe))>.  			65									IN 64	IN 64			
+A: Excellent  			66						Excellent= A expresses content about 63 and 64							
+"B: Do you think ei- I mean eight weeks is not really well it’ll, it’ll be older than eight weeks it’ll be like ten weeks by then. That’s not too early to travel is it? "	"then=the time when B and B's baby visit the relatives,you=A,it=B's baby"		67.1	B's baby will be older than eight weeks by the time B and B's baby visit the relatives						CT+ 67.1	CT+ 67.1	JA 67.1	JA 67.1			
+			67.2	B's baby will be like ten weeks by the time B and B's baby visit the relatives						CT+ 67.2	CT+ 67.2	JA 67.2	JA 67.2		67.1 and 67.2 are not mutually exclusive	
+			67.3	B asks if 10 month old baby is not too young to travel with					early=refers to B's baby's age	CT+ 67.3	CT+ 67.3	JA 67.3	JA 67.3			
+			67.4	10 month old baby is not too young to travel with			 → 68 JA	 → 68 CT+		PS 67.4	CT+ 67.4				enternatining the event -- we must deferrentiate that from RT	
+A: Nope.  			68									JA 67.4	JA 67.4			
+B: I thought it would be like much easier to travel if we went when he was ten weeks than -- 	"I=B,went=visited relatives,we=B and Norm"		69													
+"A: yep, yep, yep. "			70												"A respons before B finnishes B's thought, which is not uncommon in conversations. Followinng our current guideliness, we should wain until B is done"	
+B: -- you know after that.  	that=when B's baby is older		71.1	B thought it would be like much easier to travel if B and Kevin visited relatives when B's baby was ten weeks than when B's baby is older						CT+ 71.1	CT+ 71.1	JA 71.1	JA 71.1			
+			71.2	It would be like much easier to travel if B and Kevin visited relatives when B's baby was ten weeks than when B's baby is older						CT+ 71.2	CT+ 71.2	JA 71.2	JA 71.2			
+			71.3	It would be like much easier to travel to visit the relatives when B's baby was 10 weeks then when B's baby is older						CT+ 71.3	CT+ 71.3	JA 71.3	JA 71.3			
+			71.4	B's baby was 10 weeks						CT- 71.4	CT- 71.4	RT 71.4	RT 71.4		not sure that this event is ever considered cognnitively  -- we need to differentiate between 'not enternatied' and 'entertained but rejected'	
+A: when they’re new infants it’s like bring along a blanket so you can nurse them. And like you could do anything. You could probably go like do skydiving or something.  	"they=babies,them=babies,it=travelling,you=one"		72.1	When babies are infants travelling is just about bringing along a blanket so one can nurse the babies					like=indicates that the following event is simple?	CT+ 72.1	CT+ 72.1	JA 72.1	JA 72.1			
+			72.2	Babies are infants						CT- 72.2	CT- 72.2	RT 72.2	RT 72.2			
+			72.3	Travelling is just about bringing along a blanket so one can nurse the babies						CT- 72.3	CT- 72.3	RT 72.3	RT 72.3		"once again, not sure if this reasoning is actually happening in our brains. I do find it useful to AI traininng purposes"	
+			72.4	One can nurse the babies 						CT+ 72.4	CT+ 72.4	JA 72.4	JA 72.4			
+			72.5	One could do anything with a baby younger than ten months						CT- 72.5	CT- 72.5	RT 72.5	RT 72.5		sarcasm	
+			72.6	One couldn't do everything with a baby younger than ten months						CT+ 72.6	CT+ 72.6	JA 72.6	JA 72.6		inference from 72.5	
+			72.7	One could probably go like skydiving or something with a baby younger than 10 months						CT- 72.7	CT- 72.7	RT 72.7	RT 72.7		sarcasm	
+			72.8	One could not probably go like skydiving or something with a baby younger than 10 months						CT+ 72.8	CT+ 72.8	JA 72.8	JA 72.8		inference from 72.7	
+B: yeah. I know.  	I=B		73						yeah. I know.= B agrees with 72.1							
+A: And if you were nursing the baby while you were skydiving the baby would be like okay.  	"you=one,okay=go along with the skydiving"		74.1	"If one were nursing the baby while one was skydiving, the baby would go along with the skydiving"						CT- 74.1	CT- 74.1	RT 74.1	RT 74.1		"sarcasm -- I don;t think the nagtion of this would enter CG, would it ???"	
+			74.2	One was nursing the baby while skydiving						CT- 74.2	CT- 74.2	RT 74.2	RT 74.2		sarcasm	
+			74.3	The baby would go along with the skydiving						CT- 74.3	CT- 74.3	RT 74.3	RT 74.3		sarcasm 	
+B: yeah.  			75						yeah.  =B agrees with 74.1							
+A: Alright. As long as we’re nursing while we’re doing this that’s okay.  	"we=mothers,that=skydiving with babies,this=skydiving with babies"		76.1	"As long as mothers are nursing while skydiving, skydiving with babies is okay"						CT- 76.1	CT- 76.1	RT 76.1	RT 76.1		sarcasm -- the joke continues	
+			76.2	Mothers are nursing while skydiving						CT- 76.2	CT- 76.2	RT 76.2	RT 76.2		sarcasm	
+			76.3	Skydiving with babies is okay						CT- 76.3	CT- 76.3	RT 76.3	RT 76.3		sarcasm	
+B: That’s what I thought too.  	I=B		77						That’s what I thought too. = B has the same thought as 76.1							
+B: {inhale} And they don’t need that many clothes when they’re that young. And they don’t need toys.  	they=babies under tenn months		78.1	Babies under ten months don't need that many clothes					that young=10 month old baby is very young	CT+ 78.1	CT+ 78.1	JA 78.1	JA 78.1			
+			78.2	Babies under ten months don't need toys						CT+ 78.2	CT+ 78.2	JA 78.2	JA 78.2			
+B: So.  			79													
+B: You know basically you don’t need to bring anything.  	"you=one,You=A"		80	Basically one doesn't need to bring anyhing when travelling with babies udner ten months					result of 78.1 and 78.2	CT+ 80	CT+ 80	JA 80	JA 80			
+B: {lipsmack} But %uh but you know your two boobs. {laugh} and %uh {sniff} 	your=one's		81						you know your two boobs = B implies that B has to bring at least B's boobs when travelling with B's baby							
+A: {laugh} 			82													
+B: And since I can’t really go anywhere without those anyhow {laugh} 	"those=boobs,I=B"		83	B can't really go anywhere without B's boobs anyhow					anyhow=no matter what one does	CT+ 83	CT+ 83	JA 83	JA 83			
+A: They’re hard to forget 	They=boobs		84	Boobs are hard to forget						CT+ 84	CT+ 84	JA 84	JA 84		joke but not untrue statement	
+B: {laugh} yeah.  			85						yeah=confiriming 84							
+A: Hard to leave behind.  			86	Boobs are hard to leave behind						CT+ 86	CT+ 86	JA 86	JA 86			
+"B: yeah. So I mean in then you know then we can just use disposables if we’re travelling, so "	"disposables=disposable boobs?,I=B,we=one"		87.1	One can use disposable boobs if one were travelling						CT- 87.1	CT- 87.1	RT 87.1	RT 87.1		sarcasm	
+			87.2	One can use disposable boobs						CT- 87.2	CT- 87.2	RT 87.2	RT 87.2		sarcasm	
+			87.3	One were travelling						CT- 87.3	CT- 87.3	RT 87.3	RT 87.3		hypothetical	
+A: oh definitely.  			88						oh definitely. =A confirms 87.1							
+A: Don’t we did one time we were like we were travelling in the car we were like oh we can just bring a little mini diaper pail and all.  	we=A and Kevin		89.1	Kevin and A were travlleing in he car					we were like oh=Kevin and A thought that							
+			89.2	Kevin A thought that Kevin and A can just bring a little mini diaper pail and all when travelling in the car						CT+ 89.2	CT+ 89.2	JA 89.2	JA 89.2			
+			89.3	Kevin and A can just bring a little mini diaper pail and all when travelling in the car						CT+ 89.3	CT+ 89.3	JA 89.3	JA 89.3		or sarcasm and CT- and RT? Not sure what A means here	
+B: yeah.  			90													
+A: That was after one time I went never again.  	"one=one time of travelling with non-disposable diapers (?),I=A"		91	After one time of travelling with non-dsposable diapers A went never again.					A went never again=A will never repeat A's mistakes	CT+ 91	CT+ 91	JA 91	JA 91	C		
+B: {laugh} 			92													
+A: Disposables for travelling.  			93	Disposables are essential for travalling						CT+ 93	CT+ 93	JA 93	JA 93	C		
+B: And did you %um 			94													
+A: ((Absolutely)) [distortion].  			95													
+"B: Every now did you supplement nursing with bottles at all or didn’t, didn’t you? "	you=B		96.1	B asks A if A supplemented nursing with bottles						CT+ 96.1	CT+ 96.1	JA 96.1	JA 96.1	C		
+			96.2	A supplemented nursing with bottles		 → 97 CT-	 → 97 RT	 → 97 PS		CT- 96.2	PS 96.2			LI	PS because 96.2 is embedded under a yes/no question	
+A: No. No. Somehow like I read too many of the (( )) books so I thought it was like no formula.  	I=A		97	A read too many of the books so A thought it was like no formula					it was like no formula=A decided not to use formula	"CT+ 97,CT+ 97"	"CT- 96.2,CT+ 97"	"RT 96.2,JA 97"	"RT 96.2,JA 97"	C		
+A: It does make a difference like I always thought formula smells kind of disgusting {inhale} 	"I=A,It=formula vs breastmlik"		98.1	Formula vs breastmilk does make a difference						CT+ 98.1	CT+ 98.1	JA 98.1	JA 98.1	C		
+			98.2	A always thought formula smells like of disgusting						CT+ 98.2	CT+ 98.2	JA 98.2	JA 98.2	C		
+			98.3	Formula smells kind of disgusting						CT+ 98.3	CT+ 98.3	JA 98.3	JA 98.3	LI	 even though 98.3 is embedded under 'think' it does express a certain belief	
+B: oh yeah.  			99						oh yeah. =agreement with 98.3							
+A: Like when they throw up it smells disgusting and when they make their little doo-doo’s it smells grosser if they’re on formula. But if they’re totally breast milk now you’ll find this hard this believe but if they’re totally breast milk for like the first couple months -- 	"they=babies,it=vomits/doo-doo,you=A"		100.1	"Like when babies throw up, the vomits smell disgusting "					it is assumed that the babies' vomits smell disgusting when babies drink formula instead of milk	CT+ 100.1	CT+ 100.1	IN 100.1	IN 100.1	LI	like here indicates that the speaker speaks some general truth	
+			100.2	Babies throw up						CT+ 100.2	CT+ 100.2	IN 100.2	IN 100.2			
+			100.3	The vomits smells disgusting						CT+ 100.3	CT+ 100.3	JA 100.3	JA 100.3			
+			100.4	"When babies make babies' little doo-doos, the doo-doo smells grosser if the babies are on formula"						CT+ 100.4	CT+ 100.4	JA 100.4	JA 100.4			
+			100.5	Babies make babies little doo-doos						CT+ 100.5	CT+ 100.5	IN 100.5	IN 100.5	WK		
+			100.6	The doo-doo smells grosser if the babies are on formula						CT+ 100.6	CT+ 100.6	JA 100.6	JA 100.6			
+			100.7	The doo-doos smell grosser						NB 100.7	NB 100.7	RT 100.7	RT 100.7	C	It seems to me that the speakrs do not form any beliefs towars those individual events in 100.7 and 100.8. Mayne not needed at all?	
+			100.8	Babies are on formula						NB 100.8	NB 100.8	RT 100.8	RT 100.8	C		
+B: mhm.  			101													
+A: they don’t their number twos don’t smell at all.  			102.1	"If babies're totally breast milk for a couple of months, the babie's number twos don't smell"						CT+ 102.1	CT+ 102.1	JA 102.1	JA 102.1	C	"here, aleternatively I did not recognized the sub-events -- which is better?"	
+			102.2	B will find 102 hard to believe						CT+ 102.2	CT+ 102.2	JA 102.2	JA 102.2			
+B: oh okay.  			103						oh okay=agreement with 102.1							
+A: They don’t smell like anything. It’s like {sniffing} 	They=the babies who drink breast milk's doo-doos		104	The babies who drink breast milk's doo-doos don't smell like anything.						CT+ 104	CT+ 104	JA 104	JA 104			
+A: it looks like shit but it doesn’t smell like anything {laugh}.  	it=doo-doo		105.1	The baby who drinks breast milk's doo-doo looks like shit but doesn't smell like anything						CT+ 105.1	CT+ 105.1	JA 105.1	JA 105.1			
+			105.2	The baby who drinks breast milk's doo-doo looks like shit 						CT+ 105.2	CT+ 105.2	JA 105.2	JA 105.2			
+			105.3	The baby who drinks breast milk's doo-doo doesn't smell like anything						CT+ 105.3	CT+ 105.3	JA 105.3	JA 105.3			
+B: oh okay.  			106						oh okay=agreement with 105.1							
+B: {inhale}And did you pump or not? 	you=A		107.1	B asks A if A pumped A's breastmilk						CT+ 107.1	CT+ 107.1	JA 107.1	JA 107.1			
+			107.2	A pumped A's breastmilk		 → 108 CT+	 → 108 JA	 → 108 CT+		CT+ 107.2	PS 107.2			LI	PS because it;s yes/no question	
+A: yeah I pumped. What joy that was.  	that=pumping		108	Pumping was a joy						CT+ 108	"CT+ 107.2,CT+ 108"	"JA 107.2,JA 108"	"JA 107.2,JA 108"	C	"not sure if A is being sarcastic here. If yes, we need to reject this event and add its negation below"	
+B: Did you use a manual or a %uh did you get one of those little battery ones? 	"manual=manual pump,you=A,ones=pumps"		109.1	B asks A if A used a manual pump or if A got one of those little pumps						CT+ 109.1	CT+ 109.1	JA 109.1	JA 109.1			
+			109.2	A used a manual pump		 → 111 CT-	 → 111 RT	 → 111 PS		CT- 109.2	PS 109.2			LI	PS becasue yes/no question	
+			109.3	A got one of those little battely pumps		 → 111 CT+	 → 111 JA	 → 111 CT+		CT+ 109.3	PS 109.3					
+A: Batter- 			110													
+A: Battery operated deal.  	deal=pump		111	  							"CT- 109.2,CT+ 109.3"	"RT 109.2,JA 109.3"	"RT 109.2,JA 109.3"			
+B: yeah. I think so too.  	I=B		112.1	B thinks B will use battery operated pump.					B thinks so too=B will most likely use battery operated pump too	CT+ 112.1	CT+ 112.1	JA 112.1	JA 112.1			
+			112.2	B will use battery operated pump						PS 112.2	PS 112.2	JA 112.2	JA 112.2	LI	"embedded under ""think"" -- suggests that B will very likely do 112.2"	
+A: Now like I can tell you I can find the exact brand name of it if you want some time.  	"I=A,it=battery operated pump,you=B"		113.1	A can find the exact brand name of the pump if B wants some time.					A can tell B=unfinished sentence; change of mind. It seems like A cannot tell B the pump brand but can instead find the brand name for B	CT+ 113.1	CT+ 113.1	JA 113.1	JA 113.1			
+			113.2	A can find the exact brand name of the pump some time.					like=filler	CT+ 113.2	CT+ 113.2	JA 113.2	JA 113.2			
+			113.3	B wants A to find the exact brand name of the pump.						PS 113.3	NB 113.3			C	"B does not respond to A's offer, that's why Bel B: NB"	
+B: {breath} 			114													
+A: But like it had like this little like nozzle attachment thing on it which was what it said you were supposed to use.  	it=battery operated pump		115	"The battery operated pump had this little like nozzle attachmment think, which said how to use the pump"						CT+ 115	CT+ 115	JA 115	JA 115	C	"not sure if the last ""it"" refers back to the pump or just to its part, i.e. the nozzle attachment"	
+B: mhm.  			116						mhm=sustaining the flow of the conversation							
+B: mhm.  			117													
+A: And I used it the first time for like three seconds I was like -- 	"I=A,it=battery operated pump"		118	A used the battery operated pump for the first time and A was like ah.					A was like ah=A did not like the feeling of the battery operated pump	CT+ 118	CT+ 118	JA 118	JA 118			
+A: -- %ah [[drawn out as if in agony]] get {laugh} this thing off me.  	thing=battery operated pump		119	A wanted the battery operated pump off B					this thing=unpleasant thing	CT+ 119	CT+ 119	JA 119	JA 119			
+B: {laugh} 			120						B laughs at 118 and 119 indicating that it was a funny occurence							
+A: That really hurt.  	That=battery operated pump		121	The battery operated pump hurt						CT+ 121	CT+ 121	JA 121	JA 121			
+B: {laugh} 			122													
+A: {inhale} Don’t ever do that again.  	that=using the battery operated pump		123	A won't use the battery operated pump again												
+A: And I forget what it said it was for I think it said it was for if you had small breasts or something. I don’t know what 	"I=A,you=one,it=the instructions?"		124.1	A forgets what the instructions said about the noozle						CT+ 124.1	CT+ 124.1	JA 124.1	JA 124.1			
+			124.2	A thinks that the nozzle attachment was for if one had small breasts						CT+ 124.2	CT+ 124.2	JA 124.2	JA 124.2			
+			124.3	The nozzle attachment was for if one had small breasts						PS 124.3	PS 124.3	JA 124.3	JA 124.3	LI	" embedded under 'think', so PS for both. "	
+B: oh okay.  			125						B understands 124.2							
+A: so like I took that thing and I threw it away. {laugh} 	I=A		126.1	A took the nozzle 			 → 128.3 IN	 → 128.3 CT-		CT+ 126.1	CT+ 126.1	JA 126.1	JA 126.1	C	still not sure if the nozzle was thrown away or the entire pump	
+			126.2	A threw the nozzle away			 → 130 IN	 → 130 CT-		CT+ 126.2	CT+ 126.2	JA 126.2	JA 126.2			
+B: {laugh} 			127						B laughs at 126.1 and 126.2							
+A: {inhale} It was like a little part you put on top of a nozzle thing. It was just like an extra attachment and I took that and I -- 	"It=nozzle,I=A,that=nozzle"		128.1	The nozzle was like a little part you put on top of the pump						CT+ 128.1	CT+ 128.1	JA 128.1	JA 128.1			
+			128.2	The nozzle was just like an extra attchment 						CT+ 128.2	CT+ 128.2	JA 128.2	JA 128.2			
+			128.3	 								IN 126.1	IN 126.1	C	A repeats 126.1	
+B: ((mhm)) okay [distorted].  			129							129						
+A: -- threw it away 			130									IN 126.2	IN 126.2	C	A repeats 126.2	
+B: okay.  			131													
+A: And then it was fine.  	it=the pump		132	Then the pump was fine						CT+ 132	CT+ 132	JA 132	JA 132			
+B: okay.  			133						B understand the issue with the pump							
+A: So.  			134						So=an attempt to wrap up the subject							
+B: yeah.  			135						yeah=filler							
+A: That seemed to work fine {inhale} 	That=the pump		136	The pump seemed to work fine						CT+ 136	CT+ 136	JA 136	JA 136			
+B: ye- 			137													
+"A: You know i- if I, if you could avoid it  "	"you=B,You=B,it=using the pump"		138.1	It would be better if B could avoid the pump					you know=filler	CT+ 138.1	CT+ 138.1	JA 138.1	JA 138.1			
+			138.2	B could avoid the pump						PS 138.2	PS 138.2	JA 138.2	JA 138.2			
+A: you know 			139													
+A: if y- if it was a choice in your life to say {inhale}  	your=one's		140	(If using the pump was a choice in one's life)					unfinished sentence; it suggests that if one had a choice not to use the pump they should not use the pump	140	140			C	"because the utterance is not finished, we cannot create a fully fledged event;  therefore no updates of CG"	
+A: well for the first couple months I’ll just be home and I’ll just get a lot of rest and I’ll take it easy and if I’m not -- 	I=A		141.1	For the first couple of months A will just be home					well=indicates that A is about to explain something	CT+ 141.1	CT+ 141.1	JA 141.1	JA 141.1			
+			141.2	A will just get a lot of rest						CT+ 141.2	CT+ 141.2	JA 141.2	JA 141.2			
+			141.3	A will take it easy						CT+ 141.3	CT+ 141.3	JA 141.3	JA 141.3			
+A: -- sleeping at night I’ll just sleep during the day or sleep when the baby sleeps.  			142.1	"If A is not sleeping at night, A will just sleep during the day or A will sleep when the baby sleeps"						CT+ 142.1	CT+ 142.1	JA 142.1	JA 142.1			
+			142.2	A is not sleeping at night						NB 142.2	NB 142.2			C	notes on conditionals will be added to the manual soon. Most of the time the if/then events will have no beliefs	
+			142.3	A will sleep during the day						NB 142.3	NB 142.3					
+			142.4	A will sleep when the baby sleeps						NB 142.4	NB 142.4					
+B: yeah.  			143						yeah=filler							
+A: Not do this whole pumping thing I mean if I had to do it all over that’s what I would do.  	"it=raise a child?,I=A"		144.1	"A would do If A is not sleeping at night, A will just sleep during the day or A will sleep when the baby sleeps instead of this whole pumping thing if A had to raise a child all over again"						CT+ 144.1	CT+ 144.1	JA 144.1	JA 144.1			
+			144.2	"A would do If A is not sleeping at night, A will just sleep during the day or A will sleep when the baby sleeps instead of this whole pumping thing"						NB 144.2	NB 144.2					
+			144.3	A had to raise a child all over again						NB 144.3	NB 144.3					
+B: oh yeah because I was thinking it would be easier because then other people could feed the baby and you wouldn’t have to be so tied to it.  	"I=B,it,you=one"		145.1	B was thinking that pumping would be easier becasue then other people could feed the baby and one wouldn't have to be so tided to the baby						CT+ 145.1	CT+ 145.1	JA 145.1	JA 145.1			
+			145.2	B was thinking that pumping would be easier						CT+ 145.2	CT+ 145.2	JA 145.2	JA 145.2			
+			145.3	Other people could feed the baby						PS 145.3	PS 145.3	JA 145.3	JA 145.3	C	in this particular world the events will be possible -- more on that soonin the manual	
+			145.4	One wouldn't need to be so tided to the baby						PS 145.4	PS 145.4	JA 145.4	JA 145.4			
+			145.5	Pumping would be easier						CT+ 145.5	PS 145.5	JA 145.5	JA 145.5	C	PS and CT+ will also be discussed soon in details	
+A: (( )) 			146													
+A: yeah. And if you want to go out to a movie or something.  	you=one		147.1	Pumping would be easier if one wants to go out to a movie or something						CT+ 147.1	CT+ 147.1	JA 147.1	JA 147.1			
+			147.2	One wants to go out to a movie or something						NB 147.2	NB 147.2					
+A: Mean that you know ((did you)) 			148													
+B: Well we never go out. [[says laughing]] I mean you know what &Norm and I are like I mean.  	"I=B,we=B and Norm,you=A"		149.1	B and Norm never go out						CT+ 149.1	CT+ 149.1	JA 149.1	JA 149.1			
+			149.2	A knows what B and Norm are like						CT+ 149.2	CT+ 149.2	JA 149.2	JA 149.2			
+			149.3	B and Norm have certain habbits						CT+ 149.3	CT+ 149.3	IN 149.3	IN 149.3	LI	embedded under 'know' -- suggests that that 149.3 gas already been a part of CG	
+"A: Well believe me when you have a baby you’ll want, you’ll to put it in someone else’s house or someone come watch it in your house and go anywhere else. {laugh} "	"me=A,you=one"		150.1	"When one has a baby, one will want to put the baby in someone else's house"					"believe me=A indicates that A knows what A is talking about, perhaps because A has experience in the subject"	CT+ 150.1	CT+ 150.1	JA 150.1	JA 150.1			
+			150.2	"When one has a baby, someone will come and watch the baby in one's house and one will go anywhere else"						CT+ 150.2	CT+ 150.2	JA 150.2	JA 150.2			
+			150.3	One has a baby						NB 150.3	NB 150.3			C	the general idea with when/then and if/then clauses is that the speakers usually do not express beliefs to the individual sub-events. Sometimes this not hold -- I will give examples in manual	
+			150.4	One will want to put the baby in someone else's house						NB 150.4	NB 150.4					
+			150.5	Someone will come						NB 150.5	NB 150.5					
+			150.6	Someone will watch the baby in one's house						NB 150.6	NB 150.6					
+			150.7	One will go anywhere else						NB 150.7	NB 150.7					
+B: See that’s what I was thinking like for my in laws and stuff when we go home for &Christmas.  	"I=B,we=B and Norm,my=B's,what=B's inlaws could watch the baby"		151.1	B was thinking that B's inlaws could watch the baby when B and Norm go home for Christmas					"see=intorduces contrast to the upcoming event,See that’s what I was thinking like for my in laws and stuff when we go home for &Christmas.  "	CT+ 151.1	CT+ 151.1	JA 151.1	JA 151.1			
+			151.2	B's inlaws could watch the baby when B and Norm go home for Christmas						CT- 151.2	CT- 151.2	RT 151.2	RT 151.2	LI	"event embedded under ""was thinking"" which indicates that B does not think that any more"	
+			151.3	B's inlaws could watch the baby						NB 151.3	NB 151.3	151.3	151.3	C	event conditioned on another event (151.4)	
+			151.4	B and Norm go home for Christmas						CT+ 151.4	CT+ 151.4	JA 151.4	JA 151.4	LI	when preceeding the the event suggests that 151.4 is a reoccuring event	
+A: mhm.  			152						mhm=expresses A's understanding of 151.1							
+B: It would be so nice to just you know leave the baby with them but you can’t leave the baby.  	"It=EPP,you=one"		153.1	It would be so nice to just leave the baby with B's inlaws but one can’t leave the baby with the inlaws					with the inlaws=phrase elided from the utteraance but presupposed	CT+ 153.1	CT+ 153.1	JA 153.1	JA 153.1			
+			153.2	It would be so nice to leave the baby with B's inlaws					you know=B expresses some belief that event 153.2 might be already known to A	CT+ 153.2	CT+ 153.2	IN 153.2	IN 153.2	LI	you know suggests that this event was known by both participats	
+			153.3	One can't leave the baby with the inlaws			 → 154 IN	 → 154 CT-		CT+ 153.3	CT+ 153.3	JA 153.3	JA 153.3			
+"A: yeah. I mean if you, "			154						yeah=confirms that 153.2 was in CG	154		IN 153.3	IN 153.3			
+A: you know y- you might have to try one or two before you find one that works but 	"you=one,one=breast pump"		155.1	One might have to try one or two breast pumps before one finds the pump that works						CT+ 155.1	CT+ 155.1	JA 155.1	JA 155.1	C		
+			155.2	One might have to try one or two breast pumps						PS 155.2	PS 155.2					
+			155.3	One finds the breast pump that works						PS 155.3	PS 155.3			C	LET'S TALK	
+B: yeah.  			156						yeah=B agrees witj 155.1							
+A: once and you know they have like things and like can set the tension or whatever they get 	they=breast pumps		157	Breast pumps have like things and like can set the tension or whatever					you know=interjection; like=interjection; or whatever=suggests that A is not certainly sure about the breast pumps having tension settings	CT+ 157	CT+ 157	JA 157	JA 157			
+A: suck suck power.  			158						"suck suck power = The breast pumps have ""suck power"" option?"							
+B: {laugh} the tension {laugh} ((they’re)) like the little knob on your sewing machine.  [[said laughing]] {laugh} 	your=one's		159	The tension setting is like the little knob on one's sewing machine					B jokes	CT+ 159	CT+ 159	JA 159	JA 159	C	I think what is being added is not 159 per se but that B is joking abou it; LET'S TALK	
+"A: {laugh} You can set the, the power level and stuff and and it g- "	"You=one,it=breast pump"		160	One can set the power level in the breast pump						CT+ 160	CT+ 160	JA 160	JA 160			
+B: {inhale} {laugh} {inhale} Or like extra suck for just ((starting to)) suck. [[said laughing]] 			161	The breast pump has extra suck setting					B jokes	CT+ 161	CT+ 161	JA 161	JA 161			
+A: You know e- it’s like you 			162						you know=interjection; it's like=A is about to explain something							
+A: once you get used it i- you know at first you feel like what am I doing putting this machine on me it’s disgusting 	you=one		163.1	At first one feels like what is one doing putting this machine on one's breasts						CT+ 163.1	CT+ 163.1	JA 163.1	JA 163.1			
+			163.2	One is putting this machine on one's breasts						NB 163.2	NB 163.2					
+B: {laugh} 			164													
+A: or obscene or something.  			165	Putting the machine on one's breasts is disgusting or obscene or something					or something=something similar to what has been just described	PS 165	NB 165			C	LET'S TALK	
+A: But once you get used to it it was %uh you know you can like read while you’re doing it. It was like boring.  	"you=one,it=breast pump,it 2 =breast pumping"		166.1	"Once one gets used to the breast pump, one can like read while breast pumping"						CT+ 166.1	CT+ 166.1	JA 166.1	JA 166.1			
+			166.2	Once gets used to the breast pump						CT+ 166.2	CT+ 166.2	JA 166.2	JA 166.2			
+			166.3	One can read while breast pumping					like=suggests that reading is one of the acticities one can do while breast pumping	CT+ 166.3	CT+ 166.3	JA 166.3	JA 166.3			
+B: uh-huh.  			167						uh-huh=B acknowledges 166.1							
+B: okay.  			168						okay=suggests that B starts being more approving of the breast pump?							
+B: And what does it go into like a little plastic bag **thingy**? 	it=pump machine		169.1	B asks A what does the pump machine go into like a little plastic bag						CT+ 169.1	CT+ 169.1	JA 169.1	JA 169.1			
+			169.2	The pump machine goes into like a little plastic bag						NB 169.2	NB 169.2			C	NB for A as well because A does not assert 169.2	
+A: %uh well the thing I had was like -- 	"I=A,thing=breast pump"		170	A had a breast pump						CT+ 170	CT+ 170	IN 170	IN 170			
+A: -- like you screwed on this whole motor suction part --  	you=one		171													
+B: uh-huh.  			172													
+"A: -- on to something that was just like a, a jar bottom.  "			173.1	One screws on this whole motor suction part of the breast machine on something that was just like a jar bottom						CT+ 173.1	CT+ 173.1	JA 173.1	JA 173.1			
+			173.2	Something was just like a jar bottom						CT+ 173.2	CT+ 173.2	IN 173.2	IN 173.2	C	presupposed	
+A: You know just looked like a screw thing so that it went to this plastic container.  	it=the screw thing		174.1	Something that was just like a jar bottom looked like a screw thing					you know=interjection	CT+ 174.1	CT+ 174.1	JA 174.1	JA 174.1			
+			174.2	The screw thing went to this plastic container						CT+ 174.2	CT+ 174.2	JA 174.2	JA 174.2			
+B: {breath} 			175													
+B: okay. And you can reuse the plastic container? 	you=one		176.1	B asks A if one can reuse the plastic container 					okay=B indicates that B understood 173.1 and 174.1	CT+ 176.1	CT+ 176.1	JA 176.1	JA 176.1			
+			176.2	One can reuse the plastic container						NB 176.2	NB 176.2			C	A does not answer 176.1 -- that's why NB	
+A: And then what I would do is just %uh I would bring little bags like that you’re supposed to put formula in with me to work.  	"I=A,you=one,me=A"		177.1	A would then bring little bags like that one is supposed to put formula in with A to work						CT+ 177.1	CT+ 177.1	JA 177.1	JA 177.1			
+			177.2	One is supposed to put formula in little bags						CT+ 177.2	CT+ 177.2	IN 177.2	IN 177.2			
+B: oh okay.  			178						oh okay=B expresses understanding of 177.1							
+A: And then I’d pour it from the container  	"it=milk,Id=A"		179							179	179	179	179			
+A: into the plastic bag and seal it up and then go you know rinse out the container thing and wash it the next day.  	"it=plastic bag,it 2 =container"		180.1	Then A would pour the milk from the container into the plastic bag						CT+ 180.1	CT+ 180.1	JA 180.1	JA 180.1			
+			180.2	A would seal up the plastic bag						CT+ 180.2	CT+ 180.2	JA 180.2	JA 180.2			
+			180.3	Then A would rinse out the container 						CT+ 180.3	CT+ 180.3	JA 180.3	JA 180.3			
+			180.4	A would wash the container the next day						CT+ 180.4	CT+ 180.4	JA 180.4	JA 180.4			
+B: And did you throw away the plastic bags when you were done? 	you=A		181.1	B asks A if A threw away the plastic bags when A was done with the milk						CT+ 181.1	CT+ 181.1	JA 181.1	JA 181.1			
+			181.2	A threw away the plastic bags when A was done with the milk						CT+ 181.2	NB 181.2			C	 A's utterance in 184 suggests that Bel A: CT+	
+A: Well see then the plastic bag is designed to go inside a bottle thing.  			182	The plastic bag is designed to go inside a bottle thing					well see=A tries to educate B about the use of the plastic bag	CT+ 182	CT+ 182	JA 182	JA 182			
+B: yeah. And th- %eh so then you so you throw the plastic bag away when you’re done.  	you=one		183	Then one throws away the plastic bag when one is done						CT+ 183	CT+ 183	JA 183	JA 183			
+A: After your baby drinks the milk yeah.  	your=one's		184.1	One throws away the plastic bag after one's baby drinks the milk						CT+ 184.1	CT+ 184.1	JA 184.1	JA 184.1			
+			184.2	One's baby drinks the milk						CT+ 184.2	CT+ 184.2	IN 184.2	IN 184.2	C	presupposed? But is it correct to mark it CT+ as an event in general? LET'S TALK	
+B: yeah okay 			185						yeah okay=B expresses understading about 184.1							
+B: {lipsmack} okay. I’m just trying to you know 	I=B		186	B is trying to learn about B's options regarding baby feeding						186	CT+ 186			C	exmpty for A becasue it seems that A did not acknowledge the event	
+B: we have a f- %um %uh %uh 			187													
+A: And that way you can freeze them so you know we’d end up  	"them=milk,you=one"		188	That way one can freeze milk						CT+ 188	CT+ 188	JA 188	JA 188			
+B: yeah.  			189						yeah=interjection							
+"A: there was sort of like a, a go or no go for breast pumping like once you just kind of got everything going it was like it ended up I was pumping too much you know it was like "	you=one		190.1	There was sort of like a go or no go for breast pumping						CT+ 190.1	CT+ 190.1	JA 190.1	JA 190.1			
+			190.2	Once one just kind of got everything going it was like A was pumping too much						CT+ 190.2	CT+ 190.2	JA 190.2	JA 190.2			
+			190.3	One got everything going with the breast pump					you know=interjection	CT+ 190.3	CT+ 190.3	JA 190.3	JA 190.3			
+			190.4	A was pumping too much												
+B: %mm okay.  			191						mm  okay=B acknowledges 190							
+A: we ended up with a freezer full like we found a year later a freezer full of breast milk. [[said laughing]] 	we=A and Kevin		192.1	Kevin and A ended up with a freezer full of breast milk						CT+ 192.1	CT+ 192.1	JA 192.1	JA 192.1			
+			192.2	Kevin and A  found a year later a freezer full of breast milk. 					A laughs at the amount of breat milk they used to store in the fridge	CT+ 192.2	CT+ 192.2	JA 192.2	JA 192.2			
+B: {laugh} God.  			193						God=B is surprised at 192							
+A: oh let’s just throw this all away.  	this=breast milk		194.1	A suggested that A and Kevin should throw the old breast milk from the freezer						CT+ 194.1	CT+ 194.1	JA 194.1	JA 194.1	C	"Here the event needs to be altered, if we leave it as it, it won't be as informative. We always try to convey the most meaning in the events"	
+			194.2	A and Kevin should throw the old breast milk from the freezer						CT+ 194.2	CT+ 194.2	JA 194.2	JA 194.2			
+B: {laugh} 			195						B laughs at the excess of old breast milk in A's and Kevin's fridge							
+A: It’s like all that hard work but it was either you know it was either explode or {breath} you know pretty much 	It=the pumping (?)		196.1	The pumping was hard work						CT+ 196.1	CT+ 196.1	JA 196.1	JA 196.1			
+			196.2	It was either to explode or pump the breast milk					you know=interjection	CT+ 196.2	CT+ 196.2	JA 196.2	JA 196.2	C	"LET""S TALK -- still not sure how to deal with the disjunction"	
+"B: But I thought like you totally got down to the level so even if you only breast fed one, you know once a day that that’s how much milk you would have.  "	"I=B,you=one,one=child (?)"		197.1	B thought one totally got down to the level					like=interjection	CT+ 197.1	CT+ 197.1	JA 197.1	JA 197.1			
+			197.2	One totally got down to the level						NB 197.2	PS 197.2			LI	 embedded under 'think'; A's bel is NB because of A's answer in 198.1	
+			197.3	"So even if one breast fed one child once a day, that is how much milk would one have"						NB 197.3	PS 197.3			LI	follows from the uncertain belief about event in 197.2	
+			197.4	One breast fed one's child once a day						NB 197.4	NB 197.4					
+			197.5	One would produce that much milk						NB 197.5	NB 197.5					
+A: I don’t know. All I can tell you is to get a big bag (( )) [[says laughing]].  	"I=A,you=B"		198.1	A doesn't know much much milk would one have depending on the frequency of breast feeding						CT+ 198.1	CT+ 198.1	JA 198.1	JA 198.1			
+			198.2	All A can tell B is to get a big bag						CT+ 198.2	CT+ 198.2	JA 198.2	JA 198.2			
+			198.3	B is to get a big bag						PS 198.3	PS 198.3			C	it seems like a suggestion that B is netertaining but does not express any commitment to	
+B: {laugh} okay [[says laughing]] 			199						okay=B agrees that B should consider 198.3							
+A: {inhale} It’s like once I started at at work I you know 			200						It's like = it suggests that A will say something related to the topic of the current conversation							
+"A: once you, once he was getting bigger or something there was like I was making two bags and it was like if you sat down you either did two bags or you’d explode that was it. "	"he=A's child,you=one"		201.1	"Once A started at work and A's child was bigger or something, A was making two bags of milk"						CT+ 201.1	CT+ 201.1	JA 201.1	JA 201.1	C	"when some informatio is missing, we need to add what is elided but understood by the speakers"	
+			201.2	A started at work after delivering the child					it was like=A is about to describe a situation that might not be the exact representation of reality (???)	CT+ 201.2	CT+ 201.2	IN 201.2	IN 201.2	C		
+			201.3	A's child was bigger						CT+ 201.3	CT+ 201.3	IN 201.3	IN 201.3			
+			201.4	A was making two bags of milk						CT+ 201.4	CT+ 201.4	JA 201.4	JA 201.4			
+			201.5	"If one sat down, one either did two bags or one would explode"						CT+ 201.5	CT+ 201.5	JA 201.5	JA 201.5			
+			201.6	One sat down						NB 201.6	NB 201.6					
+			201.7	One did either two bags of milk or one would explode						CT+ 201.7	CT+ 201.7	JA 201.7	JA 201.7			
+A: And she just couldn’t quite drink that much so {lipsmack} 	she=A's child		202	A's child could not quite drink that much						CT+ 202	CT+ 202	JA 202	JA 202			
+B: %mm okay.  			203													
+A: You know that was why I was working in the morning the morning’s when you do the most. {breath} Everybody’s different so it probably 	"I=A,you=one,working=milk pumping (???),it=milk pumping in the morning"		204.1	A was pumping the milk in the morning because the morning is when one does the most milk					you know=interjection	CT+ 204.1	CT+ 204.1	JA 204.1	JA 204.1			
+			204.2	A was pumping milk in the morning						CT+ 204.2	CT+ 204.2	JA 204.2	JA 204.2			
+			204.3	The morning is when one does the most milk	 → 204.4 PS					CT+ 204.3	PS 204.3	JA 204.3	JA 204.3	C	because of B's response in 205	
+			204.4	Everybody is different so milk pumping in the morning may not work for everyone						"CT+ 204.4,PS 204.3"	CT+ 204.4	JA 204.4	JA 204.4			
+			204.5	Everybody is different						CT+ 204.5	CT+ 204.5	IN 204.5	IN 204.5	WK		
+			204.6	Milk pumping in the morning may not work for everyone						CT+ 204.6	CT+ 204.6	JA 204.6	JA 204.6			
+B: yeah yeah that’s true. {inhale} Well I only have fourteen weeks left so.  	I=B		205.1	B only has fourteen weeks left before B delivers B's child					yeah yeah that's true=B explicitly agrees with 204.5	CT+ 205.1	CT+ 205.1	JA 205.1	JA 205.1			
+			205.2	B will deliver B's child						CT+ 205.2	CT+ 205.2	IN 205.2	IN 205.2	C	presupposed	
+A: Wow you’re getting there. [[drawn out]] 	"you=B,there=B's child birth"		206	B is getting closer to B's baby birth			 → 207 IN	 → 207 CT-	wow=excitement	CT+ 206	CT+ 206	JA 206	JA 206			
+B: I know {breath} I know.  	I=B		207	B knows B is getting closer to B's baby birth						CT+ 207	CT+ 207	"JA 207,IN 206"	"JA 207,IN 206"	LI	206 is reasserted as being part of CG already	
+A: Stopping with the miscarriage anxiety starting with the delivery anxiety.  [[said laughing]] 			208.1	A is stopping with the miscarriage anxiety					A laughs about 208.1 and 208.2	PS 208.1	PS 208.1	JA 208.1	JA 208.1	C	A laughs at events in 208 which suggests that A does not express certain belief in those	
+			208.2	A is starinng with the delivery anxiety						PS 208.2	PS 208.2	JA 208.2	JA 208.2			
+B: {laugh} I know oh no. I had the miscarriage anxiety up until the you know because you have all those well wishers you know telling you about all those things you know.  	"I=B,you=one"		209.1	B had the miscarriage anxiety up until the delivery because one has all those wishers telling one about all those things					I know oh no=B emphatizes  with A about the pregnany  related anxieties	CT+ 209.1	CT+ 209.1	JA 209.1	JA 209.1			
+			209.2	B had the miscarriage anxiety up until the delivery						CT+ 209.2	CT+ 209.2	JA 209.2	JA 209.2			
+			209.3	One has all those wishers telling one about all those things						CT+ 209.3	CT+ 209.3	JA 209.3	JA 209.3			
+A: ooh everybody wants to start telling you these things like people would like corner me to tell me about their hysterectomies. It’s like somehow some O B gyn connection that they see you and they think of O B gyn and they’ve got to tell you about it.  	"you=one,their=people's,me=A,they=people,you 2=pregnant woman"		210.1	Everybody wants to start telling one about their pregnancy experience						CT+ 210.1	CT+ 210.1	JA 210.1	JA 210.1			
+			210.2	People would corner A to tell A about people's hysterectomies						CT+ 210.2	CT+ 210.2	JA 210.2	JA 210.2			
+			210.3	People would corner A						NB 210.3	NB 210.3					
+			210.4	People would tell A about people's hysterectomies						CT+ 210.4	CT+ 210.4	JA 210.4	JA 210.4			
+			210.5	People had hysterectomies						CT+ 210.5	CT+ 210.5	IN 210.5	IN 210.5	C	presupposed	
+			210.6	"When people see a pregnant woman, the people think of OB gyn"						CT+ 210.6	CT+ 210.6	JA 210.6	JA 210.6			
+			210.7	People see a pregnant woman						NB 210.7	NB 210.7					
+			210.8	People think of OB gyn						NB 210.8	NB 210.8					
+			210.9	People who think of OB gyn when seeing a pregnant woman got to tell the pregnant woman about the people's hysterectomies						CT+ 210.9	CT+ 210.9	JA 210.9	JA 210.9			
+B: oh my god.  			211						oh my god=B expresses annoyance about 210							
+B: you know [distorted] 			212						you know=interjection							
+B: yeah 			213						yeah=interjection							
+B: Well I’ve heard the cord accident stories 	I=B		214	B's heard the cord accident stories					well=interjection	CT+ 214	CT+ 214	JA 214	JA 214			
+B: which had me like totally and completely freaked out.  	"which=the cord accident stories,me=B"		215	The cord accident stories had B totally and completely freaked out					like=interjection	CT+ 215	CT+ 215	JA 215	JA 215			
+B: a- are you still there? 	"you=A,there=on the phone"		216.1	B asks A if A is still on the phone						CT+ 216.1	CT+ 216.1	JA 216.1	JA 216.1			
+			216.2	A is still on the phone	 → 217 CT+		 → 217 JA	 → 217 CT+		NB 216.2	CT+ 216.2					
+A: yeah ((I’m still here)) [distortion] 			217							CT+ 216.2		JA 216.2	JA 216.2			
+B: oh so I had so I talked to my doctor about it and apparently it’s very rare [[said laughing]] so don’t ask me why I’ve heard so many stories about it but {sniff} 	"I=B,me=B,it=the cord accidents,my=B's"		218.1	B talked to B's doctor about the cord accidents						CT+ 218.1	CT+ 218.1	JA 218.1	JA 218.1			
+			218.2	The cord accidents are apparently very rare						CT+ 218.2	CT+ 218.2	JA 218.2	JA 218.2			
+			218.3	B requests A not to ask B why B's heard so many stories about the cord accidents						CT+ 218.3	CT+ 218.3	JA 218.3	JA 218.3			
+			218.4	A asks B why B's heard so many stories about the cord accidents						CT- 218.4	CT- 218.4	RT 218.4	RT 218.4			
+			218.5	B's heard so many stories about the cord accidents						CT+ 218.5	CT+ 218.5	IN 218.5	IN 218.5	C	"implied from events in 214, 218.1"	
+B: oh yeah and then there was this friend I had she was eight and a half months pregnant and you know {breath} baby had a cord accident and she died. [[said laughing]] 	"I=B,she=B's friend,she 2=B's friend's baby"		219.1	There was B's friend that B had					oh yeah=B remembers a story about the cord accidents	CT+ 219.1	CT+ 219.1	JA 219.1	JA 219.1			
+			219.2	B had a friend					you know=interjection	CT+ 219.2	CT+ 219.2	JA 219.2	JA 219.2	C	presupposition accomodation	
+			219.3	B's friend was eight and a half months pregnant						CT+ 219.3	CT+ 219.3	JA 219.3	JA 219.3			
+			219.4	B's friend's baby had a cord accident						CT+ 219.4	CT+ 219.4	JA 219.4	JA 219.4			
+			219.5	B's friend's baby died						CT+ 219.5	CT+ 219.5	JA 219.5	JA 219.5			
+A: Like most people they just have babies it all works out.  			220.1	It all works out for most people who have babies			 → 221.1 IN	 → 221.1 CT-		CT+ 220.1	CT+ 220.1	JA 220.1	JA 220.1			
+			220.2	People have babies						NB 220.2	NB 220.2					
+B: yeah. I know. I know so I’m not so freaked out anymore.  	I=B		221.1	B knows It all works out for most people who have babies						CT+ 221.1	CT+ 221.1	"JA 221.1,IN 220.1"	"JA 221.1,IN 220.1"			
+			221.2	B is not so freaked out anymore						CT+ 221.2	CT+ 221.2	JA 221.2	JA 221.2			
+A: Good.  			222						Good=A is happy that 221.2							
+B: {lipsmack} That was like I was talking to &Erica on the phone and %uh 	"I=B,Erica"	Erica	223	B was talking to Erica on the phone						CT+ 223	CT+ 223	JA 223	JA 223			
+B: that’s what she told me she’s like but d- to say that it was okay she was like saying that well you know but this woman is pregnant again and you know will have her baby again soon so it was like no big deal. 	"she=Erica,it=loosing Erica's baby,woman=B's friend who lost the child,her=B's friend who lost the child's"		224.1	Erica told B that B's friend loosing B's friend baby was okay						CT+ 224.1	CT+ 224.1	JA 224.1	JA 224.1			
+			224.2	B's friend loosing B's friend baby was okay						CT- 224.2	CT- 224.2	RT 224.2	RT 224.2	C	" In 227.1 B disagrees, and 228 A does"	
+			224.3	B's friend is pregnant again					like = interjection	CT+ 224.3	CT+ 224.3	JA 224.3	JA 224.3			
+			224.4	B's friend will have B's friend baby again soon so B's friend's loosing B's friend's baby was no big deal					you know= interjection	CT+ 224.4	CT+ 224.4	JA 224.4	JA 224.4			
+			224.5	B's friend will have B's friend baby again soon 						CT+ 224.5	CT+ 224.5	JA 224.5	JA 224.5			
+			224.6	B's friend's loosing B's friend's baby was no big deal						CT- 224.6	CT- 224.6	RT 224.6	RT 224.6	C	" In 227.1 B disagrees, and 228 A does"	
+A: No yeah.  			225						No yeah= A agrees with 224							
+"B: But having never been pregnant before, you know I’m sure &Erica has like no idea this woman must be on just you know absolute.  "	"I=B,woman=B's friend who lost the baby"		226	 					you know=interjection; like = interjection							
+B: pins and needles.  She must be having the most miserable pregnancy in the whole world.  	She=B's friend		227.1	"But having never been pregnant before, B's sure Erica has no idea B's friend must be on just absolute pins and needles"						CT+ 227.1	CT+ 227.1	JA 227.1	JA 227.1			
+			227.2	Erica has never been pregnant before						CT+ 227.2	CT+ 227.2	JA 227.2	JA 227.2	C	presupposition accommodation	
+			227.3	B is sure Erica has no idea B's friend must be on just absolute pins and needles						CT+ 227.3	CT+ 227.3	JA 227.3	JA 227.3			
+			227.4	Erica has no idea B's friend must be on just absolute pins and needles						CT+ 227.4	CT+ 227.4	JA 227.4	JA 227.4			
+			227.5	B's friend must be on just absolute pins and needles						CT+ 227.5	CT+ 227.5	JA 227.5	JA 227.5			
+			227.6	B's friend is on just absolute pins and needles						PS 227.6	PS 227.6	JA 227.6	JA 227.6	LI	embedded under must -- indicates less than certain belief (???)	
+			227.7	B's friend must be having the most miserable pregnancy in the whole world						CT+ 227.7	CT+ 227.7	JA 227.7	JA 227.7			
+			227.8	B's friend is having the most miserable pregnancy in the whole world						PS 227.8	PS 227.8	JA 227.8	JA 227.8			
+"A: yeah that’s such a public thing.  Like everyone knew she was pregnant.  I mean once you’re eight and half months, man, I mean there was nothing nice about it (( )) "	"that=loosing a baby,she=B's friend,I=A,you=one"		228.1	Loosing a baby is such a public thing					like=interjection	CT+ 228.1	CT+ 228.1	JA 228.1	JA 228.1			
+			228.2	Everyone knew B's friend was pregnant						CT+ 228.2	CT+ 228.2	JA 228.2	JA 228.2			
+			228.3	B's friend was pregnant					I mean= (???)	CT+ 228.3	CT+ 228.3	IN 228.3	IN 228.3	LI	embeded under 'know	
+			228.4	There was nothing nice about being pregnant eight and half months and loosing the baby			 → 229 IN	 → 229 CT-	man=expression of empathy	CT+ 228.4	CT+ 228.4	JA 228.4	JA 228.4			
+			228.5	There was nothing nice about being pregnant eight and half months						CT+ 228.5	CT+ 228.5	JA 228.5	JA 228.5			
+			228.6	There was nothing nice about loosing the baby						CT+ 228.6	CT+ 228.6	JA 228.6	JA 228.6			
+B: I know.  	I=B		229	B knows There was nothing nice about being pregnant eight and half months and loosing the baby						CT+ 229	CT+ 229	"JA 229,IN 228.4"	"JA 229,IN 228.4"			
+"A: you know if you’ve made it through the eight and a half months, man, you deserve it a baby.  "	you=one		230.1	"If one's made it through the eight and a half months, one deserves a baby"			 → 232.1 IN	 → 232.1 CT-	you know=interjection	CT+ 230.1	CT+ 230.1	JA 230.1	JA 230.1			
+			230.2	One's made it through the eight and a half months						NB 230.2	NB 230.2					
+			230.3	One deserves a baby						NB 230.3	NB 230.3					
+B: I bet [distorted] 			231													
+B: I know and then you know and then to have to go back to work 	I=B		232.1	"B knows If one's made it through the eight and a half months, one deserves a baby"						CT+ 232.1	CT+ 232.1	"JA 232.1,IN 230.1"	"JA 232.1,IN 230.1"			
+			232.2	One has to go back to work after one looses one's baby						CT+ 232.2	CT+ 232.2	JA 232.2	JA 232.2			
+			232.3	Going back to work after loosing one's baby is tough						CT+ 232.3	CT+ 232.3	JA 232.3	JA 232.3	C	implication	
+"B: and {inhale} you know and then the second pregnancy must be just like fraught with anxiety and especially since it happened at eight and a half months, you know.   "	it=loosing the baby		233.1	"Once one lost baby at eight and a half months, the second pregnancy must be just like fraught with anxiety"					you know=interjection	CT+ 233.1	CT+ 233.1	JA 233.1	JA 233.1			
+			233.2	One lost baby at eight and a half months						NB 233.2	NB 233.2					
+			233.3	The second pregnancy must be just like fraught with anxiety						NB 233.3	NB 233.3					
+A: yeah and everybody is probably saying now you better really drink milk this time.  You better eat your cottage cheese now.  	"you=one,You=one"		234.1	Everybody is probably saying now one better really drink milk this time			 → 235 IN	 → 235 CT-	yeah=A agrees with 233.1	CT+ 234.1	CT+ 234.1	JA 234.1	JA 234.1			
+			234.2	Now one better really drink milk this time						CT+ 234.2	CT+ 234.2	JA 234.2	JA 234.2			
+			234.3	One really drinks milk this time						CT- 234.3	CT- 234.3	RT 234.3	RT 234.3	C	" suggestion for future, does not suggest that the event is true now"	
+			234.4	One better eat one's cottage cheese now						CT+ 234.4	CT+ 234.4	JA 234.4	JA 234.4			
+			234.5	One eats one's cottage cheese now						CT- 234.5	CT- 234.5	RT 234.5	RT 234.5	C	" suggestion for future, does not suggest that the event is true now"	
+B: {laugh} I Know.  			235	B knows Everybody is probably saying now one better really drink milk this time						CT+ 235	CT+ 235	"JA 235,IN 234.1"	"JA 235,IN 234.1"			
+B: I know I know yeah.  I actually did start drinking more milk and it has helped with all my little aches and pains and stuff.  	"I=B,it=drinking more milk,my=B's"		236.1	B actually did start drinking more milk						CT+ 236.1	CT+ 236.1	JA 236.1	JA 236.1			

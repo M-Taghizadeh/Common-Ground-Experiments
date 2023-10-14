@@ -1,0 +1,332 @@
+Sentence	Entity	Entity(JA)	Eno.	Event	Bel(A)R	Bel(B)R	CG(A)R	CG(B)R	Pragmatics	Bel(A)	Bel(B)	CG(A)	CG(B)	Why(CG)	Why in prose	Comment
+"A: %um but although they solicit, they’re trying to solicit more throughout the, throughout the globe instead of just &Japan "	they= the company		1.1	"Although the company solicits, the company is trying to solicit more throughout the globe instead of just Japan"						CT+ 1.1	CT+ 1.1	JA 1.1	JA 1.1			
+			1.2	The company solicits						CT+ 1.2	CT+ 1.2	IN 1.2	IN 1.2	LI	embeddiing it under 'although' suggests that this hsa already been part of the CG	
+			1.3	The company is trying to solicit more throughout the globe instead of just Japan						CT+ 1.3	CT+ 1.3	JA 1.3	JA 1.3			
+B: mhm.  			2						mhm = B acknowledges 1							
+A: although they’ve had most interest in &Japan.  	they=the company		3	The company have had most interest in Japan						CT+ 3	CT+ 3	JA 3	JA 3			
+B: mhm.  			4						mhm= B acknowledges 3							
+A: And I teach probably two classes and then do administrative work to make connections for these people to have tours 	I=A		5.1	A teaches two classes						CT+ 5.1	CT+ 5.1	JA 5.1	JA 5.1			
+			5.2	A does administrative work to make connections for the company representatives to have tours						CT+ 5.2	CT+ 5.2	JA 5.2	JA 5.2			
+			5.3	A does administrative work						CT+ 5.3	CT+ 5.3	JA 5.3	JA 5.3			
+			5.4	A makes connections for the company representative to have tours						CT+ 5.4	CT+ 5.4	JA 5.4	JA 5.4			
+A: or to go look at companies dealing with certain issues that they’re working on in their classes. {breath} Half of their classes are business half are English Eng- English business 	"they=A's students,their=A's students'"		6.1	A does administrative work to go look at companies dealing with certain issues that A's students are working on in A's students classes						CT+ 6.1	CT+ 6.1	JA 6.1	JA 6.1			
+			6.2	A looks at companies dealing with certain issues that A's students are working on in A's students classes						CT+ 6.2	CT+ 6.2	JA 6.2	JA 6.2			
+			6.3	A's students are working on certain issues in A's students classes						CT+ 6.3	CT+ 6.3	JA 6.3	JA 6.3			
+			6.4	Half of A's students classes are business half English						CT+ 6.4	CT+ 6.4	JA 6.4	JA 6.4			
+B: mhm [distorted] 			7						mhm = B acknowledges 5 and 6							
+B: mhm.  			8						repetition of 7							
+B: mhm.  			9						repetition of 7							
+A: mhm 			10						mhm = interjection							
+B: (( )) 			11													
+A: So it’s really groovy because I ((mean)) I have all these contacts for them because of my experience in the business world here.  	"I=A,it=5.2 and 6.1,my=A's"		12.1	A does administrative work to make connections for the company representatives to have tours and A does administrative work to go look at companies dealing with certain issues that A's students are working on in A's students classes are really groovy because A has all these contact for them because of A's experience in the business world here						CT+ 12.1	CT+ 12.1	JA 12.1	JA 12.1			
+			12.2	A does administrative work to make connections for the company representatives to have tours and A does administrative work to go look at companies dealing with certain issues that A's students are working on in A's students classes are really groovy						CT+ 12.2	CT+ 12.2	JA 12.2	JA 12.2			
+			12.3	 A has all these contact for them because of A's experience in the business world here						CT+ 12.3	CT+ 12.3	JA 12.3	JA 12.3			
+			12.4	A has experience in the business world here						CT+ 12.4	CT+ 12.4	IN 12.4	IN 12.4	C		
+B: yeah. yeah.  			13						yeah. yeah.  = B confirms 12.4							
+A: And you know and I do a little teaching for them too.  	"I=A,them=A's students"		14	A does a little teaching for A's students too					you know = interjection	CT+ 14	CT+ 14	JA 14	JA 14			
+B: okay. What classes did you teach at (( )) that would be related? 	you=A		15.1	B asks A what classes B taught that would be related						CT+ 15.1	CT+ 15.1	JA 15.1	JA 15.1			
+			15.2	B taught classes that would be related						CT+ 15.2	CT+ 15.2	IN 15.2	IN 15.2	LI	wh questions contains presupposition	
+"A: I taught, okay. I taught  "	I=A		16						unfinished utterance							
+A: I taught business English.  	I=A		17	A taught business English						CT+ 17	CT+ 17	JA 17	JA 17			
+B: uh-huh.  			18						uh-huh.  = B acknowledges 17							
+A: I taught listening. I taught integrated skills and g- beginning grammar.  	I=A		19.1	A taught listening						CT+ 19.1	CT+ 19.1	JA 19.1	JA 19.1			
+			19.2	A taught integrated skills and beginning grammar						CT+ 19.2	CT+ 19.2	JA 19.2	JA 19.2			
+B: okay.  			20						okay.  = B acknowledges 19							
+B: mhm. I’m just writing this down so I 	"I=A,this=what A is teaching"		21	B is writing down what A is teaching 						CT+ 21	CT+ 21	JA 21	JA 21			
+A: Cool.  			22						Cool.  = A expresses approval of 21							
+A: You don’t have to tell them about (( )) or anything. {breath} oh weird.  	"You=B,them=?"		23	B does not have to tell them (?) about what A is teaching or anything						CT+ 23	CT+ 23	JA 23	JA 23			
+B: {laugh}  			24						B laughs at 23							
+A: You know what? 	You=B		25	 					You know what = A indicates that A is about to say something exciting							
+B: What? 			26						What? = B is asking what A is about to say							
+"A: I had a dream this morning about, "	I=A		27	A had a dream this morning						CT+ 27	CT+ 27	JA 27	JA 27			
+A: it’s weird. I don’t know if you were in it. I think you were.  	"it=A's dream,I=A,you=B"		28.1	A's dream is weird						CT+ 28.1	CT+ 28.1	JA 28.1	JA 28.1			
+			28.2	A doesn't  know if B was in A's dream						CT+ 28.2	CT+ 28.2	JA 28.2	JA 28.2			
+			28.3	B was in A's dream						PS 28.3	PS 28.3	JA 28.3	JA 28.3			
+			28.4	A thinks that B was in A's dream						CT+ 28.4	CT+ 28.4	JA 28.4	JA 28.4			
+B: %huh.  			29						huh. = B expresses slight surprise  							
+A: But &Barry was definitely in it.  			30	Barry was definitely in A's dream						CT+ 30	CT+ 30	JA 30	JA 30			
+B: yeah.  			31						yeah.  = B acknowledges 30							
+A: And &Barry and I 	I=A		32													
+A: I don’t know. We were trying to get somewhere and we had to jump in this water but she wouldn’t let go of me when we got in the water and I woke up because I start drowning. {laugh} 	"I=A,We=Barry and A,she=Barry,me=A"		33.1	"In A's dream, Barry and A were trying to get somewhere"					I don’t know = A is trying to remember A's dream	CT+ 33.1	CT+ 33.1	JA 33.1	JA 33.1			
+			33.2	"In A's dream, Barry and A had to jump in this water but Barry would not let go of A when Barry and A got in the water"						CT+ 33.2	CT+ 33.2	JA 33.2	JA 33.2			
+			33.3	"In A's dream, Barry and A had to jump in this water"						CT+ 33.3	CT+ 33.3	JA 33.3	JA 33.3			
+			33.4	"In A's dream, Barry would not let go of A when Barry and A got in the water"						CT+ 33.4	CT+ 33.4	JA 33.4	JA 33.4			
+			33.5	"In A's dream, Barry would not let go of A"						CT+ 33.5	CT+ 33.5	JA 33.5	JA 33.5			
+			33.6	"In A's dream, Barry and A got in the water"						CT+ 33.6	CT+ 33.6	JA 33.6	JA 33.6			
+			33.7	A woke up because A started drowning in A's dream						CT+ 33.7	CT+ 33.7	JA 33.7	JA 33.7			
+			33.8	A woke up						CT+ 33.8	CT+ 33.8	JA 33.8	JA 33.8			
+			33.9	A started drowning in A's dream 						CT+ 33.9	CT+ 33.9	JA 33.9	JA 33.9			
+B: {laugh} 			34						B laughs at A's dream							
+A: {breath} I don’t know what that means. I got a postcard from her too the other day 	"I=A,that=A's dream,her=Barry"		35.1	A doesn't know what A's dream mean						CT+ 35.1	CT+ 35.1	JA 35.1	JA 35.1			
+			35.2	A's dream means something						CT+ 35.2	CT+ 35.2	IN 35.2	IN 35.2	LI	embedded under 'know'	
+			35.3	A got a postcard from Barry too the other day						CT+ 35.3	CT+ 35.3	JA 35.3	JA 35.3			
+B: ((That’s a)) [distorted] 			36													
+B: yeah. That’s a scary dream.  			37	A's dream is scary					yeah = interjection	CT+ 37	CT+ 37	JA 37	JA 37			
+A: It was pretty scary.  	It=A's dream		38	A's dream was pretty scary						CT+ 38	CT+ 38	JA 38	JA 38			
+B: yeah.  			39						yeah. = interjection							
+A: [channel noise] I don’t know it was kind of one of those frustrating type dreams.  	"I=A,it=A's dream"		40	A's dream was kind of one of those frustrating type dreams					I don’t know = interjection	CT+ 40	CT+ 40	JA 40	JA 40			
+"B: %eh w- listen. Was it difficult coming back, going back to the &U &S? "			41.1	B asks A if going back to the US was difficult						CT+ 41.1	CT+ 41.1	JA 41.1	JA 41.1			
+			41.2	Going back to the US was difficult		 → 42 CT+	 → 42 JA	 → 42 CT+		CT+ 41.2	NB 41.2					
+A: yeah.  			42						yeah.  = A acknowledges 41.2		CT+ 41.2	JA 41.2	JA 41.2			
+B: yeah.  			43						yeah.  = B expresses undertanding about 41.2							
+A: It was harder than I thought it would be actually.  	"It=going back to the US,I=A"		44.1	Going back to the US was harder than A thought going back to the US would be actually						CT+ 44.1	CT+ 44.1	JA 44.1	JA 44.1			
+			44.2	A thought going back to the US would be hard						CT+ 44.2	CT+ 44.2	JA 44.2	JA 44.2			
+			44.3	Going back to the US was hard for A						CT+ 44.3	CT+ 44.3	JA 44.3	JA 44.3			
+B: yeah.  			45						yeah.  = B expresses understadning about 44.1							
+A: %um harder in the sense that %uh  			46						unfinished utterance							
+A: {lipsmack} {breath} 			47													
+A: I wasn’t used to the pace 	I=A		48.1	Going back to the US was hard for A because A was not used to the pace						CT+ 48.1	CT+ 48.1	JA 48.1	JA 48.1			
+			48.2	A was not used to the pace						CT+ 48.2	CT+ 48.2	JA 48.2	JA 48.2			
+A: it’s 			49						unfinished utterance							
+B: mhm.  			50						mhm.  = B acknowledges 48.2							
+A: you know the pace is totally different.  			51	The pace in Poland is totally different						CT+ 51	CT+ 51	JA 51	JA 51			
+B: mhm.  			52						mhm.  = B acknowledges 51							
+A: %um 			53													
+A: And  			54						unfinished utterance							
+A: I didn’t really want to see anybody for a while.  	I=A		55	A didn’t really want to see anybody for a while						CT+ 55	CT+ 55	JA 55	JA 55			
+"A: And I d-, and I didn’t, which was fine.  "	"I=A,which=A not seeing anybody for a while"		56.1	A didn't see anybody for a while						CT+ 56.1	CT+ 56.1	JA 56.1	JA 56.1			
+			56.2	A not seeing anybody for a while was fine						CT+ 56.2	CT+ 56.2	JA 56.2	JA 56.2			
+A: And I really missed people  	I=A		57						unfinished sentence							
+A: %um from &Poland because it was all my support system. Coming here w- the only person that really knew and understood my circumstances was &Tom.  	"my=A's,it=people from Poland,here=the US"		58.1	A really missed people from Poland because those people were all A's support system						CT+ 58.1	CT+ 58.1	JA 58.1	JA 58.1			
+			58.2	A really missed people from Poland						CT+ 58.2	CT+ 58.2	JA 58.2	JA 58.2			
+			58.3	People from Poland were all A's support system						CT+ 58.3	CT+ 58.3	JA 58.3	JA 58.3			
+			58.4	The only person that really knew and understood A's circumstances in the US was Tom						CT+ 58.4	CT+ 58.4	JA 58.4	JA 58.4			
+B: mhm.  			59						mhm.  = B acknowledges 58							
+A: And so that was really tough because that was a lot of pressure on both of us ((coming coming)) with him again and all of that.  	"us=A and Tom,that=Tom being the only person that understands A's circumstances"		60.1	Tom being the only person that understands A's circumstances was really tough because Tom being the only person that understands A's circumstances was a lot of pressure on both A and Tom						CT+ 60.1	CT+ 60.1	JA 60.1	JA 60.1			
+			60.2	Tom being the only person that understands A's circumstances was really tough						CT+ 60.2	CT+ 60.2	JA 60.2	JA 60.2			
+			60.3	Tom being the only person that understands A's circumstances was a lot of pressure on both A and Tom						CT+ 60.3	CT+ 60.3	JA 60.3	JA 60.3			
+B: mhm.  			61						mhm.  = B acknowledges 60.1							
+A: %um readjusting as far as Americanisms 			62						unfinished sentence							
+B: mhm.  			63						mhm.  = interjection							
+A: %uh &Blimpie’s scared me.  	me=A		64	Blimpie's scared A while readjusting to Americanisms						CT+ 64	CT+ 64	JA 64	JA 64			
+A: &Blimpie’s is the sandwich place (( )) {laugh} 			65	Blimpie's is the sandwich place			 → 66.1 IN			CT+ 65	CT+ 65	JA 65	IN 65	C	we find out in 66.1 that both speakers knew	
+B: {laugh} I know. I know. {laugh} {breath} oh that’s pretty funny.  	"I=B,that=Blimpie's scarrying A"		66.1	B knows that Blimpie's is the sandwich place					B laughs about 64	CT+ 66.1	CT+ 66.1	"JA 66.1,IN 65"	JA 66.1			
+			66.2	Blimpie's scarrying A is pretty funny						CT+ 66.2	CT+ 66.2	JA 66.2	JA 66.2			
+A: We went in there and it was so yellow.  	"We=A and Tom,it=Blimpie's,there=Blimpie's"		67.1	A and Tom went to Blimpie's						CT+ 67.1	CT+ 67.1	JA 67.1	JA 67.1			
+			67.2	Blimpie's was so yellow						CT+ 67.2	CT+ 67.2	JA 67.2	JA 67.2			
+A: It was just so yellow and they wanted to help so bad.  	"It=Blimpie's,they=Blimpie's staff"		68	Blimpie's staff wanted to help so bad					so bad = so much	CT+ 68	CT+ 68	JA 68	JA 68			
+B: %ah. [[groaning and drawn out]] 			69						%ah. [[groaning and drawn out]] = B expresses compassion about 68							
+A: And it was 			70													
+B: %ah 			71													
+A: {laugh} 			72						A laughs at events 64-68							
+B: {laugh} 			73						B laughs at events 64-68							
+B: I just went back and I decided people are a bit too cheery in the &U &S.  	I=B		74.1	B just went back						CT+ 74.1	CT+ 74.1	JA 74.1	JA 74.1			
+			74.2	B decided people are a bit too cheery in the US						CT+ 74.2	CT+ 74.2	JA 74.2	JA 74.2			
+			74.3	People are a bit too cheery in the US						CT+ 74.3	CT+ 74.3	JA 74.3	JA 74.3			
+A: oh yeah. oh yeah. And see that wanting to help you so bad just freaked me out.  	"you=one,me=A"		75	Americans wanting to help one so bad just freaked A out 					oh yeah. oh yeah. = A agrees with 74	CT+ 75	CT+ 75	JA 75	JA 75			
+B: (( )) [distorted] 			76													
+B: oh my God.  			77						oh my God.  = expression of agreement with 75							
+"B: like, I, I just like ran into stores and ran out because "	I=B		78	B just like ran into stores and ran out						CT+ 78	CT+ 78	JA 78	JA 78			
+A: uh-huh.  			79						uh-huh.  = A understands 78							
+B: I’d go on the weekdays when nobody you know because I’m 	Id=B		80.1	B would go to the stores on the weeksys when nobody is in the stores						CT+ 80.1	CT+ 80.1	JA 80.1	JA 80.1			
+			80.2	B would go to the stores on the weekdays						CT+ 80.2	CT+ 80.2	JA 80.2	JA 80.2			
+			80.3	Nobody is in the stores on the weekdays					you know = interjection	CT+ 80.3	CT+ 80.3	JA 80.3	JA 80.3			
+A: Right.  			81													
+B: you know I had time off and %um 	I=B		82	B had time off					you know = indicates  that it was knows by both A and B	CT+ 82	CT+ 82	IN 82	IN 82			
+A: uh-huh.  			83													
+B: I’d walk in there and like five people would say hello to me. I’d be just like leave me alone [[whispered]] {laugh}.  	"Id=B,me=B,there=the stores"		84.1	B would walk into the stores						CT+ 84.1	CT+ 84.1	JA 84.1	JA 84.1			
+			84.2	Five people would say hello to B						CT+ 84.2	CT+ 84.2	JA 84.2	JA 84.2			
+			84.3	B would be just like leave B alone					B wanted to be left alone	CT+ 84.3	CT+ 84.3	JA 84.3	JA 84.3			
+"A: i-, it’s just "			85	 					 							
+A: oh my God.  			86						oh my God.  = interjection							
+B: It’s just very hard. I talked to &Kristen though when I was home.  	"It=readjusting to Americanisms,I=B"		87.1	Readjusting to Americanisms is just very hard						CT+ 87.1	CT+ 87.1	JA 87.1	JA 87.1			
+			87.2	B talked to Kristen though when B was home						CT+ 87.2	CT+ 87.2	JA 87.2	JA 87.2			
+			87.3	B talked to Kristen	 → 89.1 CT+		 → 89.1 JA	 → 89.1 CT+		PS 87.3	CT+ 87.3	JA 87.3	JA 87.3	C	question in 88 tell us that A is seeking for confirmation of 87.3	
+			87.4	B was at home						CT+ 87.4	CT+ 87.4	IN 87.4	IN 87.4	LI	embedded under 'when'	
+A: yeah? 			88	A asks B if B talked to Kristen						CT+ 88	CT+ 88	JA 88	JA 88			
+B: yeah. She seems to be doing well. She’s working 	She=Kristen		89.1	Kristen seems to be doing well						"CT+ 89.1,CT+ 87.3"	CT+ 89.1	"JA 89.1,JA 87.3"	"JA 89.1,JA 87.3"	C	now 87.3 is added to CG with certain belief	
+			89.2	Kristen is working						CT+ 89.2	CT+ 89.2	JA 89.2	JA 89.2			
+B: [channel noise] which is good and she’s got her %um she’s healthy again.  	"which=Kristin working,she=Kristen"		90.1	Kristen working is good						CT+ 90.1	CT+ 90.1	JA 90.1	JA 90.1			
+			90.2	Kristen is healthy again						CT+ 90.2	CT+ 90.2	JA 90.2	JA 90.2			
+A: That’s good.  			91						That’s good.  = A is happy about 90.2							
+B: %hm yeah.  			92						%hm yeah.  = interjection							
+A: I’d like to be healthy again.  	Id=A		93.1	A would like to be healthy again						CT+ 93.1	CT+ 93.1	JA 93.1	JA 93.1			
+			93.2	A is not healthy 						CT+ 93.2	CT+ 93.2	IN 93.2	IN 93.2	C	presupposition	
+B: yeah. I hope 	I=B		94	B hopes A is healthy again					yeah. = B agrees with 93.1	CT+ 94	CT+ 94	JA 94	JA 94			
+A: hey.  			95						hey.   = indicates that A is going to change a subject							
+A: you know I was going to tell you this thing that I got. &Tom found this for me about this freebie experiment thing where you can do this and you can talk.  	"I=A,you=B,me=A,you3 = one,you4 = one"		96.1	A was going to tell B this thing that A got					you know = interjection	CT+ 96.1	CT+ 96.1	JA 96.1	JA 96.1			
+			96.2	A told B this thing that A got						CT- 96.2	CT- 96.2	RT 96.2	RT 96.2	LI	was going to means that the event embedded under it didn't happen	
+			96.3	A got this thing						CT+ 96.3	CT+ 96.3	JA 96.3	JA 96.3			
+			96.4	Tom found this for A about this freebie experiment thing where one can do this and one can talk						CT+ 96.4	CT+ 96.4	JA 96.4	JA 96.4			
+			96.5	Tom found this freebie experiment for A						CT+ 96.5	CT+ 96.5	JA 96.5	JA 96.5			
+			96.6	One can do this freebie experiment 						CT+ 96.6	CT+ 96.6	JA 96.6	JA 96.6			
+			96.7	One can talk						CT+ 96.7	CT+ 96.7	JA 96.7	JA 96.7			
+B: (( )) [distorted] 			97													
+B: uh-huh.  			98						uh-huh.  = interjection							
+B: yeah.  			99						yeah.  = interjection							
+"A: And it was funny because he handed it to me and I was really confused and I said well, "	"it=Tom finding this freebie experiment thing ,it2 = this freebie experiment thing,he=Tom,me=A,I=A"		100.1	Tom finding this freebie experiment thing was funny						CT+ 100.1	CT+ 100.1	JA 100.1	JA 100.1			
+			100.2	Tom handed this freebie experiment to A 						CT+ 100.2	CT+ 100.2	JA 100.2	JA 100.2			
+			100.3	A was really confused						CT+ 100.3	CT+ 100.3	JA 100.3	JA 100.3			
+"A: well is this somebody that contacted you on your email or what? He goes no I told you about this last week blah, blah, blah.  "	"your=Tom's,you=Tom,He=Tom,I=Tom"		101.1	A asked Tom if somebody contacted Tom on Tom's email about this freebie experiment thing						CT+ 101.1	CT+ 101.1	JA 101.1	JA 101.1			
+			101.2	Somebody contacted Tom on Tom's email about this freebie experiment thing		 → 101.3 CT-	 → 101.3 RT	 → 101.3 PS		CT- 101.2	NB 101.2					
+			101.3	Nobody contacted Tom on Tom's email about this freebie experiment thing						CT+ 101.3	"CT+ 101.3,CT- 101.2"	"JA 101.3,RT 101.2"	"JA 101.3,RT 101.2"			
+			101.4	Tom told A about this freebie experiment thing						CT+ 101.4	CT+ 101.4	JA 101.4	JA 101.4			
+A: {breath} I’m looking at it {breath} because it had this guy and it  	"I=A,it=the email?"		102.1	A was looking at the email because the email had this guy						CT+ 102.1	CT+ 102.1	JA 102.1	JA 102.1			
+			102.2	A was looking at the email						CT+ 102.2	CT+ 102.2	JA 102.2	JA 102.2			
+			102.3	The email had this guy						CT+ 102.3	CT+ 102.3	JA 102.3	JA 102.3			
+"A: and his name wa-, his name is &Mark &Zalin-, Ya-, no, &Yalinsky. {breath} And it said, and it was "			103	The name of the guy in the email was Mark Yalinsky						CT+ 103	CT+ 103	JA 103	JA 103			
+A: and it was his email thing and it said U N I <Polish Lodz> &Poland.  	it=the email from Mark Yalinsky		104	"The email from Mark Yalinksky said ""you and I, Lodz, Poland"""						CT+ 104	CT+ 104	JA 104	JA 104			
+B: ((You told me)).  	"You=A,me=B"		105	A told B about the email from Mark Yalinsky						CT+ 105	CT+ 105	JA 105	JA 105			
+A: And I’m like 			106													
+A: And it was a &Playboy joke on this thing. It was done as an example of what we do. [[last four words spoken with a laugh]] 	"it=the email from Mark Yalinsky,It=the Playboy joke,we=A and someone else"		107.1	The email from Mark Yalinsky was a Playboy joke						CT+ 107.1	CT+ 107.1	JA 107.1	JA 107.1			
+			107.2	The playboy joke was done as an example of what A and someone else do						CT+ 107.2	CT+ 107.2	JA 107.2	JA 107.2			
+B: {laugh} 			108						B laughs at 107.2							
+A: {breath} And it was from <Polish Lodz>. And I’m like did somebody try to get a hold of you and he goes no.  	it= the email from Mark Yalinsky		109.1	The email from Mark Yalinsky was from Lodz						CT+ 109.1	CT+ 109.1	JA 109.1	JA 109.1			
+			109.2	A asked Tom if somebody tried to get hold of Tom						CT+ 109.2	CT+ 109.2	JA 109.2	JA 109.2			
+			109.3	Somebody tried to get hold of Tom						CT- 109.3	CT- 109.3	RT 109.3	RT 109.3			
+			109.4	Nobody tried to get hold of Tom						CT+ 109.4	CT+ 109.4	JA 109.4	JA 109.4			
+"A: I go well there’s this thing. I said look at this and it sa-, and it you know is all in code.  "	"I=A,this=the email from Mark Yalinsky,it=the email from Mark Yalinsky"		110.1	A said that there is this thing						CT+ 110.1	CT+ 110.1	JA 110.1	JA 110.1			
+			110.2	A told Tom to look at the email from Mark Yalinsky						CT+ 110.2	CT+ 110.2	JA 110.2	JA 110.2			
+			110.3	Tom looked at the email from Mark Yalinsky						CT+ 110.3	CT+ 110.3	JA 110.3	JA 110.3			
+			110.4	The email from Mark Yalinsky was all in code						CT+ 110.4	CT+ 110.4	JA 110.4	JA 110.4			
+B: uh-huh.  			111						uh-huh.  = interjection							
+A: And he goes ooh weird. He goes I didn’t do that. {laugh} 	"He=Tom,I=Tom,he=Tom"		112.1	Tom said that the email from Mark Yalinsky with all the code was weird						CT+ 112.1	CT+ 112.1	JA 112.1	JA 112.1			
+			112.2	Tom said that Tom didn't write the email						CT+ 112.2	CT+ 112.2	JA 112.2	JA 112.2	C	I'm not sure if I'm getting this whole email situation right...	
+			112.3	Tom didn't write the email						CT+ 112.3	CT+ 112.3	JA 112.3	JA 112.3			
+B: {laugh} That’s really funny.  	That=the email from Mark Yalinsky		113	The email from Mark Yalinsky was really funny						CT+ 113	CT+ 113	JA 113	JA 113			
+A: yeah.  			114						yeah.  = A agress with 113							
+B: Small world %huh? 			115						Small world %huh? = B indicates that familiarity of the Mark Yalinsky situation							
+A: You’re 			116						unfinished utterance							
+A: yeah. And now are you not smoking? 	you=B		117.1	A asks B if B is now not smoking						CT+ 117.1	CT+ 117.1	JA 117.1	JA 117.1			
+			117.2	B is now not smoking	 → 118 CT-		 → 118 RT	 → 118 PS		NB 117.2	CT- 117.2					
+B: No. I am smoking.  	I=B		118	B is smoking						"CT+ 118,CT- 117.2"	CT+ 118	"JA 118,RT 117.2"	"JA 118,RT 117.2"			
+A: yeah. Well I did a few when I’ve been back too.  	I=A		119.1	A did a few cigarettes when B has been back too						CT+ 119.1	CT+ 119.1	JA 119.1	JA 119.1			
+			119.2	B did a few cigarettes						CT+ 119.2	CT+ 119.2	JA 119.2	JA 119.2			
+			119.3	B is back						CT+ 119.3	CT+ 119.3	IN 119.3	IN 119.3			
+B: yeah. I’ve been smoking big time. It’s been a rough couple months.  	I=B		120.1	B has been smoking big time					big time = a lot	CT+ 120.1	CT+ 120.1	JA 120.1	JA 120.1			
+			120.2	It's been a rough couple months						CT+ 120.2	CT+ 120.2	JA 120.2	JA 120.2			
+A: yeah? 			121						yeah? = A expresses a small surprise that it has been rough couple of months for B							
+B: Well yeah it’s been [distortion] really [/distortion] busy.  	it=the last couple of months		122	The last couple of months have been really busy						CT+ 122	CT+ 122	JA 122	JA 122			
+A: The kid sister thing? 			123.1	A asks B if B was busy with the kid sister thing	 → 125 CT+	 → 125 CT+	 → 125 JA	 → 125 CT+		CT+ 123.1	123.1	123.1	123.1	C	B did not acknowledge / understand 123	
+			123.2	B was busy with the kid sister thing	 → 125 NB → 126.1 CT-	 → 125 CT-	 → 126.1 RT	 → 126.1 PS		NB 123.2	123.2	123.2	123.2			
+B: %huh? 			124						huh? = B expresses confusion about 123							
+A: The kid sister thing? 			125	 					A repeats 123.1 and 123.2	"CT+ 123.1,NB 123.2"	"CT+ 123.1,CT- 123.2"	JA 123.1	JA 123.1			
+B: Well no. Not really that but it’s been really busy as far as work is concerned.  			126.1	B was not busy with the kid sister thing						"CT- 123.2,CT+ 126.1"	CT+ 126.1	"RT 123.2,JA 126.1"	"RT 123.2,JA 126.1"			
+			126.2	B has been really busy with work						CT+ 126.2	CT+ 126.2	JA 126.2	JA 126.2			
+A: Sure. yeah.  			127						Sure. yeah.  =  A expresses understanding about 126.1							
+B: You know? Now things are just like kind of mellow and I’m just n- you know wrapping things up so it’s not that bad.  	I=B		128.1	Now things are like kind of mellow						CT+ 128.1	CT+ 128.1	JA 128.1	JA 128.1			
+			128.2	B is just wrapping things up so B' situation is not that bad						CT+ 128.2	CT+ 128.2	JA 128.2	JA 128.2			
+			128.3	B is just wrapping things up						CT+ 128.3	CT+ 128.3	JA 128.3	JA 128.3			
+			128.4	B's situation is not that bad						CT+ 128.4	CT+ 128.4	JA 128.4	JA 128.4			
+A: Sure.   			129						Sure.  =  A understands 128							
+A: mhm.  			130						mhm.  = interjection							
+B: But it was kind of hellish for a bit.  	it=B's come back to the US		131	B's come back was kind of hellish for a bit			 → 132 IN	 → 132 CT-		CT+ 131	CT+ 131	JA 131	JA 131			
+A: yeah. oh I’m sure.  	I=A		132	A is sure that B's come back to the US was kind of hellish for a bit					yeah. = interjection	CT+ 132	CT+ 132	"JA 132,IN 131"	"JA 132,IN 131"			
+"B: I still, all I want to do is sleep now. I’ve been trying to nap for the longest time today.  "	I=B		133.1	All B wants to do is sleep now						CT+ 133.1	CT+ 133.1	JA 133.1	JA 133.1			
+			133.2	All B does is sleep now						CT- 133.2	CT- 133.2	RT 133.2	RT 133.2	C	we know from the later context and tone that B cannot sleep	
+			133.3	B has been trying to nap for the longest time today						CT+ 133.3	CT+ 133.3	JA 133.3	JA 133.3			
+			133.4	B napped today						CT- 133.4	CT- 133.4	RT 133.4	RT 133.4			
+A: {laugh} 			134						A laughs at 133.1 and 133.3							
+B: Every time I lay down a phone rings and like random people call me.  	"I=B,me=B"		135.1	Every time B lays down a phone rings 						CT+ 135.1	CT+ 135.1	JA 135.1	JA 135.1			
+			135.2	Random people call B						CT+ 135.2	CT+ 135.2	JA 135.2	JA 135.2			
+			135.3	B cannot sleep						CT+ 135.3	CT+ 135.3	IN 135.3	IN 135.3	C	presupposed	
+B: You’re not that random but it’s kind of random receiving a phone call from you. {laugh} 	"You=A,you=A"		136.1	A is not that random but it's kind of random receiving a phone call from A						CT+ 136.1	CT+ 136.1	JA 136.1	JA 136.1			
+			136.2	A is not that random						CT+ 136.2	CT+ 136.2	JA 136.2	JA 136.2			
+			136.3	It's kind of random receiving a phone call from A						CT+ 136.3	CT+ 136.3	JA 136.3	JA 136.3			
+A: **Eee**. {laugh} 			137						A laughs at being call a random person							
+B: I mean you’re not a random person but  	"I=B,you=A"		138.1	B meant that A is not a random person						CT+ 138.1	CT+ 138.1	JA 138.1	JA 138.1			
+			138.2	A is not a random person						CT+ 138.2	CT+ 138.2	JA 138.2	JA 138.2			
+"A: Well thank you.  I appreciate being considered non, %er non random.  "	I=A		139.1	A thanks A for being called not a random person						CT+ 139.1	CT+ 139.1	JA 139.1	JA 139.1			
+			139.2	A appreciates being considered non random					A is being sarcastic about 139.1 and 139.2	CT+ 139.2	CT+ 139.2	JA 139.2	JA 139.2			
+B: No. You’re pretty organized and orderly {laugh}.  	You=A		140	A is pretty organized and orderly					B jokes about 140	CT+ 140	CT+ 140	JA 140	JA 140			
+A: Thank you. {laugh} 			141	A thanks B for being called pretty organized and orderly					A laughs at 141	CT+ 141	CT+ 141	JA 141	JA 141			
+B: ((you’re random))  			142													
+B: {breath} No problem. {inhale} 			143						B continues the joke about 140							
+B: &Jody’s going to be shocked that I heard from you.  	"I=B,you=A,Jody"		144.1	Jody's going to be shocked that B heard from A						144.1	CT+ 144.1	144.1	144.1			
+			144.2	B heard from A	 → 146 CT+		 → 146 IN	 → 146 CT-		144.2	CT+ 144.2	144.2	144.2	C	A did not hear what B said	
+A: She what? 	She=Jody		145	A asks B to repeat Jody's going to be shocked that B heard from A						CT+ 145	CT+ 145	JA 145	JA 145			
+B: She’s going to be happy [distortion] that I heard [/distortion]  	"She=Jody,I=B"		146	Jody's going to be happy that B heard from A						"CT+ 146,CT+ 144.2"	CT+ 146	"JA 146,IN 144.2"	"JA 146,IN 144.2"	C	144.2 has been heard and was pressuposed	
+A: oh yeah.  			147						oh yeah.  = A agrees with 146							
+B: Did you get her postcard? 	"you=A,her=Jody's"		148.1	B asks A if A got Jody's postcard						CT+ 148.1	CT+ 148.1	JA 148.1	JA 148.1			
+			148.2	A got Jody's postcard		 → 150 CT-	 → 150 RT	 → 150 PS		CT- 148.2	NB 148.2					
+A: I haven’t heard 	I=A		149						unfinished utterance							
+A: %hm from her? 	her=Jody		150	A hasn't heard from Jody						CT+ 150	"CT+ 150,CT- 148.2"	"JA 150,RT 148.2"	"JA 150,RT 148.2"			
+B: yeah.  			151													
+A: No %huh I haven’t heard from her at all.  	"I=A,her=Jody"		152	A hasn't heard from Jody at all						CT+ 152	CT+ 152	IN 152	IN 152	C	"already in CG at 150, just expressed in a stronger way"	
+B: She sent you a postcard. In fact we both sent you postcards.  	"She=Jody,you=A,we=Jody and B"		153.1	Jody sent A a postcard						CT+ 153.1	CT+ 153.1	JA 153.1	JA 153.1			
+			153.2	In fact Jody and B both sent A postcards						CT+ 153.2	CT+ 153.2	JA 153.2	JA 153.2			
+A: %ah.  			154						%ah.  = A expresses surprise							
+A: All right. [[drawn out]] 			155						#NAME?							
+B: yeah. {breath} You know what? 	You=A		156	B is about to tell A something					You know what? = B indicates change of subject is about to happen	CT+ 156	CT+ 156	JA 156	JA 156			
+A: What? 			157.1	A asks B what does B want to tell A						CT+ 157.1	CT+ 157.1	JA 157.1	JA 157.1			
+			157.2	B wants to tell A something						CT+ 157.2	CT+ 157.2	IN 157.2	IN 157.2			
+B: I just came back from the &U &S and I have some letters for you including that little package. I don’t know what to do with that little package.  	"I=B,you=A"		158.1	B just came back from the US						CT+ 158.1	CT+ 158.1	JA 158.1	JA 158.1			
+			158.2	B has some letters for A including that little package						CT+ 158.2	CT+ 158.2	JA 158.2	JA 158.2			
+			158.3	B doesn't know what to do with that little package						CT+ 158.3	CT+ 158.3	JA 158.3	JA 158.3			
+			158.4	Something has to be done with that little package						CT+ 158.4	CT+ 158.4	IN 158.4	IN 158.4	C	presupposed	
+A: {laugh} 			159						A laughs at 158							
+"B: I it, it is henna.  "	it=the little package		160	The little package is henna						CT+ 160	CT+ 160	JA 160	JA 160			
+A: uh-huh.  			161						uh-huh.  = A acknowledges 160							
+B: And %um I don’t know 			162						unfinished sentence							
+"A: Well I think, no you know what I think you should do.  "	"I=A,you=B"		163.1	B knows what A thinks B should do						CT+ 163.1	CT+ 163.1	JA 163.1	JA 163.1			
+			163.2	A thinks B should give the henna package to Magda						CT+ 163.2	CT+ 163.2	JA 163.2	JA 163.2			
+			163.3	B should give the henna package to Magda						CT+ 163.3	CT- 163.3	RT 163.3	RT 163.3	C	B's silence indicates thta B does not approve of 163.3	
+B: (( )) [distortion] 			164													
+A: &Dorota please. Really.  	Dorota=B		165.1	A asks Dorota to give the henna package to Magda						CT+ 165.1	CT+ 165.1	JA 165.1	JA 165.1			
+			165.2	Dorota gives the henna package to Magda						CT- 165.2	CT- 165.2	RT 165.2	RT 165.2	C	A contiues with the requests which indicates that 165.2 has been rejected	
+B: %uh. [distorted] 			166													
+"A: The package of henna, share it with &Magda.  "			167.1	A asks Dorota to share the package of henna with Magda						CT+ 167.1	CT+ 167.1	JA 167.1	JA 167.1			
+			167.2	Dorota shares the package of henna with Magda						CT- 167.2	CT- 167.2	RT 167.2	RT 167.2			
+B: {laugh} &Magda is gone so maybe I’ll do it in my hair.  	I=B		168.1	Magda is gone so maybe Dorota will do the henna in Dorota's hair						CT+ 168.1	CT+ 168.1	JA 168.1	JA 168.1			
+			168.2	Magda is gone						CT+ 168.2	CT+ 168.2	JA 168.2	JA 168.2			
+			168.3	Dorota will do the henna in Dorota's hair						CT+ 168.3	CT+ 168.3	JA 168.3	JA 168.3			
+A: okay. {laugh} It’s a nice brown.  	It=The henna		169	The henna is a nice brown color					okay. = A agrees with 168.3	CT+ 169	CT+ 169	JA 169	JA 169			
+"B: oh is it? Good, good.  "			170						"oh is it? Good, good.  = B expresses excitement about the color of henna"							
+A: yeah. Well a friend of mine from &Florida sent that to me. 	"mine=A,me=A"		171	A friend from Florida send the henna to A						CT+ 171	CT+ 171	JA 171	JA 171			
+B: %eh yeah. She’s from &Gainesville (( )) 	She=A's friend		172	A's friend is from Gainesville			 → 173 IN	 → 173 CT-		CT+ 172	CT+ 172	JA 172	JA 172			
+A: &Gainesville &Florida. mhm. [channel noise] 			173									IN 172	IN 172			
+B: <? (( ))> {laugh} 			174						B laughs at 172							
+A: yeah <? (( ))> 			175													
+B: (( )) 			176													
+A: And  			177													
+A: yeah so {breath} I I would like to think that it goes to a good because sending it back to me would probably just be ludicrous so {breath} you know why don’t you just 	"I=A,it=the henna package,me=A,you=Dorota"		178.1	A would like to think that the henna package goes in good hands because sending the henna package back to A would probably just be ludicrous so Dorota should keep the henna package						CT+ 178.1	CT+ 178.1	JA 178.1	JA 178.1			
+			178.2	A would like to think that the henna pacakge goes in good hands						CT+ 178.2	CT+ 178.2	JA 178.2	JA 178.2			
+			178.3	The henna pacakge goes in good hands						CT+ 178.3	CT+ 178.3	IN 178.3	IN 178.3	C	presupposed given if the package stays with Dorota	
+			178.4	Sending the henna package to A would be ludicrous						CT+ 178.4	CT+ 178.4	JA 178.4	JA 178.4			
+			178.5	Dorota should keep the henna package						CT+ 178.5	CT+ 178.5	JA 178.5	JA 178.5			
+B: [distortion] So I can keep it. [/distortion] 	I=Dorota		179	Dorota can keep the henna package						CT+ 179	CT+ 179	JA 179	JA 179			
+B: I’m opening it up right now as you speak so I can put a ((world peace)) stamp on it.  	"it=the henna package,I=Dorota"		180.1	Dorota is opening up the henna package right now so Dorota can put a world peace stamp on the henna package						CT+ 180.1	CT+ 180.1	JA 180.1	JA 180.1			
+			180.2	Dorota is opening up the henna package right now						CT+ 180.2	CT+ 180.2	JA 180.2	JA 180.2			
+			180.3	Dorota can put a world peace stamp on the henna package					Dorota jokes about 180.3	CT+ 180.3	CT+ 180.3	JA 180.3	JA 180.3			
+A: uh-huh.  			181						uh-huh.  = A acknowledges 180							
+A: All right.  			182						All right.  = A expresses understading of the joke in 180.3							
+B: All right. {laugh} 			183						All right. {laugh} = Dorota laughs at 180.3							
+A: {laugh} 			184						{laugh} = A laughs at 180.3							
+B: You know what? I’ve been saying all right all the time now.  	I=Dorota		185	"Dorota has been saying ""all right"" all the time now"					You know what? = Dorota  indicates an upcoming change of subject	CT+ 185	CT+ 185	JA 185	JA 185			
+B: I went to this conference in the &U &S and they’re like w- w- where did you get that I’m like 	"I=Dorota,that=""all right"" expression repetitions,they=people at the conference"		186.1	Dorota went to this conference in the US						CT+ 186.1	CT+ 186.1	JA 186.1	JA 186.1			
+			186.2	"People at the conference asked Dorota where did Dorota get that ""all right"" expression from"						CT+ 186.2	CT+ 186.2	JA 186.2	JA 186.2			
+			186.3	"Dorota got ""all right"" expression from somewhere"						CT+ 186.3	CT+ 186.3	IN 186.3	IN 186.3	C	presupposed	
+A: Great.  			187						Great.  = A acknowledges 186							
+A: (( )) 			188													
+B: I’m like %uh that’s a really long story. [[laughing during last word]] 	"that=the origin of the ""all right"" expression,I=B"		189	"The origin of the ""all right"" expression is a really long story"						CT+ 189	CT+ 189	JA 189	JA 189			
+A: {laugh} 			190						A laughs at 189							
+B: See there was this volunteer and she used to know this old man because she used to work (( )) [distortion] and this man would just sit there and say all right.  {laugh} 	she=this volunteer		191.1	There was this volunteer 						CT+ 191.1	CT+ 191.1	JA 191.1	JA 191.1			
+			191.2	This volunteer used to know this old man because this voluneer used to work (somewhere)						CT+ 191.2	CT+ 191.2	JA 191.2	JA 191.2			
+			191.3	This volunteer used to know this old man						CT+ 191.3	CT+ 191.3	JA 191.3	JA 191.3			
+			191.4	This volunteer used to work (somewhere)						CT+ 191.4	CT+ 191.4	JA 191.4	JA 191.4			
+			191.5	This old man would sit there						CT+ 191.5	CT+ 191.5	JA 191.5	JA 191.5			
+			191.6	"This old man would say ""all right"""						CT+ 191.6	CT+ 191.6	JA 191.6	JA 191.6			
+A: {laugh} 			192						A laughs at 191							
+A: I have another one though too and &Tom was really getting sick of it. What was it? 	"I=A,one=expression,it=the new expression"		193.1	A has another expression						CT+ 193.1	CT+ 193.1	JA 193.1	JA 193.1			
+			193.2	Tom was really getting sick of the new expression						CT+ 193.2	CT+ 193.2	JA 193.2	JA 193.2			
+			193.3	A cannot remember the new expression						CT+ 193.3	CT+ 193.3	JA 193.3	JA 193.3			
+B: (( )).  			194													
+"A: I’ll have to think of it. It’s an-, it’s another one of those %uh all right "	"I=A,it=the new expression"		195	A has to think of the new expression						CT+ 195	CT+ 195	JA 195	JA 195			
+B: **Yuh** [distorted and channel echo] 			196													
+"A: because he g-, he says what does that mean when I say it now. It’s like "	"that=the new expression,he=Tom"		197.1	Tom asked A what the new expression meant when A said it then						CT+ 197.1	CT+ 197.1	JA 197.1	JA 197.1			
+			197.2	The new expression meant something when A said it then						CT+ 197.2	CT+ 197.2	IN 197.2	IN 197.2	C	presupposed	
+			197.3	A said the new expression then						CT+ 197.3	CT+ 197.3	JA 197.3	JA 197.3			
+"A: %uh I, I need to know more information.  "	I=A		198.1	A needs to know more information						CT+ 198.1	CT+ 198.1	JA 198.1	JA 198.1			
+			198.2	A knows more information						CT- 198.2	CT- 198.2	RT 198.2	RT 198.2	LI	" embedded under ""needs to"", which indicates that it has not happened yet"	
+B: {laugh} 			199													
+A: Just hearing all right isn’t enough okay?  			200	"Just hearing ""all right"" isn't enough"						CT+ 200	CT+ 200	JA 200	JA 200			
+A: {laugh} 			201													
+B: aw all right.  			202													
+B: It’s like catchy man.  			203													
+A: It is. And you know 			204													
+B: I can’t stop myself from saying it yet [distortion].  			205													
+A: yeah. So %um but anyway I want to come visit you.  			206													
+B: When? 			207													
+A: Next summer.  			208													
+B: oh I’d love to {breath} except {breath} you have 			209													
+A: You’re going to be gone. What? 			210													

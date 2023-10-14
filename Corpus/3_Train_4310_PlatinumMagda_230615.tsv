@@ -1,0 +1,585 @@
+Sentence	Entity	Entity(JA)	Eno.	Event	Bel(A)R	Bel(B)R	CG(A)R	CG(B)R	Pragmatics	Bel(A)	Bel(B)	CG(A)	CG(B)	Why(CG)	Why in prose	Comment
+B: So tell me a little bit about the day she was born. When did you first see her? 	"me=B,you=A,her=Mae's,she=Mae"		1.1	B asks A to tell B a little bit about the day Mae was born					"request,request"	CT+ 1.1	CT+ 1.1	JA 1.1	JA 1.1			
+			1.2	A tells B a little bit about the day Mae was born							PS 1.2			C	I need to think more how to annotate requests based on your guys feedback	
+			1.3	Mae was born						CT+ 1.3	CT+ 1.3	IN 1.3	IN 1.3	C	presupposed	
+			1.4	B asks A when did A first saw Mae						CT+ 1.4	CT+ 1.4	JA 1.4	JA 1.4			
+			1.5	A first saw Mae somewhere						CT+ 1.5	CT+ 1.5	IN 1.5	IN 1.5			
+"A: %um what happened is we went to the hospital, she was induced.  "	"she=Mae,we=A and Robert"		2.1	A and Robert went to the hospital						CT+ 2.1	CT+ 2.1	JA 2.1	JA 2.1			
+			2.2	Mae was induced						CT+ 2.2	CT+ 2.2	JA 2.2	JA 2.2			
+B: mhm.  			3						mhm=B acknowledges 2.2							
+"A: So we get a phone call and th-, she was supposed to  "	"she=Mae's birth mom,we=A and Robert"		4	A and Robert got a phone call						CT+ 4	CT+ 4	JA 4	JA 4			
+B: Right finally.  			5						right finally= suggests that event 4 was something A and A's partner had been waiting for 							
+"A: %um the birth mom was supposed to go in at %um, it’s my thinking that this will be distributed publicly.  "	"my=A'a,that=the time of Mae's birth mom delivery ?"		6.1	Mae's birth mom was supposed to go into labor at some specific time					go in=go into labor	CT+ 6.1	CT+ 6.1	JA 6.1	JA 6.1			
+			6.2	Mae's birth mom went into labor at some specific time						CT- 6.2	CT- 6.2	RT 6.2	RT 6.2	LI	"embedded under 'supposed', which indicates that the event didnot actually happen as planned"	
+			6.3	A thought that the time Mae's birth mom was supposed to go to labor would be distributed publicly						CT+ 6.3	CT+ 6.3	JA 6.3	JA 6.3			
+			6.4	The time Mae's birth mom was supposed to go to labor would be distributed publicly						PS 6.4	NB 6.4	RT 6.4	RT 6.4	WK	"??? I think B has no belief about 6.4, and B's response in 7 refers back to 6.3"	
+B: Right.  			7						right=B acknowledges 6.3							
+A: at %um six thirty in the morning but she called and they didn’t have any beds.  	"she=Mae's birth mom,they=hospital"		8.1	Mae's birth mom was supposed to go into labor at six thirty in the morning but Mae's birth mom called and the hospital didn't have any beds						CT+ 8.1	CT+ 8.1	JA 8.1	JA 8.1			
+			8.2	Mae's birth mom was supposed to go into labor at six thirty in the morning						CT+ 8.2	CT+ 8.2	JA 8.2	JA 8.2			
+			8.3	Mae's birth mom went into labot at six thirty in the morning						CT- 8.3	CT- 8.3	RT 8.3	RT 8.3	LI	embedded under 'supposed'	
+			8.4	Mae's birth mom called						CT+ 8.4	CT+ 8.4	JA 8.4	JA 8.4			
+			8.5	The hospital didn't have any beds						CT+ 8.5	CT+ 8.5	JA 8.5	JA 8.5			
+B: oh no.  			9						oh no=B expresses compassion about 8.5							
+"A: So she called us and told us that, but then they did get a bed and she went in at eight.  "	"she=Mae's birth mom,they=hospital,us=A and Robert"		10.1	So Mae's mom called A and Robert						CT+ 10.1	CT+ 10.1	JA 10.1	JA 10.1			
+			10.2	"So Mae's mom told A and Robert about events im 8.2, 8.4 and 8.5"						CT+ 10.2	CT+ 10.2	JA 10.2	JA 10.2			
+			10.3	The hospital did get a bed eventually					but then=eventually	CT+ 10.3	CT+ 10.3	JA 10.3	JA 10.3			
+			10.4	Mae's mom went into labor at eight					went in=went into labor	PS 10.4	PS 10.4	JA 10.4	JA 10.4			
+B: mhm.  			11													
+"A: Or seven thirty or, I guess she went in at seven thirty and they started her at eight or so so we hopped in the car and drove down to be there "	"I=A,she=Mae's birth mom,they=hospital staff,there=hospital,we=A and Robert"		12.1	Mae's mom went into labor at seven						PS 12.1	PS 12.1	JA 12.1	JA 12.1			
+			12.2	A guesses Mae's birth mom went into labor at seven thirty						CT+ 12.2	CT+ 12.2	JA 12.2	JA 12.2			
+			12.3	Mae's birth mom went into labor at seven thirty						PS 12.3	PS 12.3	JA 12.3	JA 12.3	LI	"embedded under 'guesses'. Also from the context because there has been three different times given, all equally possible"	
+			12.4	The hospital staff started Mae's birth mom at eight so A and Robert hopped in the car and drove down to be at the hospital for the day						CT+ 12.4	CT+ 12.4	JA 12.4	JA 12.4			
+			12.5	The hospital staff started Mae's birth mom at eight						CT+ 12.5	CT+ 12.5	JA 12.5	JA 12.5			
+			12.6	A and Robert hopped in the car						CT+ 12.6	CT+ 12.6	JA 12.6	JA 12.6			
+			12.7	A and Robert drove down to be at the hospital for the day						CT+ 12.7	CT+ 12.7	JA 12.7	JA 12.7			
+B: mhm.  			13						mhm=acknowledgement of events 12.4-12.7							
+B: %mm mhm.  			14													
+A: for the day.  			15													
+B: mhm.  			16													
+"A: And %um, "			17													
+A: we hung out all day.  We had %uh we had some difficult times with the lawyer down there.  He was supposed to show up  	"He=the lawyer,there=the hospital,we=A and Robert"		18.1	A and Robert hung out all day at the hospital						CT+ 18.1	CT+ 18.1	JA 18.1	JA 18.1			
+			18.2	A and Robert had some difficult times with the lawyer down at the hospital						CT+ 18.2	CT+ 18.2	JA 18.2	JA 18.2			
+			18.3	The lawyer was supposed to show up						CT+ 18.3	CT+ 18.3	JA 18.3	JA 18.3			
+			18.4	The lawyer showed up						CT- 18.4	CT- 18.4	RT 18.4	RT 18.4	LI	embedded under 'supposed'	
+B: %mm 			19													
+B: mhm.  			20													
+A: and we waited all day and he never bloody showed up.  	"he=the lawyer,we=A and Robert"		21.1	A and Robert waited for the lawyer all day						CT+ 21.1	CT+ 21.1	JA 21.1	JA 21.1			
+			21.2	The lawyer never bloddy showed up						CT+ 21.2	CT+ 21.2	JA 21.2	JA 21.2			
+B: oh no.  			22						oh no=B expresses compassion about 21.2							
+"A: And %um, he and also she was expecting him too.  "	"she=Mae's birth mom,him=the lawyer"		23	Also Mae's birth mom was expecting the lawyer too						CT+ 23	CT+ 23	JA 23	JA 23			
+B: mhm.  			24						mhm=B acknowledges 23							
+A: You know and so that was frustrating.  	that=the laywer not showing up		25	The lawyer not showing up was frustrating					you know=interjection	CT+ 25	CT+ 25	JA 25	JA 25			
+B: yeah.  			26													
+A: But anyway we waited all day and %um  	we=A and Robert		27	A and Robert waited all day					but anyway=suggestes transition of a topic	CT+ 27	CT+ 27	JA 27	JA 27			
+A: But then five twenty five &Mae was born.  			28	Mae was born at five twenty five					but then=introduces a contrast between good and bad experience about events	CT+ 28	CT+ 28	JA 28	JA 28			
+B: Right.  			29													
+A: And the birth mother’s mother was with her through the whole thing and she was fantastic.  She was just great.  She was so nice to us and so solid there for her daughter and just a wonderful 	"her=Mae's birth mom,she=Mae's birth's mom's mom,She=Mae's birth's mom's mom,thing=labor,us=A and Robert"		30.1	Mae's birth mom's mom was with Mae's birth mom throught the labor						CT+ 30.1	CT+ 30.1	JA 30.1	JA 30.1			
+			30.2	Mae's birth mom's mom was fantastic						CT+ 30.2	CT+ 30.2	JA 30.2	JA 30.2			
+			30.3	Mae's birth mom's mom was just great						CT+ 30.3	CT+ 30.3	JA 30.3	JA 30.3			
+			30.4	Mae's birth mom's mom was so nice to A and Robert						CT+ 30.4	CT+ 30.4	JA 30.4	JA 30.4			
+			30.5	Mae's birth mom's mom was so solid for Mae's birth mom						CT+ 30.5	CT+ 30.5	JA 30.5	JA 30.5			
+			30.6	Mae's birth mom's mom was just wonderful woman						CT+ 30.6	CT+ 30.6	JA 30.6	JA 30.6			
+B: uh-huh.  			31													
+B: mhm.  			32						mhm=B acknowledges 30							
+B: Woman (( )) 			33													
+A: person and %um 			34													
+"A: She was great.  She came out, you know, a couple times during the day she came out and gave us little progress reports of how things were going and actually it was very funny "	"She=Mae's birth mom's mom,she=Mae's birth mom's mom,it=Mae's birth mom's mom's reporting on the labor,us=A and Robert"		35.1	Mae's birth mom's mom was great						CT+ 35.1	CT+ 35.1	JA 35.1	JA 35.1			
+			35.2	Mae's birth mom's mom came out a couple of times during the day					you know=interjection	CT+ 35.2	CT+ 35.2	JA 35.2	JA 35.2			
+			35.3	Mae's birth mom's mom came out to A and Robert			 → 37.1 IN	 → 37.1 CT-		CT+ 35.3	CT+ 35.3	IN 35.3	IN 35.3	C	entailed in 35.2	
+			35.4	Mae's birth mom's mom gave A and Robert little progress reports of how things were going						CT+ 35.4	CT+ 35.4	JA 35.4	JA 35.4			
+B: uh-huh.  			36						uh-huh=sustaining the flow of the converstion							
+"A: because the first time she out {laugh}, I mean here we’re out there sort of ringing our hands and  "	"she=Mae's birth mom's mom,there=the waiting room in the hospital,we=A and Robert,our=A's and Robert's"		37.1	"Mae's birth mom's mom's reporting on the labor was actually very funny because the first time Mae's birth mom's mom came out, A and Robert were out in the waiting room sort of ringing A's and Robert's hands"						CT+ 37.1	CT+ 37.1	"JA 37.1,IN 35.3"	"JA 37.1,IN 35.3"			
+			37.2	Mae's birth mom's mom's reporting on the labor was actually very funny						CT+ 37.2	CT+ 37.2	JA 37.2	JA 37.2			
+			37.3	A and Robert were out in the waiting room sort of ringing A's and Robert's hands					ringing hands=being anxious	CT+ 37.3	CT+ 37.3	JA 37.3	JA 37.3			
+B: uh-huh.  			38													
+"A: sweating it out and wondering how everybody is going and everything and she came out and could I go downstairs because %um, her daughter wanted playing cards.  "	"it=Mae's birth,she=Mae's birth mom's mom,I=A,her=Mae's birth mom"		39.1	A and Robert were sweating out the labor					sweating=being anxious	CT+ 39.1	CT+ 39.1	JA 39.1	JA 39.1			
+			39.2	A and Robert were wondering how everybody was going and everything						CT+ 39.2	CT+ 39.2	JA 39.2	JA 39.2			
+			39.3	A went downstairs because Mae's birth mom wanted playing cards						CT+ 39.3	CT+ 39.3	JA 39.3	JA 39.3			
+			39.4	A went downstairs						CT+ 39.4	CT+ 39.4	JA 39.4	JA 39.4			
+			39.5	Mae's birth mom wanted playing cards						CT+ 39.5	CT+ 39.5	JA 39.5	JA 39.5			
+			39.6	A went downstairs to buy playing cards for Mae's birth mom						CT+ 39.6	CT+ 39.6	JA 39.6	JA 39.6	C	implied	
+			39.7	A bought playing cards						CT+ 39.7	CT+ 39.7	JA 39.7	JA 39.7	C	in 45 we learn (implicitly) that it happened	
+B: uh-huh.  			40						uh-huh=sustaining the flow of the conversation							
+A: So I guess she was bored.  	"I=A,she=Mae"		41.1	So A guesses Mae was bored						CT+ 41.1	CT+ 41.1	JA 41.1	JA 41.1			
+			41.2	Mae was bored						PS 41.2	PS 41.2	JA 41.2	JA 41.2	LI	embedded under 'guesses' -- signals uncertainty	
+B: uh-huh.  			42						uh-huh=B acknowledges 41.1							
+A: You know passing the time {laugh} 			43.1	A jokes that Mae's birth mom wants to pass the time with playing cards						CT+ 43.1	CT+ 43.1	JA 43.1	JA 43.1			
+			43.2	Mae's birth mom wants to pass the time with playing cards						PS 43.2	PS 43.2	JA 43.2	JA 43.2	WK	it is general knowledge that playing cards could be a form of passing time	
+			43.3	Mae's birth mom passes the time with playing cards						PS 43.3	PS 43.3	JA 43.3	JA 43.3	C	that's a valid assumption given the context	
+B: {laugh} 			44													
+A: So I went downstairs to get playing cards with her and 	"I=A,her=Mae's birth mom's mom"		45.1	A went downstairs to get playing cards with Mae's birth mom's mom					so=continuing the topic	CT+ 45.1	CT+ 45.1	JA 45.1	JA 45.1			
+			45.2	A got playing cards with Mae's birth mom's mom						CT+ 45.2	CT+ 45.2	IN 45.2	IN 45.2	C	 45.2 was not uttered per se but this is what we understand and infer from 45.1; at this stage the event is IN -- it was added with 45.1	
+B: uh-huh.  			46						uh-huh=acknowledgement of 45.1							
+A: and then later on she came out and she wanted some chewing gum. {laugh} 	"she=Mea's birth mom's mom,she2 =Mea's birth mom"		47.1	Later on Mae's birth mom's mom came out to the waiting room						CT+ 47.1	CT+ 47.1	JA 47.1	JA 47.1			
+			47.2	Mae's birth mom wanted some chewing gum						CT+ 47.2	CT+ 47.2	JA 47.2	JA 47.2			
+			47.3	Mae's birth mom's mom requested chewing gum from A for Mae's birth mom						CT+ 47.3	CT+ 47.3	IN 47.3	IN 47.3	C	inference from 47.2; added at the time of 47.2	
+B: uh-huh {laugh}.  			48						uh-huh=acknowledgement of 47.3							
+"A: %um, I guess your mouth gets dry and you just want something.  "	"I=A,you=one,your=one's"		49.1	A guesses one's mouth gets dry after delivering a baby						CT+ 49.1	CT+ 49.1	JA 49.1	JA 49.1			
+			49.2	One just wants something atfer delivering a baby						PS 49.2	CT+ 49.2	JA 49.2	JA 49.2	C	TALK ON MODAY ABOUT PS + CT+ -> JA (PS)	
+B: yeah. I’m sure.  	I=B		50	B is sure about One just wants something atfer delivering a baby					yeah=B agrees with 49.1 and 49.2	CT+ 50	CT+ 50	JA 50	JA 50			
+"A: So, you know, it was, it was kind of funny these very "	it=Mae's birth mom wanting playing cards and gums		51	Mae's birth mom wanting playing cards and gums was kind of funny						CT+ 51	CT+ 51	JA 51	JA 51			
+B: Reassuring in a way I would think.  	I=B		52.1	B would think Mae's birth mom wanting playing cards and gums was reassuring in a way						CT+ 52.1	CT+ 52.1	JA 52.1	JA 52.1			
+			52.2	Mae's birth mom wanting playing cards and gums was reassuring in a way						PS 52.2	PS 52.2	JA 52.2	JA 52.2	LI	"embedded under 'would think' -- indicates uncertainty; for A it's also PS because in 53 she expresses doubts with ""yeah, but"""	
+"A: y-, yeah, but these very %um,  "			53						"yeah, but= expresses doubt"							
+B: yeah.  			54													
+A: you know they’re such sort of specific little things {laugh}.  	they=chewing gum and playing cards		55	Chewing gum and playing cards are such sort of specific little things					you know=interjection	CT+ 55	CT+ 55	JA 55	JA 55			
+B: yeah.  			56													
+"A: And %um,  "			57						And um= slight change of topic  							
+"A: then but they kind of held her back. I think the baby would’ve born, been born sooner but the doctor didn’t get there till around three.  "	"they=hospital staff,her=Mae's birth mom,I=A,there=Mae's birth mom delivery room"		58.1	The hospital staff held Mae's birth mom back						PS 58.1	PS 58.1	JA 58.1	JA 58.1	LI	kind of might mark some hesistance 	
+			58.2	A thinks Mae would have been born sooner but the doctor didn't get to Mae's birth mom delivery room till around three						CT+ 58.2	CT+ 58.2	JA 58.2	JA 58.2			
+			58.3	Mae would have been born sooner but the doctor didn't get to Mae's birth mom delivery room till around three						PS 58.3	PS 58.3	JA 58.3	JA 58.3	LI	"embedded under ""think"""	
+			58.4	Mae would have been born sooner						PS 58.4	PS 58.4	JA 58.4	JA 58.4			
+			58.5	The doctor didn't get to the Mae's birth mom delivery room till around three						CT+ 58.5	CT+ 58.5	JA 58.5	JA 58.5			
+A: So 			59													
+B: so I thought once it was induced there was like no stopping it.  	"I=B,it=labor"		60.1	B thought once the labor was induced there was like no stopping the labor						CT+ 60.1	CT+ 60.1	JA 60.1	JA 60.1			
+			60.2	Once the labor was induced there was like no stopping the labor						CT- 60.2	PS 60.2	RT 60.2	RT 60.2	C	A rejects 60.2 in 61	
+			60.3	The labor was induced 						NB 60.3	NB 60.3					
+			60.4	There was like no stopping the labor						NB 60.4	NB 60.4					
+A: No they can hold you back 	"you=one,they=hospital staff"		61	The hospital staff can hold one back with the labor						CT+ 61	CT+ 61	JA 61	JA 61			
+B: %hm.  			62						hm=it suggests that B is learning something new							
+"A: a little bit, you know.  "			63	The hospital staff can hold one back with the labor a little bit					you know=correcting Aself	CT+ 63	CT+ 63	JA 63	JA 63			
+B: %hm.  			64						hm=it suggests that B is learning something new							
+"A: Once, depends how much stuff they give you.  "	"you=one,they=hospital staff,stuff=medicine"		65.1	Whether the hospital staff can hold one back with the labor or not depends on how much medicine the hospital staff gives one						CT+ 65.1	CT+ 65.1	JA 65.1	JA 65.1			
+			65.2	The hospital staff gives one medicine during labor						CT+ 65.2	CT+ 65.2	IN 65.2	IN 65.2	WK	presupposition and also inference based on world knowledge	
+B: How much stuff they give you. yeah.  	"they=hospital staff,you=one"		66						yeah=agreement with 65.1							
+A: Stuff. But anyway I think they were holding her back a little bit because they wanted the doctor there.  	"I=A,they=hospital staff,there=Mae's birth mom delivery room,her=Mae's birth mom"		67.1	A thinks the hospital staff were holding Mae's birth mom back a little bit because the hospital staff wanted the doctor in Mae's birth mom delivery room						CT+ 67.1	CT+ 67.1	JA 67.1	JA 67.1			
+			67.2	The hospital staff were holding Mae's birth mom back a little bit because the hospital staff wanted the doctor in Mae's birth mom delivery room						PS 67.2	PS 67.2	JA 67.2	JA 67.2	LI	embedded under 'think'	
+			67.3	The hospital staff were holding Mae's birth mom back a little bit 						CT+ 67.3	CT+ 67.3	JA 67.3	JA 67.3			
+			67.4	The hospital staff wanted the doctor in Mae's birth mom delivery room						PS 67.4	PS 67.4	JA 67.4	JA 67.4	C	67.4 is what is actually embedded nder 'think'	
+B: ((mhm)) [[faint]] 			68													
+B: uh-huh.  			69													
+"A: %um, and the doctor showed up around three and &Mae was born at five twenty five.  "			70.1	The doctor showed up around three						CT+ 70.1	CT+ 70.1	JA 70.1	JA 70.1			
+			70.2	Mae was born at five twenty five						CT+ 70.2	CT+ 70.2	JA 70.2	JA 70.2			
+B: mhm.  			71													
+A: Eight pounds eight ounces.  			72	Mae weighed eight pounds eight ounces						CT+ 72	CT+ 72	JA 72	JA 72			
+B: mhm.  			73													
+A: And screaming.  			74	Mae was screaming						CT+ 74	CT+ 74	JA 74	JA 74			
+B: mhm.  			75													
+"A: Really screaming and I was a little scared. I thought oh my god what have we wrought. You could here her out through the doors of the hall, you know.  "	"I=A,You=One,her=Mae,we=A and Robert"		76.1	Mae was really screaming						CT+ 76.1	CT+ 76.1	JA 76.1	JA 76.1			
+			76.2	A was a little scared						CT+ 76.2	CT+ 76.2	JA 76.2	JA 76.2			
+			76.3	A thought what have A and Robert wrought					oh my god=emphasis on 76.3	CT+ 76.3	CT+ 76.3	JA 76.3	JA 76.3			
+			76.4	One could hear Mae out through the doors of the hall					you know=interjection	CT+ 76.4	CT+ 76.4	JA 76.4	JA 76.4			
+B: {laugh} 			77						B laughs at 76.4							
+B: uh-huh.  			78													
+A: And there were a lot of babies being born. You didn’t hear them all.  	"You=one,them=new born babies"		79.1	There were a lot of babies being born						CT+ 79.1	CT+ 79.1	JA 79.1	JA 79.1			
+			79.2	One didn't hear all the babies						CT+ 79.2	CT+ 79.2	JA 79.2	JA 79.2			
+			79.3	Mae was screaming very loud						CT+ 79.3	CT+ 79.3	IN 79.3	IN 79.3	C	inferreed from 79.1 and 79.2 -- added at the time of those events	
+B: uh-huh.  			80						uh-huh=acknowledgement of 79.3							
+"A: And I, and %um, what happened h-, I guess %um, {breath} that’s right. Her mom came running out to tell us the baby was born.  "	"I=A,Her=Mae's birth mom,us=A and Robert"		81.1	Mae's birth mom' mom came running out to tell A and Robert the baby was born						CT+ 81.1	CT+ 81.1	JA 81.1	JA 81.1			
+			81.2	Mae's birth mom's mom told A and Robert the baby was born						CT+ 81.2	CT+ 81.2	JA 81.2	JA 81.2			
+			81.3	The baby was born						CT+ 81.3	CT+ 81.3	IN 81.3	IN 81.3	C	That event was added in 70	
+B: uh-huh.  			82						uh-huh.  = B acknowledges 81							
+A: And then she said that’s her. You can hear her {laugh} 	"she=Mae's birth mom's mom,her=Mae,You=one"		83.1	And then Mae's birth mom's mom said that's Mae						CT+ 83.1	CT+ 83.1	JA 83.1	JA 83.1			
+			83.2	One can hear Mae						CT+ 83.2	CT+ 83.2	JA 83.2	JA 83.2			
+B: {laugh} 			84													
+"A: And %um, {lipsmack} said it was a beautiful birth. I mean two pushes and she was out which is really great so she’s very unsquashed and unbattered looking for a new baby.  "	"I=A,she=Mae's birth mom"		85.1	Mae's birth mom's mom said it was a beautiful birth						CT+ 85.1	CT+ 85.1	JA 85.1	JA 85.1			
+			85.2	It was a beautiful birth						PS 85.2	PS 85.2	JA 85.2	JA 85.2	C	embedded under 'say' -- introduces some hesitation	
+			85.3	Two pushes and Mae was out which is really great so Mae's birth mom is very unsquashed and unbattered looking for a new baby						CT+ 85.3	CT+ 85.3	JA 85.3	JA 85.3			
+			85.4	Mae is very unsquashed and unbattered for a new born						CT+ 85.4	CT+ 85.4	JA 85.4	JA 85.4			
+B: uh-huh mhm.  			86						uh-huh mhm.  = B acknowledges 85							
+B: Right.  			87						Right.  = B acknowledges 85							
+A: Usually they look a bit bashed up {breath}.  	they=new borns		88	Usually new borns look a bit bashed up						CT+ 88	CT+ 88	JA 88	JA 88			
+B: yeah.  			89						yeah.  = B agrees with 88							
+B: A bit worn.  			90	Usually new borns look a bit worn						CT+ 90	CT+ 90	JA 90	JA 90			
+"A: But she’s got a nice shaped head and, you know she doesn’t look like she was %um, you know she’s not a cone head.  "	she=Mae		91.1	But Mae's got a nice shaped head					you know=interjection	CT+ 91.1	CT+ 91.1	JA 91.1	JA 91.1			
+			91.2	Mae is not a cone head						CT+ 91.2	CT+ 91.2	JA 91.2	JA 91.2			
+B: mhm.  			92													
+B: But did you get to see her in a few hours or 	"you=A,her=Mae"		93.1	B asks A if A got to see Mae in a few hours						CT+ 93.1	CT+ 93.1	JA 93.1	JA 93.1			
+			93.2	A got to see Mae in a few hours		 → 95 CT-	 → 95 RT	 → 95 PS		CT- 93.2	NB 93.2					
+			93.3	A saw Mae in a few hours		 → 95 CT-	 → 95 RT	 → 95 PS		CT- 93.3	NB 93.3					
+A: a-  			94													
+"A: Well what happened no right away there, there was a very nice %um "			95	A saw Mae right away						CT+ 95	"CT- 93.2,CT- 93.3,CT+ 95"	"RT 93.2,RT 93.3,JA 95"	"RT 93.2,RT 93.3,JA 95"			
+A: delivery nurse who we had spoken to earlier in the day named &Tina.  	we=A and Robert		96.1	There was a very nice delivery nurse who A and Robert had spoken to earlier in the day named Tina						CT+ 96.1	CT+ 96.1	JA 96.1	JA 96.1			
+			96.2	A and A's partner had spoken to Tina earlier in the day						CT+ 96.2	CT+ 96.2	JA 96.2	JA 96.2			
+B: mhm.  			97													
+B: mhm.  			98													
+B: mhm.  			99													
+A: And what they do is they take the baby from the delivery room to the nursery.  	they=nurses		100	Nurses take the baby from the delivery room to the nursery						CT+ 100	CT+ 100	JA 100	JA 100			
+B: mhm.  			101						mhm.  = B acknowledges 100							
+"A: Normally they go directly and &Tina very, very sweetly zipped past the door to the out, outer part of the nursery where we were waiting "	"they=nurses,we=A and Robert"		102.1	Normally nurses go directly to the nursery						CT+ 102.1	CT+ 102.1	JA 102.1	JA 102.1			
+			102.2	"Tina very, very sweetly zipped past the door to the outer part of the nursery where A and Robert were waiting"						CT+ 102.2	CT+ 102.2	JA 102.2	JA 102.2			
+			102.3	A and Robert were waiting in the outer part of the nursery						CT+ 102.3	CT+ 102.3	IN 102.3	IN 102.3			
+B: mhm.  			103													
+B: mhm ((outside)) 			104													
+B: mhm.  			105						mhm.  = B acknowledges 102							
+A: and let us hold her.  	"her=Mae,us=A and Robert"		106.1	Tina let A and Robert hold Mae						CT+ 106.1	CT+ 106.1	JA 106.1	JA 106.1			
+			106.2	A and Robert held Mae						CT+ 106.2	CT+ 106.2	IN 106.2	IN 106.2	C	presupposed from 106.1	
+B: mhm.  			107													
+A: So she was just minutes old then.  	she=Mae		108	Mae was just minutes old then						CT+ 108	CT+ 108	JA 108	JA 108			
+B: Wow.  			109						wow = B expresses amazement about 108							
+A: So we held her for just a couple minutes and 	"her=Mae,we=A and Robert"		110	A and Robert held Mae for just a couple of minutes						CT+ 110	CT+ 110	JA 110	JA 110			
+B: uh-huh.  			111						uh-huh.  = B acknowledges 110							
+A: it was really funny because you could hear her coming up the hall screaming  	"you=one,her=Mae,it=Tina zipping past the door to the outer part of the nursery"		112.1	Tina zipping past the door to the outer part of the nursery was funny because one could hear Mae coming up the hall screaming loudly						CT+ 112.1	CT+ 112.1	JA 112.1	JA 112.1			
+			112.2	Tina zipping past the door to the outer part of the nursery was funny						CT+ 112.2	CT+ 112.2	JA 112.2	JA 112.2			
+			112.3	One could hear Mae coming up the hall screaming loudly						CT+ 112.3	CT+ 112.3	JA 112.3	JA 112.3			
+B: uh-huh.  			113													
+A: loudly.  			114													
+B: uh-huh.  			115													
+B: uh-huh.  			116													
+"A: She handed her to me screaming loudly and I said to &Tina and also to the, "	"She=Tina,her=Mae,me=A,I=A"		117	Tina handed Mae to A screaming loudly						CT+ 117	CT+ 117	JA 117	JA 117			
+B: uh-huh.  			118													
+"A: the birth mother’s mother there, you know oh &Robert has the magic touch.  I handed her to &Robert. Instant silence.  "	"you=one,I=A,her=Mae"		119.1	A said to Tina and also to the birth mother's mother that Robert has the magic touch						CT+ 119.1	CT+ 119.1	JA 119.1	JA 119.1			
+			119.2	Robert has the magic touch						PS 119.2	PS 119.2	JA 119.2	JA 119.2	LI	embedded under 'say'	
+			119.3	A handed Mae to Robert						CT+ 119.3	CT+ 119.3	JA 119.3	JA 119.3			
+			119.4	Mae stopped screaming					instant silence = Mae stopped screaming	CT+ 119.4	CT+ 119.4	JA 119.4	JA 119.4			
+B: uh-huh.  			120						uh-huh.  = B acknoweldges 119							
+B: uh-huh.  			121						uh-huh.  = repetitition / filler							
+A: Instant.  			122	Mae stopped screaming instantly						CT+ 122	CT+ 122	JA 122	JA 122			
+A: She just stopped screaming immediately.  	She=Mae		123	Mae just stopped screaming immediately						CT+ 123	CT+ 123	JA 123	JA 123			
+B: uh-huh.  			124						uh-huh.  = B acknowledges 123							
+B: uh-huh.  			125						repetition / filler							
+A: So he held her for a little while. And then the nurse was afraid to take her back. Said oh she’s going to scream again. {laugh} 	"he=Robert,her=Mae,she=Mae"		126.1	So Robert held Mae for a little while						CT+ 126.1	CT+ 126.1	JA 126.1	JA 126.1			
+			126.2	And then the nurse was afraid to take Mae back						CT+ 126.2	CT+ 126.2	JA 126.2	JA 126.2			
+			126.3	The nurse said oh Mae is going to scream again						CT+ 126.3	CT+ 126.3	JA 126.3	JA 126.3			
+			126.4	Mae is going to scream again					A laughs at Mae's possibility of screaming again after Robert gives Mae back to the nurse	PS 126.4	PS 126.4	JA 126.4	JA 126.4	LI	embedded unnder 'said' -- introduces doubt	
+B: uh- 			127													
+B: uh-huh. {laugh} 			128						B laughs at Mae's possibility of screaming again after Robert gives Mae back to the nurse							
+A: And she did {laugh} 	"she=Mae,did=started crying"		129	And Mae did start crying						CT+ 129	CT+ 129	JA 129	JA 129			
+B: uh-huh.  			130						uh-huh.  = filler							
+A: And off they went to the nursery and then you watched through the glass 	"they=Mae and the nurse,you=one"		131.1	Mae and the nurse went to the nursery 						CT+ 131.1	CT+ 131.1	JA 131.1	JA 131.1			
+			131.2	Then one watched through the glass						CT+ 131.2	CT+ 131.2	JA 131.2	JA 131.2			
+B: That must have [distorted] been very reassuring for &Robert.  	That=Mae stopping crying when in Robert's arms		132	Mae stopping crying when in Robert's arms must have been very reassuring for Robert						CT+ 132	CT+ 132	JA 132	JA 132			
+"A: It was very nice wasn’t it. It was very wonderful for &Robert and for me too just to see, I knew it would work too.  "	"It=Mae stopping crying when in Robert's arms,me=A,I=A,it=Robert comforting Mae ?"		133.1	Mae stopping crying when in Robert's arms was very nice						CT+ 133.1	CT+ 133.1	JA 133.1	JA 133.1			
+			133.2	Mae stopping crying when in Robert's arms was very wonderful for Robert						CT+ 133.2	CT+ 133.2	JA 133.2	JA 133.2			
+			133.3	A knew Robert comforting Mae would work						CT+ 133.3	CT+ 133.3	JA 133.3	JA 133.3			
+			133.4	Robert comforting Mae would work 						CT+ 133.4	CT+ 133.4	JA 133.4	JA 133.4			
+B: Very nice. yeah.  			134						Very nice. yeah. = confirmation of 133							
+B: uh-huh.  			135						uh-huh.  filler							
+B: uh-huh.  			136						uh-huh.   = filler							
+B: yeah.  			137						yeah.  = filler							
+"A: I don’t know what it is. He has some, you have a theory. Body warmth or something but anyway.  "	"I=A,He=Robert"		138.1	A doesn't know what made Mae stop crying in Robert's arms						CT+ 138.1	CT+ 138.1	JA 138.1	JA 138.1			
+			138.2	Something made Mae stop crying in Robert's arms						CT+ 138.2	CT+ 138.2	IN 138.2	IN 138.2			
+			138.3	Mae stopped crying in Robert's arms						CT+ 138.3	CT+ 138.3	IN 138.3	IN 138.3			
+			138.4	Robert has some theory about Something made Mae stop crying in Robert's arms and body warmth or something						CT+ 138.4	CT+ 138.4	JA 138.4	JA 138.4			
+B: yeah.  			139						yeah.   = filler							
+"B: I think it’s partly it but there’re certain kind of men who, I think it’s men who have like these big "	"I=B,it=Mae stop crying in Robert's arms,it2 = body warmth"		140													
+"B: I have this theory [[says laughing]] that it’s men who are very broad right under the elbow you know like, "	I=B		141.1	B thinks Mae stop crying in Robert's arms is partly due to the body warmth but B has this theory that it's men who are very broad right under the elbow						CT+ 141.1	CT+ 141.1	JA 141.1	JA 141.1			
+			141.2	B thinks Mae stop crying in Robert's arms is partly due to the body warmth						CT+ 141.2	CT+ 141.2	JA 141.2	JA 141.2			
+			141.3	Mae stop crying in Robert's arms is partly due to the body warmth						PS 141.3	PS 141.3	JA 141.3	JA 141.3	LI	embedded under 'think'	
+			141.4	B has this theory that it's men who are very broad right under the elbow						CT+ 141.4	CT+ 141.4	JA 141.4	JA 141.4			
+			141.5	There are some man who are broad right under the elbow						PS 141.5	PS 141.5	JA 141.5	JA 141.5	C	B clearly states that it's a theory so no commitment	
+A: Wait a minute. Broad under the elbow.  You mean in the chest? 	You=B		142.1	A asks B to wait a minute						CT+ 142.1	CT+ 142.1	JA 142.1	JA 142.1	C	 This is what we would want to mark as a command TALK ABOUT	
+			142.2	B waits a minute					this is a metaphorical 'minute' -- used for indicate that A needs clarification	CT+ 142.2				C	Not sure if this should be even an event LEST TALK 	
+			142.3	A asks B if by broad under the elbow B means in the chest						CT+ 142.3	CT+ 142.3	JA 142.3	JA 142.3			
+			142.4	B means in the chest by broad under the elbow	 → 144 CT-		 → 144 RT	 → 144 PS		PS 142.4	CT- 142.4					
+B: like 			143													
+B: No. From the elbow down towards the wrist.  			144	B means from the elbow down towards the wrist by broad under the elbow						"CT- 142.4,CT+ 144"	CT+ 144	"RT 142.4,JA 144"	"RT 142.4,JA 144"	C		
+A: oh.  			145													
+B: Who have like these big broad forearms.  			146.1	B asks A who has like these broad forearms					"sarcasm, B sugggests that noone has such broad forearms"	CT+ 146.1	CT+ 146.1	JA 146.1	JA 146.1	LI	 TALK ABOUT IT	
+			146.2	Someone has like these big broad forearms						CT- 146.2	CT- 146.2	RT 146.2	RT 146.2			
+A: {laugh} 			147													
+B: {laugh} 			148													
+B: I think babies like that.  	"I=B,that=broad forearms"		149.1	B thinks babies like broad forearms						CT+ 149.1	CT+ 149.1	JA 149.1	JA 149.1			
+			149.2	Babies like broad forearms						PS 149.2	PS 149.2	JA 149.2	JA 149.2	C	embedded under think	
+"A: You think it gives, it gives security.  I suppose.  "	"it=broad forearms,I=A"		150.1	B thinks broad forearms give security					 	CT+ 150.1	CT+ 150.1	JA 150.1	JA 150.1			
+			150.2	Broad forearms give security			 → 150.3 IN	 → 150.3 CT-		PS 150.2	PS 150.2	JA 150.2	JA 150.2		 IMPORTANT CASE -- i dont think our system allows us to express it correctly	
+			150.3	A supposes broad forearms give security						CT+ 150.3	CT+ 150.3	"JA 150.3,IN 150.2"	"JA 150.3,IN 150.2"			
+B: (( )) Do you remember &Otto who moved my filing cabinet that time in &Philadelphia he’s another one? 	"you=A,my=B's,he=Otto,one=man with broad forearms"		151.1	B asks A if A remembers Otto who moved B's filing cabinet that time in Philadelphia						CT+ 151.1	CT+ 151.1	JA 151.1	JA 151.1			
+			151.2	A remembers Otto who moved B's filing cabinet that time in Philadelphia		 → 152 CT+	 → 152 JA	 → 152 CT+		CT+ 151.2	NB 151.2					
+			151.3	Otto moved B's filing cabinet that time in Philadelphia						CT+ 151.3	CT+ 151.3	IN 151.3	IN 151.3			
+			151.4	Otto is another man with broad forearms						CT+ 151.4	CT+ 151.4	JA 151.4	JA 151.4			
+A: Yes. uh-huh.  			152						uh=huh = filler		CT+ 151.2	JA 151.2	JA 151.2			
+A: uh-huh.  			153						uh-huh.  = filler							
+A: yeah. He’s big.  He’s sort of solid to me.  	"He=Otto,me=A"		154.1	Otto is big					yeah = repetition of 152	CT+ 154.1	CT+ 154.1	JA 154.1	JA 154.1			
+			154.2	Otto is sort of solid to A						CT+ 154.2	CT+ 154.2	JA 154.2	JA 154.2			
+B: who 			155													
+B: He’s sort of very solid and they (( )) just love it [distortion].  	"He=Otto,they=babies ? ,it= solid men ?"		156.1	Otto is sort of very solid						CT+ 156.1	CT+ 156.1	JA 156.1	JA 156.1			
+			156.2	Babies just love solid men						CT+ 156.2	CT+ 156.2	JA 156.2	JA 156.2			
+A: But &Robert’s not big like that.  	that=Otto		157	But Robert is not big like Otto						CT+ 157	CT+ 157	JA 157	JA 157			
+"B: No, but he, but &Robert is big below the elbows I’ll bet if you check.  "	"he=Robert,I=B,you=A"		158.1	But Robert is big below the elbows						CT+ 158.1	CT+ 158.1	JA 158.1	JA 158.1			
+			158.2	B will bet that Robert is big below elbow if A checks						CT+ 158.2	CT+ 158.2	JA 158.2	JA 158.2			
+			158.3	B will bet that Robert is big below elbow 						PS 158.3	PS 158.3	JA 158.3	JA 158.3	C	LAWRENCE THIS IS ANOTHER EXAMPLE OF A CONTIDIONAL	
+			158.4	A checks Robert's forearms						PS 158.4	PS 158.4	JA 158.4	JA 158.4			
+A: {laugh} I’ll have to check out below &Robert’s elbows {laugh} 	I=A		159.1	A will have to check out below Robert's elbow					slight sarcasm	CT+ 159.1	CT+ 159.1	JA 159.1	JA 159.1			
+			159.2	A will check below Robert's elbow						PS 159.2	PS 159.2	JA 159.2	JA 159.2	C	I interpreted the sarcasm as an indicator that 159.2 may be possible but for sure not CT+	
+B: {laugh} 			160													
+"A: At any rate, %um "			161													
+"A: So that was nice and then we watched through the nursery while they do, "	"that=Mae stopping crying in Robert's arms,we=A and Robert"		162.1	Mae stopping crying in Robert's arms was nice						CT+ 162.1	CT+ 162.1	JA 162.1	JA 162.1			
+			162.2	A and Robert watched through the nursery						CT+ 162.2	CT+ 162.2	JA 162.2	JA 162.2			
+A: if you survive the first four hours of life in the nursery you’ll survive anything after.  It’s the most sort of appalling introduction to life.  	you=a newborn		163.1	"If a newborn survives the first hours of life in the nursery, a newborn will survive anything after the first four hours in the nursery"						CT+ 163.1	CT+ 163.1	JA 163.1	JA 163.1			
+			163.2	A newborn survives the first hours of life in the nursery						PS 163.2	PS 163.2	JA 163.2	JA 163.2	C	LAWRENCE: CONDITIONAL	
+			163.3	A newborn will survive anything after the first four hours in the nursery						PS 163.3	PS 163.3	JA 163.3	JA 163.3	C	PS because it's conditional 1	
+B: uh-huh.  			164						uh-huh.  = B acknowledges 163.1							
+B: uh-huh.  			165						uh-huh. = repetition of 164							
+B: uh-huh.  			166						uh-huh.  = repetition of 164							
+B: uh-huh.  			167						uh-huh.  = repetition of 164							
+A: But I was kind of scared at that point because we’re looking in and there’re all these nice sweet little pale babies lying there limp  	"I=A,we=A and Robert,there=the nursery,that=the first four hours of Mae's life"		168.1	But A was kind of scared the first four hours of Mae's life because A and Robert were looking in and there were all these nice sweet little pale babies lying limp in the nursery						CT+ 168.1	CT+ 168.1	JA 168.1	JA 168.1			
+			168.2	A was kind of scared in the first four hours of Mae's life						CT+ 168.2	CT+ 168.2	JA 168.2	JA 168.2			
+			168.3	A and Robert were looking in the nursery						CT+ 168.3	CT+ 168.3	JA 168.3	JA 168.3			
+			168.4	There were all these nice sweet little pale babies lying limp in the nursery						CT+ 168.4	CT+ 168.4	JA 168.4	JA 168.4			
+B: uh-huh.  			169						uh-huh.  = B acknowledges 168.1							
+A: and there’s &Mae and she’s big compared to the rest and she was bright red and she is screaming and she screamed and she screamed and she screamed and all the rest of them as soon as they 	"she=Mae,them=other newborns in the nursery"		170.1	Mae was big compared to the rest of the newborns in the nursery					and there's Mae = expression introducing comparison	CT+ 170.1	CT+ 170.1	JA 170.1	JA 170.1			
+			170.2	Mae was bright red						CT+ 170.2	CT+ 170.2	JA 170.2	JA 170.2			
+			170.3	Mae was excessively screaming			 → 179 IN	 → 179 CT-	she screamed and she screamed and she screamed = Mae screamed excessively	CT+ 170.3	CT+ 170.3	JA 170.3	JA 170.3			
+B: uh-huh.  			171						uh-huh.  = B acknowledges 170							
+B: uh-huh.  			172						uh-huh.  = repetition of 171							
+B: uh-huh. ((Um-huh)) [distortion] 			173						uh-huh. = repetition of 171							
+B: uh-huh 			174						uh-huh = repetition of 171							
+A: they sort of get exhausted after two screams and collapse. 	they=other newborns in the nursery		175	All the rest of the newborns in the nursery sort of got exhausted after two screams and collapsed						CT+ 175	CT+ 175	JA 175	JA 175			
+B: yeah.  			176						yeah.  = B acknowledges 175							
+A: And she was healthy I guess.  	"she=Mae,I=A"		177.1	And Mae was healthy A guesses						CT+ 177.1	CT+ 177.1	JA 177.1	JA 177.1			
+			177.2	And Mae was healthy						PS 177.2	PS 177.2			LI	embedded under 'guesses'	
+B: uh-huh {laugh}.  			178						uh-huh {laugh}.  = B laughs at 177.1							
+A: And she just screamed and screamed and screamed and screamed and screamed and I thought oh my god what have we wrought here. {laugh} 	"I=A,she=Mae,we=A and Robert"		179	A thought oh my god what have A and Robert wrought here					 And she just screamed and screamed and screamed and screamed and screamed = Mae screamed excessively	CT+ 179	CT+ 179	"IN 170.3,JA 179"	"IN 170.3,JA 179"			
+B: Did they tell you her ((apgar)) or whatever they call that? 	"they=the nurses,her=Mae,that=the newborn's score,you=A"		180.1	B asks A if the nurses told A about Mae's apgar or whatever the nurses call the newborn's score						CT+ 180.1	CT+ 180.1	JA 180.1	JA 180.1			
+			180.2	The nurses told A about Mae's apgar or whatever the nurses call the newborn's score		 → 182 CT-	 → 182 RT	 → 182 PS		CT- 180.2	NB 180.2					
+			180.3	The nurses call the newborn's score something						CT+ 180.3	CT+ 180.3	IN 180.3	IN 180.3	C	presupposition	
+A: How (( )) 			181													
+"A: They didn’t tell us anything.  In fact, at the hospital they weren’t "	They=the nurses		182	The nurses did not tell A and Robert anything						CT+ 182	"CT- 180.2,CT+ 182"	"RT 180.2,JA 182"	"RT 180.2,JA 182"			
+"A: the, there were someth-, the individual people we had contact with were, were decent to us and friendly  "	"we=A and Robert,us=A and Robert "		183.1	The individual people A and Robert had contact with at the hospital were decent and friendly to A and Robert						CT+ 183.1	CT+ 183.1	JA 183.1	JA 183.1			
+			183.2	A and Robert had contact with individual people at the hospital						CT+ 183.2	CT+ 183.2	JA 183.2	JA 183.2			
+B: Were nice. 			184													
+"A: but %um the hospital policy was rather unfriendly to us and they wouldn’t, like we had been told, we they have a room called the bonding room "	"us=A and Robert,they=the hospital staff"		185.1	But the hospital policy was rather unfriendly to A and Robert						CT+ 185.1	CT+ 185.1	JA 185.1	JA 185.1			
+			185.2	The hospital have a room called the bonding room						CT+ 185.2	CT+ 185.2	JA 185.2	JA 185.2			
+B: yeah.  			186						"yeah.  = B acknowledges 182, 183, 185"							
+B: uh-huh.  			187						uh-huh.  = repetition of 186							
+B: uh-huh.  			188						uh-huh.  = repetition of 186							
+"A: and the whole purpose of the room is to let people be in it with the baby, who -- "	"it=the bonding room,room=the bonding room"		189.1	The whole purpose of the bonding room is to let people be in the bonding room with the baby						CT+ 189.1	CT+ 189.1	JA 189.1	JA 189.1			
+			189.2	People are in the bonding room with the baby						CT+ 189.2	CT+ 189.2	JA 189.2	JA 189.2			
+B: uh-huh.  			190													
+A: -- are going to be with the baby.  			191													
+B: Right.  			192						Right.  = B acknoweldges 189.1							
+"A: And they wouldn’t let us in there so, "	"they=the nurses,us=A and Robert,there=the bonding room"		193	The nurses would not let A and Robert in the bonding room			 → 195.2 IN	 → 195.2 CT-		CT+ 193	CT+ 193	JA 193	JA 193			
+B: %mm.  			194													
+"A: d-, it was really quite awful.  They wouldn’t let us, they didn’t, they they gave us but they didn’t tell us beans.  "	"it=A and Robert's not being able to enter the bonding room,They=the nurses,us=A and Robert"		195.1	A and Robert's not being able to enter the bonding room was really quite awful						CT+ 195.1	CT+ 195.1	JA 195.1	JA 195.1			
+			195.2	The nurses did not tell A and Robert beans						CT+ 195.2	CT+ 195.2	"IN 193,JA 195.2"	"IN 193,JA 195.2"			
+B: yeah.  			196						yeah.  = filler							
+A: I mean they really didn’t talk to us. They didn’t offer us that parenting class that they offer to most people.  	"I=A,they=the nurses,us=A and Robert,They=the nurses"		197.1	The nurses really did not talk to A and Robert						CT+ 197.1	CT+ 197.1	JA 197.1	JA 197.1			
+			197.2	The nurses did not offer A and Robert that parenting class the nurses offer to most people						CT+ 197.2	CT+ 197.2	JA 197.2	JA 197.2			
+B: mhm.  			198						mhm.  = filler							
+A: We would have had to come back the next day to the hospital which of course we weren’t going to do.  	"We=A and Robert,we=A and Robert"		199.1	A and Robert woud have had to come back the next day to the hospital 						CT+ 199.1	CT+ 199.1	JA 199.1	JA 199.1			
+			199.2	A and Robert weren't going to go back to the hospital the next day						CT+ 199.2	CT+ 199.2	JA 199.2	JA 199.2			
+B: %hm.  			200						%hm.  = filler							
+B: mhm.  			201						mhm.  = repetition of 200							
+"A: %um, you know they really weren’t very nice and  "	they=the nurses		202	The nurses really weren't very nice					you know = interjection	CT+ 202	CT+ 202	JA 202	JA 202			
+B: yeah.  			203						yeah.  = B acknowledges 202							
+"A: I guess they have, their rules are just very rigid.  "	"I=A,they=the nurses"		204.1	A guesses the nurses have the nurses' rules that are just very rigid						CT+ 204.1	CT+ 204.1	JA 204.1	JA 204.1			
+			204.2	The nurses have the nurses' rules that are just very rigid						PS 204.2	PS 204.2	JA 204.2	JA 204.2	LI	embedded under 'guesses' -- intorduces hesitation	
+			204.3	The nurses' rules that are just very rigid						CT+ 204.3	CT+ 204.3	JA 204.3	JA 204.3			
+B: %mm.  			205						mm. = B acknowledges 204							
+A: And the problem is the lawyer was supposed to have arranged for %um  			206													
+B: Right.  			207						Right.  = B agrees with 204							
+A: an additional bracelet.  			208.1	The problem is  the lawyer was supposed to have arranged for an aditional bracelet						CT+ 208.1	CT+ 208.1	JA 208.1	JA 208.1			
+			208.2	The lawyer arranged for an additional bracelet						CT- 208.2	CT- 208.2	RT 208.2	RT 208.2	LI	"embedded under ""was supposed to"""	
+B: mhm.  			209													
+"A: In other words, what happens is they put one on the wrist of the baby, one on the ankle, one on the birth mother  "	they=the nurses		210	"The nurses put one bracelet on the wrist of the baby, one bracelet on baby's ankle, one on the birth mother"					in other words = A rephrases/introduces more information to 204; what happens is = introductory phrase	CT+ 210	CT+ 210	JA 210	JA 210			
+"A: and then she has a, what you call the fourth bracelet which she can give to whoever will be her coach through the birth and stuff and of course she had given it to her mother, "	"she=the birth mother,her=the birth mother's,it=the bracelet,you=one"		211.1	"The birth mother has what one calls the fourth bracelet, which the birth mother can give to whoever will be the birth mother's coach through the birth and stuff"						CT+ 211.1	CT+ 211.1	JA 211.1	JA 211.1			
+			211.2	The mother has what one calls the fourth bracelet						CT+ 211.2	CT+ 211.2	JA 211.2	JA 211.2			
+			211.3	The birth mother can give the fourth bracelet to whoever will be the birth mother's coach through the birth and stuff						CT+ 211.3	CT+ 211.3	JA 211.3	JA 211.3			
+			211.4	Some will coach the birth  mother through the birth and stuff						CT+ 211.4	CT+ 211.4	JA 211.4	JA 211.4			
+			211.5	Of course the birth mother had given the fourth bracelet to the birth mother's mother						CT+ 211.5	CT+ 211.5	JA 211.5	JA 211.5			
+B: %hm.  			212						hm. = B acknowledges 211							
+B: mhm.  			213						mhm.  = repetition of 212							
+B: %hm.  			214						%hm.  = repetition of 212							
+B: I see.  			215						I see.  = B expresses understanding of 211							
+B: I see.  			216						I see.  = repetition of 215							
+A: which makes perfect sense.  			217	The birth's  mother giving the fourth bracelet to the birth mother's mother makes perfect sense						CT+ 217	CT+ 217	JA 217	JA 217			
+B: mhm.  			218						mhm.  = B acknowledges 217							
+"A: Well, the only way, they couldn’t get their minds around the notion of a fifth bracelet for us.  "	they=the nurses		219.1	The nurses could not get the nurses' minds around the notion of a fifth bracelet for A and Robert						CT+ 219.1	CT+ 219.1	JA 219.1	JA 219.1			
+			219.2	The nurses could get the minds of the nurses' around all the four bracelets except the fifth bracelet						CT+ 219.2	CT+ 219.2	JA 219.2	JA 219.2	LI	"implication embedded under ""the only way"" "	
+B: Right.  			220													
+"A: So the only way that they would have let us in there was to take her mothers away, "	"they=the nurses,us=A and Robert,there=the bonding room,her=the birth's mother's mother"		221.1	The only way the nurses would have let A and Robert to the bonding room was to take the birth mother's mother's bracelet						CT+ 221.1	CT+ 221.1	JA 221.1	JA 221.1			
+			221.2	The nurses let A and Robert to the bonding room						CT- 221.2	CT- 221.2	RT 221.2	RT 221.2			
+			221.3	A and Robert took the birth mother's mother's bracelet						CT- 221.3	CT- 221.3	RT 221.3	RT 221.3			
+B: Right.  			222													
+A: which we wouldn’t ask and which she wouldn’t do.  	"we=A and Robert,she=the birth mother's mother"		223.1	A and Robert would not ask to take the birth mother's mother about the fifth bracelet						CT+ 223.1	CT+ 223.1	JA 223.1	JA 223.1			
+			223.2	A and Robert did not ask the birth mother's mother's about the fifth bracelet						CT+ 223.2	CT+ 223.2	JA 223.2	JA 223.2	LI	implied from the usage of 'would'	
+			223.3	The birth mother's mother would not give A and Robert the fifth bracelet						CT+ 223.3	CT+ 223.3	JA 223.3	JA 223.3			
+			223.4	The birth mother's mother did not give A and Robert the fifth bracelet						CT+ 223.4	CT+ 223.4	JA 223.4	JA 223.4	LI	implied from the usage of 'would'	
+B: Right.  			224						Right.  = B acknowledges 223							
+B: Right.  			225						Right.  = repetition of 224							
+A: And %um 			226													
+A: the lawyer had told us he had arranged everything ahead of time  	"us=A and Robert,he=the lawyer"		227.1	The lawyer had told A and Robert the lawyer had arranged everything ahead of time						CT+ 227.1	CT+ 227.1	JA 227.1	JA 227.1			
+			227.2	The lawyer had arranged everything ahead of time	 → 228.4 CT-	 → 228.4 CT-	 → 228.4 RT	 → 228.4 PS		PS 227.2	PS 227.2	JA 227.2	JA 227.2	LI	embedded under 'told'	
+A: and there was supposed to be I D there at the hospital for us and it was all set and of course he hadn’t done anything.  	"us=A and Robert,he=the lawyer"		228.1	There was supposed to be ID at the hospital for A and Robert						CT+ 228.1	CT+ 228.1	JA 228.1	JA 228.1			
+			228.2	There was ID at the hospital for A and Robert						CT- 228.2	CT- 228.2	RT 228.2	RT 228.2	LI	 embedded under 'suppposed'	
+			228.3	Arranging the ID for A and Robert in the hospital was all set			 → 230 IN → 231 IN	 → 230 CT- → 231 CT-	of course = indicates that 228.3 was expected	CT+ 228.3	CT+ 228.3	JA 228.3	JA 228.3			
+			228.4	The lawyer hadn't done anything						"CT+ 228.4,CT- 227.2"	"CT+ 228.4,CT- 227.2"	"JA 228.4,RT 227.2"	"JA 228.4,RT 227.2"		 	
+B: I see.  			229						I see.  = B acknowledges 228							
+"B: He hadn’t done that, %hm.  "	He=the lawyer		230									IN 228.3	IN 228.3			
+A: No. He hadn’t done anything.  He’s been just hopeless.  	He=the lawyer		231	The lawyer has been just hopeless						CT+ 231	CT+ 231	"IN 228.3,JA 231"	"IN 228.3,JA 231"			
+B: %hm.  			232						%hm.  = B acknowledges 231							
+A: I mean I think legally he’s not hopeless.  I think he’s done all the necessary legal things but %um 	"I=A,he=the lawyer"		233.1	A thinks legally the lawyer is not hopeless					I  mean = A is trying to undermine/ lessen the strenght of A's statement in 231	CT+ 233.1	CT+ 233.1	JA 233.1	JA 233.1			
+			233.2	Legally the lawyer is not hopeless						PS 233.2	PS 233.2	JA 233.2	JA 233.2	LI	 embedder under 'thinks' -- introduces uncertainty	
+			233.3	A thinks the lawyer has done all the necessary legal things						CT+ 233.3	CT+ 233.3	JA 233.3	JA 233.3			
+			233.4	The lawyer has done all the necessary legal things						PS 233.4	PS 233.4	JA 233.4	JA 233.4	LI	 embedder under 'thinks' -- introduces uncertainty	
+B: yeah.  			234						yeah.  = B acknowledges 233							
+"A: you know in terms of the things,  "			235	"In terms of arranging an ID for A and Robert, the lawyer was hopeless"						CT+ 235	CT+ 235	JA 235	JA 235			
+A: He’s an S O B forgive me tape whoever you are but he was a fucker {laugh}.  	"He=the lawyer,he=The lawyer"		236.1	The lawyer is an SOB						CT+ 236.1	CT+ 236.1	JA 236.1	JA 236.1			
+			236.2	A apologizes B for calling the lawyer an SOB						CT+ 236.2	CT+ 236.2	JA 236.2	JA 236.2			
+			236.3	A gives persmission to whoever to tape A						CT+ 236.3	CT+ 236.3	JA 236.3	JA 236.3			
+			236.4	Someone is taping A						CT+ 236.4	CT+ 236.4	JA 236.4	JA 236.4			
+			236.5	The lawyer was a fucker			 → 241.1 IN	 → 241.1 CT-		CT+ 236.5	CT+ 236.5	JA 236.5	JA 236.5			
+B: yeah.  			237						yeah.  = B agrees with 235							
+B: No. th- {laugh} 			238	B laughs at A's swearing at the lawyer					 							
+A: And %um {laugh} 			239	A laughs about swearing at the lawyer					 							
+B: (( )) laugh 			240	 					laughs at 236.1 and 136.5 continue							
+A: I’m sorry but he was.  	"I=A,he=the lawyer"		241.1	A is sorry for calling the lawyer a fucker but the lawyer was a fucker						CT+ 241.1	CT+ 241.1	"JA 241.1,IN 236.5"	"JA 241.1,IN 236.5"			
+			241.2	A is sorry for calling the lawyer a fucker						CT+ 241.2	CT+ 241.2	JA 241.2	JA 241.2			
+B: I think they said published actually. {laugh} 	"I=B,they=the CALLHOME corpus creators"		242.1	B thinks the CALLHOME corpus creators said that this conversation will be published actually						CT+ 242.1	CT+ 242.1	JA 242.1	JA 242.1			
+			242.2	The CALLHOME corpus creators said that this conversation will be published actually						PS 242.2	PS 242.2	JA 242.2	JA 242.2	LI	embedded under 'thinks'	
+			242.3	This conversation will be published actually						PS 242.3	PS 242.3	JA 242.3	JA 242.3	LI	embedded under 'said'	
+A: oh well they can edit that word I guess {laugh} Anyway it’s English so {laugh} 	"I=A,that=the word 'fucker',it=fucker,they=the CALLHOME corpus creators"		243.1	A guesses the CALLHOME corpus creators can edit the word fucker					oh well - indicates that what's done it's done	CT+ 243.1	CT+ 243.1	JA 243.1	JA 243.1	C	 is 'they' developers of CALLHOME? I'm not sure but nothing else makes sense	
+			243.2	The CALLHOME corpus creators can edit the word fucker						PS 243.2	PS 243.2	JA 243.2	JA 243.2	LI	embedded under 'guesses'	
+			243.3	The word fucker is English						CT+ 243.3	CT+ 243.3	JA 243.3	JA 243.3			
+B: yeah.  			244						yeah.  = B agrees with 243							
+A: It’s American English.  			245	The word fucker is American English						CT+ 245	CT+ 245	JA 245	JA 245			
+B: {laugh} 			246						B laughs at 245							
+A: %um 			247													
+"A: You know he, he said things to me like well you’ll have her for the rest of your life, you know.  "	"he=the lawyer,her=Mae,me=A"		248.1	The lawyer said things to A like A will have Mae for the rest of A's life					"you now = interjection, like = comparison"	CT+ 248.1	CT+ 248.1	JA 248.1	JA 248.1			
+			248.2	A will have Mae for the rest of A's life						PS 248.2	PS 248.2	JA 248.2	JA 248.2	LI	 reporting someone else's speech does not express certain belief	
+B: yeah.  			249						yeah.  = B acknowledges 248.1							
+"A: Don’t worry about it, which is really an arrogant attitude to take, you know.  "	it=not being able tp bond with Mae in the bonding room		250.1	The lawyer said to A that A shouldn't worry about not being albe to bond with Mae in the bonding room						CT+ 250.1	CT+ 250.1	JA 250.1	JA 250.1			
+			250.2	A shouldn't worry about not being albe to bond with Mae in the bonding room						PS 250.2	PS 250.2	JA 250.2	JA 250.2	LI	 reporting someone else's speech does not express certain belief	
+			250.3	The lawyer's attempt to comfort A about not being able to bond with Mae in the bonding room is really an arrogant attitude to take						CT+ 250.3	CT+ 250.3	JA 250.3	JA 250.3			
+B: yeah 			251						yeah = B agrees with 250.3							
+B: yeah 			252						yeah = repetition of 251							
+B: Man. {laugh} 			253						Man. {laugh} = B is shocked about the lawyer's behavior							
+"A: yeah. He was really, he was a real arrogant S O B, so "	He=A		254	The lawyers was a real arrogant SOB					yeah = interjection; he was really = unfinished utterance	CT+ 254	CT+ 254	JA 254	JA 254			
+B: How old was he? 	he=the lawyer		255	B asks A how old the lawyer was						CT+ 255	CT+ 255	JA 255	JA 255			
+A: I don’t know we never met him. He never showed up.  	"I=A,we=A and Robert,him=the lawyer,He=The lawyer"		256.1	A doesn't know how old the lawyer is						CT+ 256.1	CT+ 256.1	JA 256.1	JA 256.1			
+			256.2	A and Robert never met the lawyer						CT+ 256.2	CT+ 256.2	JA 256.2	JA 256.2			
+			256.3	The lawyer never showed up						CT+ 256.3	CT+ 256.3	JA 256.3	JA 256.3			
+B: oh.  			257						oh.  = B acknowledges 256.2							
+"A: W-, he ended up in the end, his par-, he sent his partner to actually sign the papers who’s not even an adoption attorney.  "	"he=the lawyer,his=the lawyer's"		258.1	"In the end, the lawyer sent the lawyer's partner to actually sign the papers"						CT+ 258.1	CT+ 258.1	JA 258.1	JA 258.1			
+			258.2	The lawyer's partner actually signed the papers						CT+ 258.2	CT+ 258.2	JA 258.2	JA 258.2			
+			258.3	The lawyer's partner is not even an adoption attorney 												
+B: mhm.  			259						mhm.  = B acknowledges 258							
+A: He does litigation.  Doesn’t know what he’s doing but I hope he did what his partner told him to do.  	"He=the lawyer's partner,he=the lawyer's partner"		260.1	The lawyer's partner does litigation						CT+ 260.1	CT+ 260.1	JA 260.1	JA 260.1			
+			260.2	The lawyer's partner does not know what the lawyer's partner is doing with signing the adoption papers but A hopes that the lawyer's partner did what the lawyer told the lawyer's partner to do						CT+ 260.2	CT+ 260.2	JA 260.2	JA 260.2			
+			260.3	The lawyer's partner does not know what the lawyer's partner is doing with signing the adoption papers						CT+ 260.3	CT+ 260.3	JA 260.3	JA 260.3			
+			260.4	A hopes that the lawyer's partner did what the lawyer told the lawyer's partner to do with the adoption papers						CT+ 260.4	CT+ 260.4	JA 260.4	JA 260.4			
+			260.5	The lawyer's partner did what the lawyer told the lawyer's partner to do with the adoption papers						NB 260.5	NB 260.5	260.5	260.5	LI	embedded under 'hope'	
+			260.6	The lawyer told the lawyer's partner what to do with the adoption papers						PS 260.6	PS 260.6	JA 260.6	JA 260.6	C	"because the lawyer seems unreliable, I think there's a doubt that he told his partner what to do"	
+B: mhm.  			261						mhm.  = B acknowledges 260							
+B: ((%mm)) [distorted] 			262													
+B: mhm.  			263						mhm.  = repetition of 261							
+A: But he at least was a sensitive human being.  	he=the lawyer's partner		264.1	The lawyer's partner was at least a sensitive human being as opposed to the lawyer					but = introduces contrast that is elided but implied	CT+ 264.1	CT+ 264.1	JA 264.1	JA 264.1			
+			264.2	The lawyer was not a sensitive human being						CT+ 264.2	CT+ 264.2	IN 264.2	IN 264.2	C	that's implied from the previous context. Here in 264.1 it's even more explicit	
+B: mhm.  			265						mhm.  = B acknowledges 264							
+"A: And %um, you know so that was nice.  He had some sensitivity.  "	"He=the lawyer's partner,that=the laywer's partner being a sensitive human being"		266.1	The laywer's partner being a sensitive human being was nice					you know = interjection 	CT+ 266.1	CT+ 266.1	JA 266.1	JA 266.1			
+			266.2	The lawyer's partner had some sensitivity 						CT+ 266.2	CT+ 266.2	IN 266.2	IN 266.2	C	already established in 264.1	
+B: We’re going to get cut off soon.  	We=A and B		267	A and B's conversation is going to get cut off soon						CT+ 267	CT+ 267	JA 267	JA 267			
+A: oh no [distorted] 			268						oh no = A is displeased that 267							
+"B: And I want to, I hope you "	"I=B,you=A"		269						"And I want to, I hope you  = unfinished utterance"							
+A: Tell me something then.  			270.1	A asks B to tell B something 		 → 272 CT- → 273 CT+	 → 272 RT → 273 JA	 → 272 PS → 273 CT+		CT+ 270.1	270.1	270.1	270.1			
+			270.2	B tells A something 	 → 274.1 CT+	 → 274.1 CT+	 → 274.1 JA	 → 274.1 CT+		PS 270.2	270.2	270.2	270.2			
+A: I’ll shut up. You can tell me something.  	"I=A,You=B,me=A"		271.1	A will shut up						CT+ 271.1	CT+ 271.1	JA 271.1	JA 271.1			
+			271.2	A suggests that B tells A something		 → 272 CT- → 273 CT+	 → 272 RT → 273 JA	 → 272 PS → 273 CT+		CT+ 271.2						
+B: What? 			272	 							"CT- 270.1,CT- 271.2"	"RT 270.1,RT 271.2"	"RT 270.1,RT 271.2"	C	REQUEST FOR REAPIR IMPORTANT EXAMPLE	
+B: okay.  			273	 							"CT+ 270.1,CT+ 271.2"	"JA 270.1,JA 271.2"	"JA 270.1,JA 271.2"			
+"B: No. I’m worrying ab-, I’m not worrying I’m feeling like oh my gosh should all of this be in the public record or something.  "	"I=B,this=the current conversation between A and B"		274.1	B expresses doubts whether this conversation should be in public record					"I’m worrying ab-, I’m not worrying I’m feeling like oh my gosh = B is searching for the right words to express B-self"	CT+ 270.2	CT+ 270.2	JA 270.2	JA 270.2			
+			274.2	 This conversation should be in public record						CT- 274.2	CT- 274.2	RT 274.2	RT 274.2	C	it seems that they both think that this conversation should not be in the public	
+A: oh yes. Well they just beeped.  I think that might mean we have to hang up.  	"they=the CALLHOME corpus creators,I=A,that=the beeping,we=A and B"		275.1	The CALLHOME corpus creators just beeped					oh yes. = A understands B's concern in 274	CT+ 275.1	CT+ 275.1	JA 275.1	JA 275.1			
+			275.2	A thinks the beeping might mean A and B have to hang up						CT+ 275.2	CT+ 275.2	JA 275.2	JA 275.2			
+			275.3	The beeping might mean A and B have to hang up						PS 275.3	PS 275.3	JA 275.3	JA 275.3			
+			275.4	A and B have to hang up						PS 275.4	PS 275.4	JA 275.4	JA 275.4	LI	embedded under 'might'	
+B: okay.  			276						okay.  = B agrees with 275.3							
+A: We have a minute.  	We=A and B		277	A and B have a minute						CT+ 277	CT+ 277	JA 277	JA 277			
+B: %um.  			278						%um.  = interjection/ indicator of changing the subject							
+B: I want to tell you I saw four parakeets fly across the street in &Barcelona.  	"I=B,you=A"		279.1	B wants to tell A B saw four parakeets fly across the street in Barcelona						CT+ 279.1	CT+ 279.1	JA 279.1	JA 279.1			
+			279.2	B tells A B saw four parakeets fly across the street in Barcelona						CT+ 279.2	CT+ 279.2	JA 279.2	JA 279.2			
+			279.3	B saw four parakeets fly across the street in Barcelona						CT+ 279.3	CT+ 279.3	JA 279.3	JA 279.3			
+			279.4	Four parakeets flew across the street in Barcelona						CT+ 279.4	CT+ 279.4	JA 279.4	JA 279.4			
+A: oh neat. Is it thirty minutes? 	it=this conversation 		280.1	A asks B if this conversation has gone for thirty minutes already			 → 282 RT → 283.1 JA	 → 282 PS → 283.1 CT+	oh neat. = A likes that 279.3	CT+ 280.1	CT+ 280.1	JA 280.1	JA 280.1			
+			280.2	This conversation has gone for thirty minutes already	 → 283.1 CT-		 → 283.1 RT	 → 283.1 PS		NB 280.2	CT- 280.2					
+B: It was [distorted] beautiful.  	It=the parakeets flying across the street in Barcelona		281	The parakeets flying across the street in Barcelona was beautiful						CT+ 281	CT+ 281	JA 281	JA 281			
+A: Is it 			282	 					"Is it = A attempts to repeat 280, which signals that A thought that B did not understand it"			RT 280.1	RT 280.1	C	IMPORTANT FOR CG DEFINITION	
+B: It’s going to be thirty minutes in about five minutes I think.  	"It=this conversation,I=B"		283.1	B thinks this conversation will have been going for thirty minutes in about five minutes						"CT- 280.2,CT+ 283.1"	CT+ 283.1	"RT 280.2,JA 280.1,JA 283.1"	"RT 280.2,JA 280.1,JA 283.1"			
+			283.2	 This conversation will have been going for thirty minutes in about five minutes						PS 283.2	PS 283.2	JA 283.2	JA 283.2	LI	embedded under 'thinks'	
+A: oh okay because there’s a beep coming on my end.  	my=A's		284	There’s a beep coming on A's end					oh okay = A acknowledges 283	CT+ 284	CT+ 284	JA 284	JA 284			
+B: yeah.  			285						yeah.  = interjection							
+A: You don’t hear it? 	"You=A,it=the beeping"		286.1	A asks B if B doesn't hear the beeping						CT+ 286.1	CT+ 286.1	JA 286.1	JA 286.1			
+			286.2	B doesn't hear the beeping	 → 287 CT+		 → 287 JA	 → 287 CT+		PS 286.2	CT+ 286.2					
+B: No.  			287							CT+ 286.2		JA 286.2	JA 286.2			
+A: okay. Well ignore it so we’ll let them go on.  	"it=the beeping,we=A and B,them=the CALLHOME corpus creators"		288.1	A asks B to ignore what A said about the beeping					okay. = A acknowledges 286.2	CT+ 288.1	CT+ 288.1	JA 288.1	JA 288.1			
+			288.2	B ignores what A said about the beeping	 → 290 CT+		 → 290 JA	 → 290 CT+		PS 288.2	CT+ 288.2	JA 288.2	JA 288.2			
+			288.3	A and B will let the CALLHOME corpus creators go on						CT+ 288.3	CT+ 288.3	JA 288.3	JA 288.3			
+B: Well 			289													
+B: Well anyway.  			290						Well anyway.  = indicates that B wants to change the subject	CT+ 288.2		JA 288.2	JA 288.2	C	"now it's added to CG with certain beliefs, since B did ignore that A heard the beeping"	
+A: oh so that sounds very nice. They were loose or in a 	"that=seeing parakeers fly across the street in Barcelona,They=the parakeets"		291.1	Seeing parakeets fly across the street in Barcelona sounds very nice						CT+ 291.1	CT+ 291.1	JA 291.1	JA 291.1			
+			291.2	A asks B if the parakeets were loose						CT+ 291.2	CT+ 291.2	JA 291.2	JA 291.2	C	NEW QUESTION TYPE: ADD TO MANUAL	
+			291.3	The parakeets were loose	 → 292.1 CT+		 → 292.1 JA	 → 292.1 CT+		PS 291.3	CT+ 291.3					
+B: Well I they were loose they were I said the &Sheila I think I hear a parakeet.  	"I=B,they=the parakeets"		292.1	B told Sheila B thinks B hears a parakeet						"CT+ 291.3,CT+ 292.1"	CT+ 292.1	"JA 291.3,JA 292.1"	"JA 291.3,JA 292.1"			
+			292.2	B thinks B hears a parakeet						CT+ 292.2	CT+ 292.2	JA 292.2	JA 292.2			
+			292.3	B hears a parakeet						PS 292.3	PS 292.3	JA 292.3	JA 292.3			
+A: uh-huh 			293						uh-huh = A acknowledges 291							
+B: And you could tell he thought that it was nonsense that it was a  	"you=one,he=Sheila,it=B seeing a parakeet,it2 =the parakeet"		294.1	One could tell that Sheila thought that B seeing parakeets was nonsense						CT+ 294.1	CT+ 294.1	JA 294.1	JA 294.1			
+			294.2	Sheila thought that B seeing parakeets was nonsense						CT+ 294.2	CT+ 294.2	JA 294.2	JA 294.2			
+			294.3	B seeing parakeets was nonsense						CT- 294.3	CT- 294.3	RT 294.3	RT 294.3	C	 That's what only Sheila seemed to believe; and we know from 279 that B saw parakeets	
+A: uh-huh 			295						uh-huh = A acknowledges 294							
+B: crow and then I saw it but the sun was against my eyes 	"I=B,my=B's,it=a parakeet"		296.1	One could tell that Sheila thought that the parakeet  was a crow						CT+ 296.1	CT+ 296.1	JA 296.1	JA 296.1			
+			296.2	Sheila thought that the parakeet was a crow						CT+ 296.2	CT+ 296.2	JA 296.2	JA 296.2			
+			296.3	The parakeet was a crow						CT- 296.3	CT- 296.3	RT 296.3	RT 296.3	C	"we know from 279 that B saw parakeets, not crows"	
+A: oh how neat 			297						oh how neat = A expresses excitement about B seeing the parakeet							
+B: so I couldn’t tell and then it flew and when it flew three more of them flew out of the same tree.  	"I=B,it=a parakeet,them=the parakeets"		298.1	Then B saw a parakeet but the sun was againts B's eyes so B couldn't tell whether B saw a parakeet						CT+ 298.1	CT+ 298.1	JA 298.1	JA 298.1			
+			298.2	Then B saw a parakeet but the sun was againts B's eyes						CT+ 298.2	CT+ 298.2	JA 298.2	JA 298.2			
+			298.3	B saw a parakeet						CT+ 298.3	CT+ 298.3	IN 298.3	IN 298.3	C	we know from 279 that B saw parakeets	
+			298.4	The sun was againts B's eyes						CT+ 298.4	CT+ 298.4	JA 298.4	JA 298.4			
+			298.5	B couldn't tell whether B saw a parakeet						CT+ 298.5	CT+ 298.5	JA 298.5	JA 298.5			
+			298.6	The parakeet flew						CT+ 298.6	CT+ 298.6	JA 298.6	JA 298.6			
+			298.7	When the parakeet flew three more of the parakeets flew out of the same tree						CT+ 298.7	CT+ 298.7	JA 298.7	JA 298.7			
+			298.8	Three more of the parakeets flew out of the same tree						CT+ 298.8	CT+ 298.8	JA 298.8	JA 298.8			
+A: oh how neat.  There was a street 			299						oh how neat.  = A expresses excitement about B seeing multiple parakeets							
+B: They were beautiful.  	They=the parakeets		300	The parakeets were beautiful						CT+ 300	CT+ 300	JA 300	JA 300			
+A: there was a street I walked down in &Barcelona big wide 	I=A		301	"A walked down a big, wide street in Barcelona"						CT+ 301	CT+ 301	JA 301	JA 301	C	 !!!!! IMPORTANT EXAMPLE !!! INTO MANUAL (Theory of mind)	
+B: with all the bird sellers 			302	"A walked down a big, wide street with all the bird sellers in Barcelona "						CT+ 302	CT+ 302	JA 302	JA 302			
+A: Yes.  			303							CT+ 303	CT+ 303	IN 303	IN 303	C	reconfirmation of 302	
+B: They were closed up that day but I’m sure that what these were is 	"They=the bird sellers,I=B"		304.1	The bird sellers were closed up the day B saw the parakeets but B's sure that these parakeets were escapees						CT+ 304.1	CT+ 304.1	JA 304.1	JA 304.1			
+			304.2	The bird sellers were closed up the day B saw the parakeets 						CT+ 304.2	CT+ 304.2	JA 304.2	JA 304.2			
+			304.3	B's sure that these parakeets were escapees						CT+ 304.3	CT+ 304.3	JA 304.3	JA 304.3			
+			304.4	There parakeets were escapees						CT+ 304.4	CT+ 304.4	JA 304.4	JA 304.4	LI	embedded under 'I'm sure'	
+A: Well it was g- it was a wonderful place I mean I guess you have to sort of discount that they’re in cages but 	"it=the big, wide street with all the bird sellers in Barcelona,I=A,they=the birds that are to be sold,you=one"		305.1	"The big, wide street with all the bird sellers in Barcelona is a wonderful place"					I mean = interjection	CT+ 305.1	CT+ 305.1	JA 305.1	JA 305.1			
+			305.2	A guesses one has to sort of discount that the bird that are to be sold are in cages						CT+ 305.2	CT+ 305.2	JA 305.2	JA 305.2			
+			305.3	One has to sort of discount that the bird that are to be sold are in cages						PS 305.3	PS 305.3	JA 305.3	JA 305.3	LI	embedded under 'I guess'	
+			305.4	The bird that are to be sold are in cages						CT+ 305.4	CT+ 305.4	JA 305.4	JA 305.4	C		
+B: Escapees yeah 			306													
+B: yeah It’s it’s part of <Spanish (( ))> 	It=the birds that are sold are in cages		307	The bird that are to be sold are in cages is part of the problem					yeah  = B agrees with 305.3	CT+ 307	CT+ 307	JA 307	JA 307			
+A: it was beautiful 	"it=the big, wide street with all the bird sellers in Barcelona"		308	"The big, wide street with all the bird sellers in Barcelona was beautiful"						CT+ 308	CT+ 308	JA 308	JA 308			
+B: yeah.  			309						yeah.  = B agrees with 308 							
+A: I mean it was just so beautiful with all these amazing 	"it=the big, wide street with all the birds sellers in Barcelona"		310	"The big, wide street with all the bird sellers in Barcelona was beautiful with all these amazing birds and colors"						CT+ 310	CT+ 310	JA 310	JA 310			
+B: yeah.  			311						yeah.  = B agrees with 310							
+"A: birds and colors.  And also in parts of &Spain, I don’t know if they have this in parts of &France, but "	"I=A,they=people,this=wide streets with birds sellers"		312.1	In parts of Spain people have wide streets with birds sellers										C	 EXAMPLE TO DISCUSS -- not sure whats the right way to annotate 312-313 yet	
+			312.2	A doesn't know if people have wide streets with birds sellers in parts of France												
+			312.3	People have wide streets with birds sellers in parts of France												
+B: Probably not {laugh} 			313	People probably don't have wide streets with birds sellers in parts of France					B laughs at France not having this but Spaing having this							
+A: I saw parts of &Spain where they had birds on the shutters and they put them out during the day.  	"I=A,they=people,they2 = birds"		314.1	A saw parts of Spain where people had birds on the shutters						CT+ 314.1	CT+ 314.1	JA 314.1	JA 314.1			
+			314.2	People had birds on the shutters in parts of Spain						CT+ 314.2	CT+ 314.2	JA 314.2	JA 314.2			
+			314.3	People put the birds out during the day						CT+ 314.3	CT+ 314.3	JA 314.3	JA 314.3			
+B: It’s very popular in &Spain but it’s not so popular here in &France.  	"It=people having birds on the shutters and putting the birds out during the day,here=France"		315.1	People having birds on the shutters and putting the birds out during the day is very popular in Spain but people having birds on the shutters and putting the birds out during the day is not so popular in France						CT+ 315.1	CT+ 315.1	JA 315.1	JA 315.1			
+			315.2	People having birds on the shutters and putting the birds out during the day is very popular in Spain						CT+ 315.2	CT+ 315.2	JA 315.2	JA 315.2			
+			315.3	People having birds on the shutters and putting the birds out during the day is not so popular in France						CT+ 315.3	CT+ 315.3	JA 315.3	JA 315.3			
+A: yeah.  It was a nice thing.  yeah. %um 	It=people having birds on the shutters and putting the birds out during the day		316	People having birds on the shutters and putting the birds out during the day was a very nice thing					yeah. um - interjection	CT+ 316	CT+ 316	JA 316	JA 316			
+B: I’ve seen very little of it. yeah. y- 	"it=people having birds on the shutters and putting the birds out during the day,I=B"		317	B has seen very little of people having birds on the shutters and putting the birds out during the day					yeah = interjection	CT+ 317	CT+ 317	JA 317	JA 317			
+B: I had friends in &Madrid whose father bred birds actually.  	I=B		318.1	B had friends in Madrid whose father bred birds actually						CT+ 318.1	CT+ 318.1	JA 318.1	JA 318.1			
+			318.2	B had friends in Madrid						CT+ 318.2	CT+ 318.2	JA 318.2	JA 318.2			
+			318.3	B's friends's father in Madrid bred birds actually	 → 320.1 CT+		 → 320.1 JA	 → 320.1 CT+		PS 318.3	CT+ 318.3	JA 318.3	JA 318.3			
+A: oh really? 			319	A asks B if B's friend's father in Madrid bred birds actually						CT+ 319	CT+ 319	JA 319	JA 319			
+B: In their apartment.  yeah.  It’s quite a big hobby.  	"their=B's friends,It=breeding birds in an apartment"		320.1	B's friends's father bred birds in B's friends's apartment in Madrid					 	"CT+ 318.3,CT+ 320.1"	CT+ 320.1	"JA 318.3,JA 320.1"	"JA 318.3,JA 320.1"			
+			320.2	Breeding birds in an apartment in a quite big hobby						CT+ 320.2	CT+ 320.2	JA 320.2	JA 320.2			
+A: Parakeets or? 			321.1	A asks B if the birds bred by B's friends's father in the apartment in Madrid were parakeets						CT+ 321.1	CT+ 321.1	JA 321.1	JA 321.1			
+			321.2	The birds bred by B's friends's father in the apartment in Madrid were parakeets	 → 322.1 CT-		 → 322.1 RT	 → 322.1 PS		PS 321.2	CT- 321.2					
+B: No little tiny birds.  I don’t know what they were.  Little 	I=B		322.1	The birds bred by B's friends's father in the apartment in Madrid were not parakeets						"CT+ 322.1,CT- 321.2"	CT+ 322.1	"JA 322.1,RT 321.2"	"JA 322.1,RT 321.2"			
+			322.2	The birds bred by B's friends's father in the apartment in Madrid were tiny birds						CT+ 322.2	CT+ 322.2	JA 322.2	JA 322.2			
+			322.3	B doesn't know what kind of birds were the birds bred by B's friends's father in the apartment in Madrid						CT+ 322.3	CT+ 322.3	JA 322.3	JA 322.3			
+A: Finches maybe.  			323	The birds bred by B's friends's father in the apartment in Madrid were maybe finches						CT+ 323	CT+ 323	JA 323	JA 323			
+B: yeah.  Song birds of some kind.  			324	The birds bred by B's friends's father in the apartment in Madrid were song birds of some kind					yeah.  B agrees with 323	CT+ 324	CT+ 324	JA 324	JA 324			
+A: uh-huh.  oh neat.  			325						uh-huh.  oh neat.  = A expresses excitement about 324							
+B: And he was good at breeding them.  	"he=B's friends's father in Madrid,them=the song birds of some kind"		326	B's friends's father in Madrid was good at breeding the song birds of some kind						CT+ 326	CT+ 326	JA 326	JA 326			
+A: uh-huh.  			327						uh-huh.  = A acknowledges 326							
+B: so 			328						so = unfinished utterance							
+A: oh well that’s good 			329						oh well that’s good = interjection							
+"B: So but when you went up to &Connecticut, all was well? Or was that another adventure? "	you=A		330.1	B asks A if when A went up to Connecticut all was well						CT+ 330.1	CT+ 330.1	JA 330.1	JA 330.1			
+			330.2	A went up to Connecticut	 → 334 CT-	 → 334 CT-	 → 334 RT	 → 334 PS			CT+ 330.2		IN 330.2			
+			330.3	All was well in Connecticut	 → 334 CT-	 → 334 CT-	 → 334 RT	 → 334 PS			PS 330.3					
+			330.4	B asks A if going up to Connecticut was another adventure						330.4	CT+ 330.4			C	"There is no evidence A ever acknowledges this speech act, and the proposition in 330.5"	
+			330.5	A's going up to Connecticut was another adventure							PS 330.5					
+A: up to &Connecticut? Did I go to 	I=A		331.1	A expresses confusion about A's going up to Connecticut						CT+ 331.1	CT+ 331.1	JA 331.1	JA 331.1			
+			331.2	A asks B if A went to Connecticut						CT+ 331.2	CT+ 331.2	JA 331.2	JA 331.2			
+			331.3	A went to Connecticut	 → 334 CT-	 → 334 CT-	 → 334 RT	 → 334 PS		NB 331.3	CT+ 331.3					
+B: Then you had to go up and get &Jack and everything after (( )) [distortion] 	you=A		332.1	A had to go up to Connecticut and get Jack	 → 334 CT-	 → 334 CT-	 → 334 RT	 → 334 PS			CT+ 332.1					
+			332.2	A got Jack from Connecticut	 → 334 CT-	 → 334 CT-	 → 334 RT	 → 334 PS			CT+ 332.2					
+A: oh yeah it’s it’s &New &York still but.  			333	A had to get Jack from a place that is still New York and not Connecticut 						CT+ 333	CT+ 333	JA 333	JA 333			
+B: {lipsmack} oh.  			334	 					oh.  = B indicates that now the confusion about Connecticut and New York is gone	"CT- 330.2,CT- 330.3,CT- 331.3,CT- 332.1,CT- 332.2"	"CT- 330.2,CT- 330.3,CT- 331.3,CT- 332.1,CT- 332.2"	"RT 330.2,RT 330.3,RT 331.3,RT 332.1,RT 332.2"	"RT 330.2,RT 330.3,RT 331.3,RT 332.1,RT 332.2"			
+A: %um yeah we got up. We got &Jack. We went to the lawyer our lawyer who’s been 	"we=A and Robert,We=A and Robert,our=A and Robert's"		335.1	A and Robert got  up to New York						CT+ 335.1	CT+ 335.1	JA 335.1	JA 335.1			
+			335.2	A and Robert got Jack						CT+ 335.2	CT+ 335.2	JA 335.2	JA 335.2			
+			335.3	"A and Robert went to the laywer, A and Robert's lawyer"						CT+ 335.3	CT+ 335.3	JA 335.3	JA 335.3			
+B: mhm.  			336						mhm.  = interjection							
+A: Absolutely fantastic start to finish.  I think she’s great.  	"I=A,she=A and Robert's lawyer"		337.1	A and Robert's lawyer has been absolutely fantastic start to finish						CT+ 337.1	CT+ 337.1	JA 337.1	JA 337.1			
+			337.2	A thinks that A and Robert's lawyer is great						CT+ 337.2	CT+ 337.2	JA 337.2	JA 337.2			
+			337.3	A and Robert's lawyer is great						CT+ 337.3	CT+ 337.3	JA 337.3	JA 337.3	LI	CT+ even though embedded under 'I think'	
+B: mhm.  mhm.  			338						mhm.  mhm.  = B acknowledges 337.3							
+A: %um {lipsmack} and then came home and that’s when yeah then &Robert’s mom crashed the car {laugh}.  			339.1	A and Robert came home after picking up Jack from New York						CT+ 339.1	CT+ 339.1	JA 339.1	JA 339.1			
+			339.2	When A and Robert came back home from picking up Jack in New York Robert's mom crushed the car						CT+ 339.2	CT+ 339.2	JA 339.2	JA 339.2			
+			339.3	Robert's mom crushed the car						CT+ 339.3	CT+ 339.3	JA 339.3	JA 339.3			
+B: oh I see it was after that that she did that.  	that=crush the car		340						I see = B expresses understanding about the 339.2							
+A: So 			341													
+A: yeah actually we had to do that at like eight o’clock the next morning because &Martha was leaving by nine.  	"we=A and Robert,that=deal with the crashed car"		342.1	A and Robert had to deal with the crashed car at like eight o'clock the next morning because Martha was leaving by nine						CT+ 342.1	CT+ 342.1	JA 342.1	JA 342.1			
+			342.2	A and Robert had to deal with the crashed car at like eight o'clock the next morning						CT+ 342.2	CT+ 342.2	JA 342.2	JA 342.2			
+			342.3	Martha was leaving by nine						CT+ 342.3	CT+ 342.3	JA 342.3	JA 342.3			
+B: So mom and dad were down there for how long? 	"there=A and Rabert's home,mom=A and B's mom and dad"		343.1	B asks A how long A and B's mom and dad were at A and Robert's home						CT+ 343.1	CT+ 343.1	JA 343.1	JA 343.1			
+			343.2	A and B's mom and dad were at A and Robert's home						CT+ 343.2	CT+ 343.2	IN 343.2	IN 343.2	LI	embedded under 'for how long' -- presupposed event	
+A: They came Saturday and stayed Saturday night and Sunday and left Monday 	They=A and B's mom and dad		344.1	A and B's mom and dad came Saturday 						CT+ 344.1	CT+ 344.1	JA 344.1	JA 344.1			
+			344.2	A and B's mom and dad stayed Saturday night						CT+ 344.2	CT+ 344.2	JA 344.2	JA 344.2			
+			344.3	A and B's mom and dad left Monday						CT+ 344.3	CT+ 344.3	JA 344.3	JA 344.3			
+B: uh-huh.  This past Monday like 			345	A and B's mom and dad left this past Monday					uh-huh.  = B expresses understanding of 344	CT+ 345	CT+ 345	JA 345	JA 345			

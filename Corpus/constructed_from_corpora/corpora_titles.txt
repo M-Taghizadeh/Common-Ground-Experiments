@@ -1,0 +1,33 @@
+[Event]
+- event_extraction_3to1 
+- event_extraction_3to1_2previous 
+- event_extraction_3to1_4previous
+- event_extraction_3to1_speaker_based
+
+
+
+
+[Belief]
+- cg_3to1_1previous_event_selection
+- cg_3to1_2previous_event_selection
+- cg_3to1_3previous_event_selection
+- cg_3to1_4previous_event_selection
+- cg_3to1_2previous_2next_event_selection
+- cg_3to1_previous_speaker_base_event_selection
+
+>> Augmentation
+- cg_3to1_2previous_event_selection_aug
+- cg_3to1_2previous_event_selection_aug_french
+- cg_3to1_2previous_event_selection_aug_french_german
+- cg_3to1_previous_speaker_base_event_selection_aug
+- cg_3to1_previous_speaker_base_event_selection_aug_french
+- cg_3to1_previous_speaker_base_event_selection_aug_french_german
+
+>> Context: Utterance Slection
+- cg_3to1_2previous_utterance_selection
+- cg_3to1_previous_speaker_base_utterance_selection
+
+
+
+
+

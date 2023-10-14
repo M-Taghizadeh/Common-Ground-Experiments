@@ -1,0 +1,390 @@
+Sentence	Entity	Entity(JA)	Eno.	Event	Bel(A)R	Bel(B)R	CG(A)R	CG(B)R	Pragmatics	Bel(A)	Bel(B)	CG(A)	CG(B)	Why(CG)	Why in prose	Comment
+B: %um I took them to %uh &Jill’s and they spent two days there and I guess she couldn’t take them and their mom and dad came.  			1.1	B took the kids to Jill's						CT+ 1.1	CT+ 1.1	JA 1.1	JA 1.1			
+			1.2	The kids spent two days at Jill's						CT+ 1.2	CT+ 1.2	JA 1.2	JA 1.2			
+			1.3	B guesses Jill couldn't take the kids						CT+ 1.3	CT+ 1.3	JA 1.3	JA 1.3			
+			1.4	Jill couldn't take the kids						PS 1.4	PS 1.4	JA 1.4	JA 1.4			
+			1.5	The kid's mom and dad came						CT+ 1.5	CT+ 1.5	JA 1.5	JA 1.5			
+A: You mean at te- in &Texas? 			2.1	A asks B if B took the kids to Texas						CT+ 2.1	CT+ 2.1	JA 2.1	JA 2.1			
+			2.2	B took the kids to Texas	 → 3 CT+		 → 3 JA	 → 3 CT+		PS 2.2	CT+ 2.2	JA 2.2	JA 2.2			
+B: yeah.  			3							CT+ 2.2		JA 2.2	JA 2.2			
+B: And their mom and dad drove down there and got them.  			4.1	The kids' mom and dad drove down to Texas						CT+ 4.1	CT+ 4.1	JA 4.1	JA 4.1			
+			4.2	The kids' mom and dad got the kids from Texas						CT+ 4.2	CT+ 4.2	JA 4.2	JA 4.2			
+A: mhm [distorted] 			5													
+A: Got them.  			6						repetition							
+B: yeah.  			7													
+A: So how are they getting back? Driving them 			8.1	A asks B how are the kids getting back						CT+ 8.1	CT+ 8.1	JA 8.1	JA 8.1			
+			8.2	The kids are getting back						CT+ 8.2	CT+ 8.2	IN 8.2	IN 8.2			
+B: t- driving them back.  			9	The kid's mom and dad are driving the kids back						CT+ 9	CT+ 9	JA 9	JA 9			
+A: oh.  			10													
+A: Darn it. I thought I was going to get to see everybody.  			11.1	A thought B was going to get to see everybody						CT+ 11.1	CT+ 11.1	JA 11.1	JA 11.1			
+			11.2	B was going to get to see everybody						PS 11.2	PS 11.2					
+			11.3	B got to see everybody						CT- 11.3	CT- 11.3	RT 11.3	RT 11.3			
+B: Well they was w- 			12						unfinished utterance							
+B: They was supposed to do no %um 			13						unfinished utterance							
+B: come back like a while ago but &Jill like she keeps farting around and won’t want to go get them and 			14.1	The kids were supposed to come back a while ago but Jill keeps farting around and won't want to get the kids						CT+ 14.1	CT+ 14.1	JA 14.1	JA 14.1			
+			14.2	The kids were supposed to come back a while ago						CT+ 14.2	CT+ 14.2	JA 14.2	JA 14.2			
+			14.3	Jill kept farting around						CT+ 14.3	CT+ 14.3	JA 14.3	JA 14.3			
+			14.4	Jill wouldn't want to get the kids						CT+ 14.4	CT+ 14.4	JA 14.4	JA 14.4			
+			14.5	Jill got the kids						CT- 14.5	CT- 14.5	RT 14.5	RT 14.5			
+A: %mm. [channel noise] 			15													
+B: So I said and then she j- 			16						unfinished utterance							
+A: Did she have her baby yet? 			17.1	A asks B if Jill had her baby yet						CT+ 17.1	CT+ 17.1	JA 17.1	JA 17.1			
+			17.2	Jill had her baby yet	 → 18 CT+		 → 18 JA	 → 18 CT+		NB 17.2	CT+ 17.2					
+B: yeah. She had a girl.  			18	Jill had a girl						"CT+ 17.2,CT+ 18"	CT+ 18	"JA 17.2,JA 18"	"JA 17.2,JA 18"			
+A: %mm.  			19													
+B: Six pounds or something like that. I don’t know.  			20.1	Jill's baby weighed six pounds or something like that	 → 20.2 PS	 → 20.2 PS	 → 20.2 JA	 → 20.2 CT+		CT+ 20.1	CT+ 20.1	JA 20.1	JA 20.1			
+			20.2	B doesn't know if Jill's baby weighed six pounds 						"CT+ 20.2,PS 20.1"	"CT+ 20.2,PS 20.1"	"JA 20.2,JA 20.1"	"JA 20.2,JA 20.1"			
+B: hey ain’t my concern.  			21	Whether Jill's baby weighed six pounds ain't B's concern						CT+ 21	CT+ 21	JA 21	JA 21			
+A: Good. Good for you.  			22	It's good for B that Jill's  baby weight is not B's concern						CT+ 22	CT+ 22	JA 22	JA 22			
+A: So you’ve been leading the life of &Reilly %huh? 			23.1	A asks B if B has been leading the llife of Reily						CT+ 23.1	CT+ 23.1	JA 23.1	JA 23.1			
+			23.2	B has been leading the llife of Reily	 → 24.1 CT-		 → 24.1 RT	 → 24.1 PS		PS 23.2	CT- 23.2					
+B: No. Not really. Just I haven’t been home much this summer and w- 			24.1	B has not been leading the llife of Reily						"CT- 23.2,CT+ 24.1"	CT+ 24.1	"RT 23.2,JA 24.1"	"RT 23.2,JA 24.1"			
+			24.2	Just B hasn't been home much this summer						CT+ 24.2	CT+ 24.2	JA 24.2	JA 24.2			
+A: And busier than hell %huh? 			25.1	A asks B if B was busier than hell this summer						CT+ 25.1	CT+ 25.1	JA 25.1	JA 25.1			
+			25.2	B was busier than hell this summer						PS 25.2						
+B: %hm? 			26						B did not understand 25.2							
+A: Then good then.  			27													
+A: Give you a nice break.  			28.1	Not being home much this summer gave B a nice break						CT+ 28.1	CT+ 28.1	JA 28.1	JA 28.1			
+			28.2	B had a nice break this summer	 → 29.1 CT-		 → 29.1 RT			CT+ 28.2	CT- 28.2	IN 28.2	RT 28.2			
+B: Well no. I missed the hell out of them.  			29.1	B didn't have a nice break this summer						"CT+ 29.1,CT- 28.2"	CT+ 29.1	"JA 29.1,RT 28.2"	JA 29.1			
+			29.2	B missed the hell out of the kids	 → 34 CT+		 → 34 JA	 → 34 CT+		PS 29.2	CT+ 29.2	JA 29.2	JA 29.2			
+A: Do you? {laugh} 			30	A asks B if B missed the hell out of the kids						CT+ 30	CT+ 30	JA 30	JA 30			
+B: I was ready to 			31						unfinished utterance							
+A: That’s good.  			32													
+B: I was ready that’s a 			33						unfinished utterance							
+A: Go get them.  			34	B was ready to go get the kids						"CT+ 29.2,CT+ 34"	CT+ 34	"JA 29.2,JA 34"	"JA 29.2,JA 34"			
+B: yeah. I was w- 			35						unfinished utterance							
+B: It’s just that %uh 			36						unfinished utterance							
+B: You know I was gone 			37.1	A knows B was gone						CT+ 37.1	CT+ 37.1	JA 37.1	JA 37.1			
+			37.2	B was gone						CT+ 37.2	CT+ 37.2	IN 37.2	IN 37.2			
+A: What kind of car do you have? 			38.1	A asks B what kind of car B has		 → 40 CT+	 → 40 JA	 → 40 CT+		CT+ 38.1	38.1	38.1				
+			38.2	B has a car		 → 40 CT+		 → 40 CT-		CT+ 38.2		IN 38.2				
+B: %huh? 			39													
+A: What kind of car do you have now? 			40	 							"CT+ 38.1,CT+ 38.2"	JA 38.1	"JA 38.1,IN 38.2"			
+B: Same car.  			41	B has the same car	 → 42.1 PS		 → 42.1 JA	 → 42.1 CT+		CT+ 41	CT+ 41	JA 41	JA 41			
+A: oh. really? You got that thing repaired? 			42.1	A asks B if B really has the same car						"CT+ 42.1,PS 41"	CT+ 42.1	"JA 42.1,JA 41"	"JA 42.1,JA 41"			
+			42.2	A asks B if B got B's car repaired						CT+ 42.2	CT+ 42.2	JA 42.2	JA 42.2			
+			42.3	B got B's car repaired	 → 43 CT+		 → 43 JA	 → 43 CT+		PS 42.3	CT+ 42.3	JA 42.3	JA 42.3			
+B: yeah.  			43							CT+ 42.3		JA 42.3	JA 42.3			
+A: Really? 			44	A asks B if B really got B's car repaired												
+B: uh-huh.  			45													
+A: %huh 			46													
+A: Well  			47													
+A: anyway 			48													
+A: %um 			49													
+A: What else is going on? You’re busy with work and 			50.1	A asks B what else is going on						CT+ 50.1	CT+ 50.1	JA 50.1	JA 50.1			
+			50.2	Something else is going on						CT+ 50.2	CT+ 50.2	IN 50.2	IN 50.2			
+			50.3	B is busy with work						CT+ 50.3	CT+ 50.3	JA 50.3	JA 50.3			
+B: yeah. I work ten at night to six in the morning. &Bo &Bo’s happy because %uh he don’t have to go back to day care.  			51.1	B works ten at night to six in the morning						CT+ 51.1	CT+ 51.1	JA 51.1	JA 51.1			
+			51.2	Bo's happy because Bo doesn't have to go back to day care						CT+ 51.2	CT+ 51.2	JA 51.2	JA 51.2			
+			51.3	Bo's happy						CT+ 51.3	CT+ 51.3	JA 51.3	JA 51.3			
+			51.4	Bo doesn't have to go back to day care						CT+ 51.4	CT+ 51.4	JA 51.4	JA 51.4			
+A: Right. When do you sleep then? 			52.1	A asks B when B sleeps then						CT+ 52.1	CT+ 52.1	JA 52.1	JA 52.1			
+			52.2	B sleeps						CT+ 52.2	CT+ 52.2	IN 52.2	IN 52.2			
+B: I p- I sleep probably a couple hours in the morning and then like at nap time.  			53.1	B sleeps probably a couple hours in the morning						CT+ 53.1	CT+ 53.1	JA 53.1	JA 53.1			
+			53.2	Then B sleeps probably like at nap time						CT+ 53.2	CT+ 53.2	JA 53.2	JA 53.2			
+A: yeah. You never did require much sleep.  			54	B never required much sleep						CT+ 54	CT+ 54	JA 54	JA 54			
+B: No.  			55													
+A: yeah.  			56													
+"A: {breath} So has, has %uh the old man and the old lady called you lately? "			57.1	A asks B if the old man and the old lady called B lately						CT+ 57.1	CT+ 57.1	JA 57.1	JA 57.1			
+			57.2	The old man and the old lady called B lately	 → 58 CT-		 → 58 RT	 → 58 PS		NB 57.2	CT- 57.2					
+B: No.  			58	The old man and the old lady didn't call B lately						"CT- 57.2,CT+ 58"	CT+ 58	"RT 57.2,JA 58"	"RT 57.2,JA 58"			
+A: oh.  			59													
+B: Ain’t worried about it.  			60	B ain't worried about the old man and the old lady not calling B						CT+ 60	CT+ 60	JA 60	JA 60			
+A: {breath} You know your sister was %uh  			61						unfinished utterance							
+A: in &Illinois recently.  			62	B's sister was in Illinois recently		 → 64 CT+	 → 64 JA → 65 IN	 → 64 CT+ → 65 CT+		CT+ 62	PS 62	JA 62	JA 62			
+B: She was? 			63	B asks A if B's sister was in Illinois recently						CT+ 63	CT+ 63	JA 63	JA 63			
+A: yeah.  			64								CT+ 62	JA 62	JA 62			
+B: What for? 			65	B asks A why B's sister was in Illinois						CT+ 65	CT+ 65	"JA 65,IN 62"	"JA 65,JA 62"			
+A: Her old man kicked her out of the --  			66						unfinished sentence							
+A: -- out of her house.  			67	B's sister old man kicked B's sister out of B's sister house						CT+ 67	CT+ 67	JA 67	JA 67			
+B: yeah. Well &Jill’s been getting the shit beat out of her and all that at 			68	Jill has been getting the shit beat out of Jill			 → 70 JA	 → 70 CT+		PS 68	CT+ 68	JA 68	JA 68			
+A: You’re kidding.  			69							69	69					
+B: No.  			70							CT+ 70		JA 68	JA 68			
+A: Well don’t get sucked into that.  			71	A advices B not to get sucked into Jill's problems						CT+ 71	CT+ 71	JA 71	JA 71			
+B: oh I’m not.  			72	B won't get sucked into Jill's problems						CT+ 72	CT+ 72	JA 72	JA 72			
+A: {breath} 			73													
+B: Her baby’s got colic and she ((did funny)).  			74	Jill's baby got colic						CT+ 74	CT+ 74	JA 74	JA 74			
+A: oh. Sounds like a real mess.  			75	Jill's situation sounds like a real mess						CT+ 75	CT+ 75	JA 75	JA 75			
+A: Too bad.  			76													
+B: So is she home for good? 			77.1	B asks A if Kara is home for good						CT+ 77.1	CT+ 77.1	JA 77.1	JA 77.1			
+			77.2	Kara is home for good		 → 78 CT-	 → 78 RT	 → 78 PS		CT- 77.2	NB 77.2					
+A: No.  			78	Kara isn't home for good						CT+ 78	"CT- 77.2,CT+ 78"	"RT 77.2,JA 78"	"RT 77.2,JA 78"			
+B: He took her back? 			79.1	B asks A if the old man took Kara back						CT+ 79.1	CT+ 79.1	JA 79.1	JA 79.1			
+			79.2	The old man took Kara back		 → 80 CT-	 → 80 RT	 → 80 PS		CT- 79.2	PS 79.2					
+A: No. He didn’t take her back but his %uh mom was going to buy her a car -- 			80	 					unfinished utterance		CT- 79.2	RT 79.2	RT 79.2			
+A: -- so that she’d stay out there and sure enough she’s staying out there.  			81.1	The old man didn't take Kara back but the old man's mom was going to buy Kara a car so that Kara would stay out there						CT+ 81.1	CT+ 81.1	JA 81.1	JA 81.1			
+			81.2	The old man didn't take Kara back						CT+ 81.2	CT+ 81.2	JA 81.2	JA 81.2			
+			81.3	The old man's mom was going to buy Kara a car						CT+ 81.3	CT+ 81.3	JA 81.3	JA 81.3			
+			81.4	The old man's mom bought Kara a car						CT- 81.4	CT- 81.4	RT 81.4	RT 81.4			
+			81.5	Kara would stay out there						CT+ 81.5	CT+ 81.5	JA 81.5	JA 81.5			
+			81.6	Kara is staying out there						CT+ 81.6	CT+ 81.6	JA 81.6	JA 81.6			
+B: oh yeah. She working it.  			82	Kara is working Kara's situation												
+A: %huh? 			83													
+B: She working it.  			84													
+A: So anyway she called me a couple days before she was going to come home and [dishes clinking] {lipsmack} and I go %um {breath}  			85.1	Kara called A a couple of days ago before Kara was going to come home						CT+ 85.1	CT+ 85.1	JA 85.1	JA 85.1			
+			85.2	Kara called A a couple of days ago						CT+ 85.2	CT+ 85.2	JA 85.2	JA 85.2			
+			85.3	Kara was going to come home						CT+ 85.3	CT+ 85.3	JA 85.3	JA 85.3			
+A: {breath} can you tell me why you would stay in a place where you know 			86													
+A: you’re not wanted 			87.1	A asked Kara why Kara would stay in a place where Kara is not wanted						CT+ 87.1	CT+ 87.1	JA 87.1	JA 87.1			
+			87.2	Kara would stay in a place where Jill is not wanted						CT+ 87.2	CT+ 87.2	IN 87.2	IN 87.2			
+			87.3	Kara is not wanted in the old man's place						CT+ 87.3	CT+ 87.3	IN 87.3	IN 87.3			
+A: in a state you know that where you don’t know hardly anybody.  			88.1	A asked Kara why Kara would stay in a state where Kara hardly knows anybody						CT+ 88.1	CT+ 88.1	JA 88.1	JA 88.1			
+			88.2	Kara would stay in a state where Kara hardly knows anybody						CT+ 88.2	CT+ 88.2	IN 88.2	IN 88.2			
+			88.3	Kara hardly knows anybody						CT+ 88.3	CT+ 88.3	IN 88.3	IN 88.3			
+"A: {breath} So then it that’s when it all came out. She said well &Pat I think her name’s &Patty, &Patty’s going to buy me a car. [[last seven words spoken in imitation of Kara’s voice]] "			89.1	That's when Kara's problems came out						CT+ 89.1	CT+ 89.1	JA 89.1	JA 89.1			
+			89.2	B thinks that the old man's mom is called Patty						CT+ 89.2	CT+ 89.2	JA 89.2	JA 89.2			
+			89.3	The old man's mom is called Patty						PS 89.3	PS 89.3	JA 89.3	JA 89.3			
+			89.4	Kara said that Patty was going to but Kara a car						CT+ 89.4	CT+ 89.4	IN 89.4	IN 89.4			
+			89.5	Patty was going to but Kara a car						PS 89.5	PS 89.5	IN 89.5	IN 89.5			
+A: She’s going to help me out. [[still in imitation]] I said 			90.1	Kara said that Patty was going to help Kara out						CT+ 90.1	CT+ 90.1	JA 90.1	JA 90.1			
+			90.2	Patty was going to help Kara out						PS 90.2	PS 90.2	JA 90.2	JA 90.2			
+A: &Kara you know why she’s going to do that is because she wants  			91	 					unfinished utterance							
+A: the kid to stay there so she can see your grandson.  			92.1	A told Kara that Patty is going to buy Kara a car because Patty wants the kid to stay there so Patty can see Patty's grandson						CT+ 92.1	CT+ 92.1	JA 92.1	JA 92.1			
+			92.2	Patty is going to buy Kara a car because Patty wants the kid to stay there so Patty can see Patty's grandson						CT+ 92.2	CT+ 92.2	JA 92.2	JA 92.2			
+			92.3	Patty is going to buy Kara a car						PS 92.3	PS 92.3	JA 92.3	JA 92.3			
+			92.4	Patty wants the kid to stay there so Patty can see Patty's grandson						CT+ 92.4	CT+ 92.4	JA 92.4	JA 92.4			
+			92.5	Patty wants the kid to stay there						CT+ 92.5	CT+ 92.5	JA 92.5	JA 92.5			
+			92.6	Patty can see Patty's grandson						CT+ 92.6	CT+ 92.6	JA 92.6	JA 92.6			
+B: mhm.  			93													
+A: so she got all pissed off at me.  			94	Kara got all pissed off at A						CT+ 94	CT+ 94	JA 94	JA 94			
+A: I said you’re being used.  			95.1	A told Kara that Kara is being used						CT+ 95.1	CT+ 95.1	JA 95.1	JA 95.1			
+			95.2	Kara is being used						CT+ 95.2	CT+ 95.2	JA 95.2	JA 95.2			
+A: You’re being bought. {breath} [dishes clanging] 			96.1	A told Kara that Kara is being bought						CT+ 96.1	CT+ 96.1	JA 96.1	JA 96.1			
+			96.2	Kara is being bought						CT+ 96.2	CT+ 96.2	JA 96.2	JA 96.2			
+B: Man she going to be like &Jill become  			97	Kara is going to be like Jill						CT+ 97	CT+ 97	JA 97	JA 97			
+A: I said why don’t you 			98						unfinished utterance							
+A: so I said why don’t you stand up on your own two feet.  			99.1	A asked Kara why Kara doesn't stand up on Kara's own two feet						CT+ 99.1	CT+ 99.1	JA 99.1	JA 99.1			
+			99.2	Kara doesn't stand up on Kara's own two feet						CT+ 99.2	CT+ 99.2	IN 99.2	IN 99.2			
+B: She going to be like &Jill and become a product of the state and shit live off welfare and ((god damn)).  			100.1	Kara is going to become a product of the state						CT+ 100.1	CT+ 100.1	JA 100.1	JA 100.1			
+			100.2	Kara is going to live off welfare						CT+ 100.2	CT+ 100.2	JA 100.2	JA 100.2			
+A: Then you know what she said to me? 			101.1	A asks B if B knows what Kara said to A						CT+ 101.1	CT+ 101.1	JA 101.1	JA 101.1			
+			101.2	B knows what Kara said to A						CT- 101.2	CT- 101.2	RT 101.2	RT 101.2			
+			101.3	Kara said something to A						CT+ 101.3	CT+ 101.3	IN 101.3	IN 101.3			
+B: What.  			102	B asks A what Kara said to A						CT+ 102	CT+ 102	JA 102	JA 102			
+A: [channel noise] She said 			103													
+"A: {lipsmack} {breath} &uh, and this sounded just like something like %uh her mother-in-law or w- I don’t know th- what the hell relationsh- it wouldn’t be mother-in-law.  "			104	What Kara said to A sounded like Kara's mother-in-law						CT+ 104	CT+ 104	JA 104	JA 104			
+A: [background clink] What %uh &Drew’s mom 			105													
+A: probably is saying to her. {breath} &Kara says well I have to do what’s right for &David. [[imitating Kara in last nine words]] 			106.1	What Kara said to A sounded like what Drew's mom is probably saying to Kara						CT+ 106.1	CT+ 106.1	JA 106.1	JA 106.1			
+			106.2	Drew's mom is probably saying someting to Kara						CT+ 106.2	CT+ 106.2	IN 106.2	IN 106.2			
+			106.3	Kara's mother-in-law is Drew's mother						CT+ 106.3	CT+ 106.3	JA 106.3	JA 106.3			
+			106.4	Kara says Kara has to to what's right for David						CT+ 106.4	CT+ 106.4	JA 106.4	JA 106.4			
+			106.5	Kara has to to what's right for David	 → 108.2 CT-	 → 108.2 CT-	 → 108.2 RT	 → 108.2 PS		CT+ 106.5	CT+ 106.5	JA 106.5	JA 106.5			
+B: ((oh)) [distorted] 			107													
+A: And I said no &Kara you have to do what’s right for &Kara. 			108.1	A said that Kara doesn't have to do what's right for David						CT+ 108.1	CT+ 108.1	JA 108.1	JA 108.1			
+			108.2	Kara doesn't have to do what's right for David						"CT+ 108.2,CT- 106.5"	"CT+ 108.2,CT- 106.5"	"JA 108.2,RT 106.5"	"JA 108.2,RT 106.5"			
+			108.3	A said that Kara has to do what's right for Kara						CT+ 108.3	CT+ 108.3	JA 108.3	JA 108.3			
+			108.4	Kara has to do what's right for Kara						CT+ 108.4	CT+ 108.4	JA 108.4	JA 108.4			
+A: And what’s right for &Kara will be right for &David.  			109	And what's right for Kara will be right for David						CT+ 109	CT+ 109	JA 109	JA 109			
+"B: That’s right. As long as you feed him, love him and take care of him.  "			110.1	"As long as Kara feeds David, love David and take care of David, David will be good"						CT+ 110.1	CT+ 110.1	JA 110.1	JA 110.1			
+			110.2	Kara feeds David						CT+ 110.2	CT+ 110.2	JA 110.2	JA 110.2			
+			110.3	Kara loves David						CT+ 110.3	CT+ 110.3	JA 110.3	JA 110.3			
+			110.4	Kara takes care of David						CT+ 110.4	CT+ 110.4	JA 110.4	JA 110.4			
+			110.5	David will be good						CT+ 110.5	CT+ 110.5	JA 110.5	JA 110.5			
+A: oh well I don’t want him to not know his daddy. [[imitating Kara]] 			111.1	Kara said that Kara doesn't want David not to know David's daddy						CT+ 111.1	CT+ 111.1	JA 111.1	JA 111.1			
+			111.2	Kara doesn't want David not to know David's daddy			 → 113 IN	 → 113 CT-		CT+ 111.2	CT+ 111.2	JA 111.2	JA 111.2			
+			111.3	David doesn't know David's daddy						CT- 111.3	CT- 111.3	RT 111.3	RT 111.3			
+			111.4	David knows David's daddy						CT+ 111.4	CT+ 111.4	JA 111.4	JA 111.4			
+A: I’m like 			112													
+A: {breath} Why? 			113	A asked Kara why Kara doesn't want David not to know David's daddy						CT+ 113	CT+ 113	"JA 113,IN 111.2"	"JA 113,IN 111.2"			
+"A: I wouldn’t I w-, I you know what I could never be with someone who didn’t love me.  "			114.1	A could never be with someone who didn't love A						CT+ 114.1	CT+ 114.1	JA 114.1	JA 114.1			
+			114.2	Someone didn't love A						CT- 114.2	CT- 114.2	RT 114.2	RT 114.2			
+A: Could you? 			115.1	A asks B if B could be with anyone who didn't love B						CT+ 115.1	CT+ 115.1	JA 115.1	JA 115.1			
+			115.2	B could never be with someone who didn't love B		 → 116 CT+	 → 116 JA	 → 116 CT+		NB 115.2						
+			115.3	Someone didn't love B						CT- 115.3	CT- 115.3	RT 115.3	RT 115.3			
+B: Hell no.  			116								CT+ 115.2	JA 115.2	JA 115.2			
+A: I don’t get that.  			117.1	A doesn't get why someone could be with someone who didn't love someone						CT+ 117.1	CT+ 117.1	JA 117.1	JA 117.1			
+			117.2	Someone could be with someone who didn't love someone						PS 117.2	PS 117.2	JA 117.2	JA 117.2			
+			117.3	Someone didn't love someone						CT- 117.3	CT- 117.3	RT 117.3	RT 117.3			
+A: I don’t get that. Anyway so I spouted my mouth off  			118	A spouted A's mouth off						CT+ 118	CT+ 118	JA 118	JA 118			
+A: {breath} Well I 			119						unfinished utterance							
+B: Good for you.  			120	A spouting A's mouth off is good for A						CT+ 120	CT+ 120	JA 120	JA 120			
+A: I have to tell you the week before I met  			121						unfinished sentence							
+A: %uh  			122													
+A: the %uh [[quietly groaning]] sergeant and lieutenant at the %uh &Des &Moines &McDonald’s 			123.1	A has to tell B that A met sergeant and lieutenant at the Des Moines McDonald's						CT+ 123.1	CT+ 123.1	JA 123.1	JA 123.1			
+			123.2	A tells B A met sergeant and lieutenant at the Des Moines McDonald's						CT+ 123.2	CT+ 123.2	JA 123.2	JA 123.2			
+			123.3	A met sergeant and lieutenant at the Des Moines McDonald's						CT+ 123.3	CT+ 123.3	JA 123.3	JA 123.3			
+A: because they were dropping off &Shawn.  			124.1	A met sergeant and lieutenant at the Des Moines McDonald's because sergeant and lieutenant were dropping Shawn off						CT+ 124.1	CT+ 124.1	JA 124.1	JA 124.1			
+			124.2	Sergeant and lieutenant were dropping Shawn off						CT+ 124.2	CT+ 124.2	JA 124.2	JA 124.2			
+B: Sergeant and lieutenant? 			125	B asks A who are sergeant and lieutenant						CT+ 125	CT+ 125	JA 125	JA 125			
+A: &Jennings.  			126	Sergeant and lieutenant are sergeant and lieutenant Jennings		 → 129.2 CT+	 → 129.2 JA	 → 129.2 CT+		CT+ 126	NB 126					
+B: %huh? 			127													
+A: Sergeant and lieutenant &Jennings.  			128													
+B: You talking about mom and dad? {laugh} 			129.1	B asks A if sergeant and lieutenant Jennings are A and B's mom and dad						CT+ 129.1	CT+ 129.1	JA 129.1	JA 129.1			
+			129.2	Sergeant and lieutenant Jennings are A and B's mom and dad		 → 130 CT+	 → 130 JA	 → 130 CT+		CT+ 129.2	"CT+ 126,PS 129.2"	"JA 126,JA 129.2"	"JA 126,JA 129.2"			
+A: yeah.  			130								CT+ 129.2	JA 129.2	JA 129.2			
+A: %eh here’s why I call them that.  			131	A calls A and B's mom and dad sergeant and lieutenant because of some reason						CT+ 131	CT+ 131	JA 131	JA 131			
+"A: So we’re sitting there in &McDonald’s p- and I’m they had &Shawn for a week {breath} and %uh we’re visiting and, and %uh {breath} they start in on me right away.  "			132.1	A and A and B's mom and dad were sitting in McDonald's						CT+ 132.1	CT+ 132.1	JA 132.1	JA 132.1			
+			132.2	A and B's mom and dad had Shawn for a week						CT+ 132.2	CT+ 132.2	JA 132.2	JA 132.2			
+			132.3	A and someone were visiting						CT+ 132.3	CT+ 132.3	JA 132.3	JA 132.3			
+			132.4	A and B's mom and dad start in on A right away						CT+ 132.4	CT+ 132.4	JA 132.4	JA 132.4			
+A: And you keep your mouth shut and you don’t say this and you don’t say that and don’t say this and don’t say that. [[adopting the voice of an admonishing parent for mocking effect]] {breath} It was the whole time was %uh was nothing but a big fucking lecture.  			133.1	A and B's mom and dad told A to keep A's mouth shut						CT+ 133.1	CT+ 133.1	JA 133.1	JA 133.1			
+			133.2	A keeps A's mouth shut						PS 133.2	PS 133.2	JA 133.2	JA 133.2			
+			133.3	A and B's mom and dad told A not to say this and that						CT+ 133.3	CT+ 133.3	JA 133.3	JA 133.3			
+			133.4	A says this and that						PS 133.4	PS 133.4	JA 133.4	JA 133.4			
+			133.5	The whole fucking time A and B's mom and dad were lecturing A						CT+ 133.5	CT+ 133.5	JA 133.5	JA 133.5			
+B: {laugh} You say oh I’ve got to go.  			134.1	A said A has got to go					joke	CT- 134.1	CT- 134.1	RT 134.1	RT 134.1			
+			134.2	A had got to go					joke	CT- 134.2	CT- 134.2	RT 134.2	RT 134.2			
+"A: So I think, I think I did that on purpose.  "			135.1	A thinks A called A and B's mom and dad sergeant and lieutenant because A and B's mom and dad kept lecturing A						CT+ 135.1	CT+ 135.1	JA 135.1	JA 135.1			
+			135.2	A called A and B's mom and dad sergeant and lieutenant because A and B's mom and dad kept lecturing A						CT+ 135.2	CT+ 135.2	JA 135.2	JA 135.2			
+			135.3	A called A and B's mom and dad sergeant and lieutenant						CT+ 135.3	CT+ 135.3	IN 135.3	IN 135.3			
+			135.4	A and B's mom and dad kept lecturing A						CT+ 135.4	CT+ 135.4	IN 135.4	IN 135.4			
+B: Good for you.  			136	It's good for A to call A and B's mom and dad sergeant and lieutenant						CT+ 136	CT+ 136	JA 136	JA 136			
+A: {breath} Well then the following weekend was father’s day.  			137	Then the following weekend was father's day						CT+ 137	CT+ 137	JA 137	JA 137			
+A: And %uh we were supposed to all meet in &Des M- 			138.1	A and A and B's mom and dad were supposed to all meet in Des Moines						CT+ 138.1	CT+ 138.1	JA 138.1	JA 138.1			
+			138.2	A and A and B's mom and dad met in Des Moines						CT+ 138.2	CT+ 138.2	JA 138.2	JA 138.2			
+A: oh that was to drop &Shawn off. okay. yeah.  {breath} And then we’re going to meet and pick &Shawn up and see &Kara and &David. I’ve never seen that kid.  			139.1	A and A and B's mom and dad were supposed to all meet in Des Moines to drop Shawn off						CT+ 139.1	CT+ 139.1	JA 139.1	JA 139.1			
+			139.2	A and B's mom and dad were supposed to drop off Shawn						CT+ 139.2	CT+ 139.2	JA 139.2	JA 139.2			
+			139.3	A and A and B's mom and dad dropped Shawn off						CT+ 139.3	CT+ 139.3	JA 139.3	JA 139.3			
+			139.4	A and A and B's mom and dad were going to see Kara and David						CT+ 139.4	CT+ 139.4	JA 139.4	JA 139.4			
+			139.5	A and A and B's mom and dad saw Kara and David						CT- 139.5	PS 139.5	RT 139.5	RT 139.5			
+			139.6	A has never seen David						CT+ 139.6	CT+ 139.6	JA 139.6	JA 139.6			
+"A: Have no clue what he, well you haven’t either.  "			140	B hasn't seen David either						CT+ 140	CT+ 140	JA 140	JA 140			
+B: uh-uh.  			141													
+A: So %um 			142													
+"A: we get there and there’s dad with his hands in his pocket and he meets us out at the car and, {breath} and %uh  "			143.1	A and someone got to A and B's mom and dad						CT+ 143.1	CT+ 143.1	JA 143.1	JA 143.1			
+			143.2	A and B's dad was there with A and B's dad hands in A and B's dad's pocket						CT+ 143.2	CT+ 143.2	JA 143.2	JA 143.2			
+			143.3	A and B's dad met A and someone at the car						CT+ 143.3	CT+ 143.3	JA 143.3	JA 143.3			
+A: %um mom was sitting on the bench for once not huddling around dad. {breath} 			144.1	A and B's mom was sitting on the bench						CT+ 144.1	CT+ 144.1	JA 144.1	JA 144.1			
+			144.2	A and B's mom was not huddling around A and B's dad for once						CT+ 144.2	CT+ 144.2	JA 144.2	JA 144.2			
+B: {laugh} 			145													
+A: And %um I said where’s &Kara. {breath} He said well she didn’t come.  			146.1	A asked A and B's mom and dad where Kara is						CT+ 146.1	CT+ 146.1	JA 146.1	JA 146.1			
+			146.2	Kara was somewhere						CT+ 146.2	CT+ 146.2	IN 146.2	IN 146.2			
+			146.3	A and B's dad said Kara didn't come						CT+ 146.3	CT+ 146.3	JA 146.3	JA 146.3			
+			146.4	Kara didn't come			 → 207 IN	 → 207 CT-		CT+ 146.4	CT+ 146.4	JA 146.4	JA 146.4			
+A: {breath} And I said what.  			147						A was surprised about 146.4							
+"A: He said no she didn’t come. She %uh she didn’t like the last two conversations that she had with you. She %uh doesn’t, didn’t like what you s- you had to say to her.  "			148.1	Kara didn't like the last two conversations that Kara had with A						CT+ 148.1	CT+ 148.1	JA 148.1	JA 148.1			
+			148.2	Kara and A had two conversations						CT+ 148.2	CT+ 148.2	IN 148.2	IN 148.2			
+			148.3	Kara didn't like what A had to say to Kara			 → 207 IN	 → 207 CT-		CT+ 148.3	CT+ 148.3	JA 148.3	JA 148.3			
+			148.4	A said soemthing to Kara						CT+ 148.4	CT+ 148.4	IN 148.4	IN 148.4			
+B: So they still backing her.  			149	A and B's mom and dad are still backing Kara						CT+ 149	CT+ 149	JA 149	JA 149			
+A: And you want to know something? 			150.1	A asks B if B wants to know somehting						CT+ 150.1	CT+ 150.1	JA 150.1	JA 150.1			
+			150.2	B wants to know somehting	 → 151 CT+		 → 151 JA	 → 151 CT+		PS 150.2	CT+ 150.2	JA 150.2	JA 150.2			
+B: What? 			151							CT+ 150.2		JA 150.2	JA 150.2			
+A: They probably told her it was okay not to come. They probably said yeah [[drawn out]] we don’t like how she talks to us either. [[bitter evocation of parental diction in previous ten words]] 			152.1	A and B's mom and dad probably told Kara it was okay not to come						CT+ 152.1	CT+ 152.1	JA 152.1	JA 152.1			
+			152.2	It was okay for Kara not to come						CT- 152.2	CT- 152.2	RT 152.2	RT 152.2			
+B: {laugh} 			153													
+"A: I bet, what do you want to bet because "			154	A bets that A and B's mom and dad told Kara it was okay not to come						CT+ 154	CT+ 154	JA 154	JA 154			
+A: don’t you think they could have made her come? 			155.1	A asks B if B doesn't think A and B's mom and dad could have made Kara come						CT+ 155.1	CT+ 155.1	JA 155.1	JA 155.1			
+			155.2	B doesn't think A and B's mom and dad could have made Kara come	 → 156 CT-		 → 156 RT	 → 156 PS		PS 155.2	CT- 155.2					
+			155.3	A and B's mom and dad could have made Kara come			 → 156 JA	 → 156 CT+		CT+ 155.3	CT+ 155.3	155.3	155.3			
+			155.4	A and B's mom and dad made Kara come						CT- 155.4	CT- 155.4	RT 155.4	RT 155.4			
+B: yeah.  			156	B thinks A and B's mom and dad could have made Kara come						"CT+ 156,CT- 155.2"	CT+ 156	"JA 156,RT 155.2,JA 155.3"	"JA 156,RT 155.2,JA 155.3"			
+B: They would’ve made anybody else come.  			157.1	A and B's mom and dad would have made anybody else come						CT+ 157.1	CT+ 157.1	JA 157.1	JA 157.1			
+			157.2	A and B's mom and dad made anybody else come						CT- 157.2	CT- 157.2	RT 157.2	RT 157.2			
+A: Sure.  			158													
+A: They would’ve said get your ass in the car.  			159.1	A and B's mom and dad would have told Kara to get Kara's ass in the car						CT+ 159.1	CT+ 159.1	JA 159.1	JA 159.1			
+			159.2	A and B's mom and dad told Kara to get Kara's ass in the car						CT- 159.2	CT- 159.2	RT 159.2	RT 159.2			
+A: Whether y- 			160													
+B: Say god damn we don’t want to hear no fucking shit. Let’s go.  			161.1	A and B's mom and dad should have said A and B's mom  and dad don't want to hear no fucking shit						CT+ 161.1	CT+ 161.1	JA 161.1	JA 161.1			
+			161.2	A and B's mom and dad said A and B's mom and dad don't want to hear no fucking shit						CT- 161.2	CT- 161.2	RT 161.2	RT 161.2			
+			161.3	A and B's mom and dad don't want to hear no fucking shit						CT- 161.3	CT- 161.3	RT 161.3	RT 161.3			
+			161.4	A and B's mom and dad should have told Kara to go						CT+ 161.4	CT+ 161.4	JA 161.4	JA 161.4			
+			161.5	A and B's mom and dad told Kara to go						CT- 161.5	CT- 161.5	RT 161.5	RT 161.5			
+A: [background noise] Whether you’re thirty-six or twenty-six it don’t matter.  			162	Parents can tell children what to do whether the children are thirty-six of twenty-six						CT+ 162	CT+ 162	JA 162	JA 162			
+B: yeah.  			163													
+A: You would’ve been in that god damn car.  			164	B would have been in that god damn car						CT+ 164	CT+ 164	JA 164	JA 164			
+A: Well 			165													
+A: {breath} it was just like well we’ll show her for spouting her mouth off.  			166	A and B's mom and dad wanted to show A for spouting A's mouth						CT+ 166	CT+ 166	JA 166	JA 166			
+B: She won’t get to see the baby.  			167.1	A won't get to see the baby						CT+ 167.1	CT+ 167.1	JA 167.1	JA 167.1			
+			167.2	A saw the baby						CT- 167.2	CT- 167.2	RT 167.2	RT 167.2			
+A: yeah.  			168													
+A: Exactly. We’ll punish her.  			169	A and B's mom and dad will punish A						CT+ 169	CT+ 169	JA 169	JA 169			
+A: {breath} So then he just calls.  The old man just calls me and says 			170	A and B's dad just called						CT+ 170	CT+ 170	JA 170	JA 170			
+A: I got my messy {breath} mess- message {breath} machine and says {breath} %uh yeah we want to we want &Ryan to come out. We don’t think it’s fair that &Ryan can’t come out. {breath} [[mocking imitation of family member in last twenty one words]] 			171.1	A and B's dad had message						CT+ 171.1	CT+ 171.1	JA 171.1	JA 171.1			
+			171.2	A and B's mom and dad want Ryan to come out						CT+ 171.2	CT+ 171.2	JA 171.2	JA 171.2			
+			171.3	A and B's mom and dad don't think it's fair that Ryan can't come out						CT+ 171.3	CT+ 171.3	JA 171.3	JA 171.3			
+			171.4	It's fair that Ryan can't come out						CT+ 171.4	NB 171.4	RT 171.4	RT 171.4			
+			171.5	Ryan can't come out						NB 171.5	NB 171.5					
+"A: And %uh cause I, I, I said I’m not going to meet them in &Des &Moines.  I c-, I can’t be with them &Tad. I get I, I lose two weeks of my life every time I’m with them. Mentally I can’t take it.  "			172.1	A said that A is not going to meet A and B's mom and dad in Des Moines						CT+ 172.1	CT+ 172.1	JA 172.1	JA 172.1			
+			172.2	A is not going to meet A and B's mom and dad in Des Moines						CT+ 172.2	CT+ 172.2	JA 172.2	JA 172.2			
+			172.3	A can't be with A and B's mom and dad						CT+ 172.3	CT+ 172.3	JA 172.3	JA 172.3			
+			172.4	A looses two weeks of A's life every time A is with A and B's mom and dad						CT+ 172.4	CT+ 172.4	JA 172.4	JA 172.4			
+			172.5	A is with A and B's mom and dad						CT- 172.5	CT- 172.5	RT 172.5	RT 172.5			
+			172.6	A can't mentally take A and B's mom and dad 						CT+ 172.6	CT+ 172.6	JA 172.6	JA 172.6			
+B: Well why do you think nobody else has no -- 			173						unfinished utterance							
+"A: I, I can’t, I can’t do it anymore.  "			174	A can't spend so much time with A and B's mom and dad anymore						CT+ 174	CT+ 174	JA 174	JA 174			
+B: -- contact with them.  			175.1	B asks A why does A think nobody else contacts A and B's mom and dad						CT+ 175.1	CT+ 175.1	JA 175.1	JA 175.1			
+			175.2	Nobody else contacts A and B's mom and dad						CT+ 175.2	CT+ 175.2	IN 175.2	IN 175.2			
+"A: I, I just can’t. {breath} "			176													
+B: I mean that pissed me off the last time they were here so. 			177.1	B was pissed at A and B's mom and dad last time A and B's mom and dad visited B						CT+ 177.1	CT+ 177.1	JA 177.1	JA 177.1			
+			177.2	A and B's mom and dad visited B						CT+ 177.2	CT+ 177.2	JA 177.2	JA 177.2			
+A: But it’s never their fault.  			178	It's never A and B's mom and dad's fault						CT- 178	CT- 178	RT 178	RT 178			
+A: It’s never for anything that they’ve done.  			179.1	It's never A and B's mom and dad's fault for anything A and B's mom and dad have done						CT- 179.1	CT- 179.1	RT 179.1	RT 179.1			
+			179.2	A and B's mom and dad have done something						CT+ 179.2	CT+ 179.2	IN 179.2	IN 179.2			
+"B: I know that and I mean i- i- you get blamed, you still get blamed for shit and, and lectured about shit that happens when you’re a kid or, or, or whatever and all that I mean.  "			180.1	One gets blamed for shit						CT+ 180.1	CT+ 180.1	JA 180.1	JA 180.1			
+			180.2	One gets lectured about shit that happens when one is a kid						CT+ 180.2	CT+ 180.2	JA 180.2	JA 180.2			
+			180.3	Shit happens when one is a kid						CT+ 180.3	CT+ 180.3	IN 180.3	IN 180.3			
+"A: Well I don’t get it for that but %um so then dad, dad says now why {breath} don’t you want to go to &Des &Moines and I said because I don’t.  "			181.1	The A and B's dad asked A why A doesn't want to go to Des Moines						CT+ 181.1	CT+ 181.1	JA 181.1	JA 181.1			
+			181.2	A doesn't want to go to Des Moines						CT+ 181.2	CT+ 181.2	IN 181.2	IN 181.2			
+			181.3	A said that because A doesn't want to go to Des Moines						CT+ 181.3	CT+ 181.3	JA 181.3	JA 181.3			
+			181.4	A doesn't want to go to Des Moines						CT+ 181.4	CT+ 181.4	JA 181.4	JA 181.4			
+A: I said I thought we’d already been through this cause I already told them I didn’t want to go to &Des M&oines.  			182.1	A said A thought A and A and B's mom and dad have already been through this because A already told A and B's mom and dad A didn't want A to go to Des Moines						CT+ 182.1	CT+ 182.1	JA 182.1	JA 182.1			
+			182.2	A thought A and A and B's mom and dad have already been through this because A already told A and B's mom and dad A didn't want A to go to Des Moines						CT+ 182.2	CT+ 182.2	JA 182.2	JA 182.2			
+			182.3	A thought A and A and B's mom and dad have already been through this						CT+ 182.3	CT+ 182.3	JA 182.3	JA 182.3			
+			182.4	A already told A and B's mom and dad A didn't want A to go to Des Moines						CT+ 182.4	CT+ 182.4	JA 182.4	JA 182.4			
+			182.5	A didn't want A to go to Des Moines						CT+ 182.5	CT+ 182.5	IN 182.5	IN 182.5			
+"A: And he goes {breath} well then we’ll drive to &Omaha and pick up sh- %um &Ryan {breath} and, and then %uh we’ll bring him back {breath} and then we’ll %uh bring him back home to &Omaha.  And I said {breath}  "			183.1	A and B's dad said that A and B's mom and dad will drive to Omaha and pick up Ryan and then bring Ryan back home to Omaha						CT+ 183.1	CT+ 183.1	JA 183.1	JA 183.1			
+			183.2	A and B's mom and dad will drive to Omaha						CT- 183.2	CT- 183.2	RT 183.2	RT 183.2			
+			183.3	A and B's mom and dad will pick up Ryan 						CT- 183.3	CT- 183.3	RT 183.3	RT 183.3			
+			183.4	A and B's mom and dad will bring Ran back home to Omaha						CT- 183.4	CT- 183.4	RT 183.4	RT 183.4			
+B: %mm.  			184													
+A: oh so you’re not and the whole thing is that I won’t let them stay in my house anymore.  			185	A won't let A and B's mom and dad stay in A's house anymore						CT+ 185	CT+ 185	JA 185	JA 185			
+A: [background noise] Because I can’t have that twenty-four hour {breath} bitching and negative. I can’t. I can’t live like that.  			186.1	A can't have that twenty-four hour bitching and negative						CT+ 186.1	CT+ 186.1	JA 186.1	JA 186.1			
+			186.2	A can't live with twenty-four hour bitching						CT+ 186.2	CT+ 186.2	JA 186.2	JA 186.2			
+B: yeah. 			187													
+B: yeah.  			188													
+A: You know what I’m saying? 			189.1	A asks B if B understands A						CT+ 189.1	CT+ 189.1	JA 189.1	JA 189.1			
+			189.2	B understands A	 → 190 CT+		 → 190 JA	 → 190 CT+		PS 189.2	CT+ 189.2					
+B: mhm.  			190							CT+ 189.2		JA 189.2	JA 189.2			
+A: It’s just twenty-four hours.  			191	A and B's mom and dad's bitching is just twenty-four hours						CT+ 191	CT+ 191	JA 191	JA 191			
+"A: So %um I said so, so let me understand this so you’re coming, you’re picking him up and you’re leaving? You’re not staying? Right.  And I go %hm well it sounds like we’re back to the same old "			192.1	"A asked A and B's mom and dad if A and B's mom and dad  are coming, picking Ryan up, and leaving"						CT+ 192.1	CT+ 192.1	JA 192.1	JA 192.1			
+			192.2	"A and B's mom and dad are coming, picking Ryan up, and leaving"						CT- 192.2	CT- 192.2	RT 192.2	RT 192.2			
+A: argument. {breath} And %um I said so you’re going to punish me because you’re offended that I don’t particularly want you to stay here in my home.  			193.1	It sounds like A and A and B's mom and dad are going back to the same old argument						CT+ 193.1	CT+ 193.1	JA 193.1	JA 193.1			
+			193.2	A and A and B's mom and dad are going back to the same old argument						CT+ 193.2	CT+ 193.2	JA 193.2	JA 193.2			
+			193.3	A told A and B's mom and dad that A and B's mom and dad are going to punish A because A and B's mom and dad are offended that A doesn't particularly want A and B's mom and dad to stay in A's home						CT+ 193.3	CT+ 193.3	JA 193.3	JA 193.3			
+			193.4	A and B's mom and dad are going to punish A because A and B's mom and dad are offended that A doesn't particularly want A and B's mom and dad to stay in A's home						CT+ 193.4	CT+ 193.4	JA 193.4	JA 193.4			
+			193.5	A and B's mom and dad are going to punish A						CT+ 193.5	CT+ 193.5	JA 193.5	JA 193.5			
+			193.6	A and B's mom and dad are offended that A doesn't particularly want A and B's mom and dad to stay in A's home						CT+ 193.6	CT+ 193.6	JA 193.6	JA 193.6			
+			193.7	A doesn't particularly want A and B's mom and dad to stay in A's home						CT+ 193.7	CT+ 193.7	JA 193.7	JA 193.7			
+			193.8	A and B's mom and dad will stay in A's home						CT- 193.8	CT- 193.8	RT 193.8	RT 193.8			
+A: {breath} Well no it’s not punishing. [[imitating bitterly]] I said well then what do you call it.  I mean I just came out and said it.  			194.1	A and B's dad said A and B's mom and dad are not punishing A						CT+ 194.1	CT+ 194.1	JA 194.1	JA 194.1			
+			194.2	A and B's mom and dad are not punishing A						CT- 194.2	CT- 194.2	RT 194.2	RT 194.2			
+			194.3	A asked A and B's mom and dad what A and B's mom and dad call this behavior						CT+ 194.3	CT+ 194.3	JA 194.3	JA 194.3			
+			194.4	A and B's mom and dad call this behavior somethign else than punishing A						CT+ 194.4	CT+ 194.4	IN 194.4	IN 194.4			
+			194.5	A just came out						CT+ 194.5	CT+ 194.5	JA 194.5	JA 194.5			
+			194.6	A said A asked A and B's mom and dad what A and B's mom and dad call this behavior						CT+ 194.6	CT+ 194.6	JA 194.6	JA 194.6			
+B: yeah.  			195													
+A: No you just don’t un- [[mocking imitation]] I said no dad. I think it’s you don’t understand. You don’t understand how you affect my family.  You and mom.  			196.1	A and B's dad said that A doesn't understand						CT+ 196.1	CT+ 196.1	JA 196.1	JA 196.1			
+			196.2	A doesn't understand						CT- 196.2	CT- 196.2	RT 196.2	RT 196.2			
+			196.3	A said that A and B's dad doesn't understand						CT+ 196.3	CT+ 196.3	JA 196.3	JA 196.3			
+			196.4	A and B's dad doesn't understand						CT+ 196.4	CT+ 196.4	JA 196.4	JA 196.4			
+			196.5	A and B's dad doesn't understand how A and B's mom and dad affect A's family						CT+ 196.5	CT+ 196.5	JA 196.5	JA 196.5			
+			196.6	A and B's mom and dad affect A's family						CT+ 196.6	CT+ 196.6	IN 196.6	IN 196.6			
+A: And and more importantly how you affect me. {breath} And he said that’s your problem. You think too much about yourself. [[imitating father in previous nine words]] 			197.1	"More importantly, A and B's dad doesn't understand how A and B's mom and dad affect A"						CT+ 197.1	CT+ 197.1	JA 197.1	JA 197.1			
+			197.2	A and B's mom and dad affect A						CT+ 197.2	CT+ 197.2	IN 197.2	IN 197.2			
+			197.3	A and B's dad said A and B's mom and dad affecting A and A's familiy is A's problem						CT+ 197.3	CT+ 197.3	JA 197.3	JA 197.3			
+			197.4	A and B's mom and dad affecting A and A's familiy is A's problem						CT- 197.4	CT- 197.4	RT 197.4	RT 197.4			
+A: {sniff} And I said goodbye dad.  			198	"And A said ""goodbye dad"""						CT+ 198	CT+ 198	JA 198	JA 198			
+B: %hm.  			199													
+A: And I hung the phone up. {breath} 			200	And A hung up the phone						CT+ 200	CT+ 200	JA 200	JA 200			
+B: Good for you.  			201	It's good for A that A hung up the phone						CT+ 201	CT+ 201	JA 201	JA 201			
+"A: {breath} Why does, why does our life have to be like this? I don’t get it. {breath} "			202.1	A asks B why A and B's life have to be so difficult with A and B's mom and dad						CT+ 202.1	CT+ 202.1	JA 202.1	JA 202.1			
+			202.2	A and B's life is so difficult with A and B's mom and dad						CT+ 202.2	CT+ 202.2	IN 202.2	IN 202.2			
+			202.3	A doesn't get why A and B's life has to be so difficult with A and B's mom and dad						CT+ 202.3	CT+ 202.3	JA 202.3	JA 202.3			
+B: Well they’re the ones who created it. They’re n- 			203	A and B's mom and dad are the ones who created A and B's life						CT+ 203	CT+ 203	JA 203	JA 203			
+A: Why do they have to be like that? 			204.1	A asks B why A and B's parents have to be so difficult to deal with						CT+ 204.1	CT+ 204.1	JA 204.1	JA 204.1			
+			204.2	A and B's parents are so difficult to deal with			 → 205 IN	 → 205 CT-		CT+ 204.2	CT+ 204.2	IN 204.2	IN 204.2			
+B: I don’t know and 			205	B doesn't know why A and B's parents are so difficult to deal with						CT+ 205	CT+ 205	"JA 205,IN 204.2"	"JA 205,IN 204.2"			
+A: Dad [distortion] You know what I said to dad when he met me at the %um when he came up to our door and said {breath} &Kara’s not coming cause she doesn’t like y- you know what I said to him 			206.1	A asks B if B knows what A said to A and B's dad when A and B's dad came up to A's family's door and said Kara is not coming because Kara doesn't like what A told Kara						CT+ 206.1	CT+ 206.1	JA 206.1	JA 206.1			
+			206.2	B knows what A said to A and B's dad when A and B's dad came up to A's family's door and said Kara is not coming because Kara doesn't like what A told Kara						CT- 206.2	CT- 206.2	RT 206.2	RT 206.2			
+			206.3	A said something to A and B's dad when A and B's dad came up to A's family's door and said Kara is not coming because Kara doesn't like what A told Kara						CT+ 206.3	CT+ 206.3	JA 206.3	JA 206.3			
+			206.4	A and B's dad came up to A's family's door and said Kara is not coming because Kara doesn't like what A told Kara						CT+ 206.4	CT+ 206.4	JA 206.4	JA 206.4			
+B: What? 			207	B doesn't know what A said to A and B's dad when A and B's dad came up to A's family's door and said Kara is not coming because Kara doesn't like what A told Kara						CT+ 207	CT+ 207	"JA 207,IN 146.4,IN 148.3"	"JA 207,IN 146.4,IN 148.3"			
+"A: I said I hope that my, my sons never treat one another like this.  "			208.1	A said A hopes that A's sons never treat one another like A and B's mom and dad treat A						CT+ 208.1	CT+ 208.1	JA 208.1	JA 208.1			
+			208.2	A hopes that A's sons never treat one another like A and B's mom and dad treat A						CT+ 208.2	CT+ 208.2	JA 208.2	JA 208.2			
+			208.3	A's sons never treat one another like A and B's mom and dad treat A						PS 208.3	PS 208.3	JA 208.3	JA 208.3			
+B: True. I don’t think my kids will be that way.  			209.1	B doesn't think B's kids will be like A and B's mom and dad						CT+ 209.1	CT+ 209.1	JA 209.1	JA 209.1			
+			209.2	B's kids will be like A and B's mom and dad						PS 209.2	PS 209.2	JA 209.2	JA 209.2			
+A: And he just looked at me. [channel noise] 			210	A and B's dad just looked at A						CT+ 210	CT+ 210	JA 210	JA 210			
+B: Well you’ve got a point but 			211	A's got a point						CT+ 211	CT+ 211	JA 211	JA 211			
